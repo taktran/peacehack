@@ -2,6 +2,13 @@
 
 A light hack for [#peacehack](http://talkingpeacefestival.org/events/event/peacehack/).
 
+Using data from [crisis.net](http://crisis.net/).
+
+## Resources
+
+* [crisis.net api code](https://github.com/ushahidi/crisisnet)
+* [socket.io](http://socket.io/) - for real time communication
+
 ## Development
 
 Install pre-requisites
