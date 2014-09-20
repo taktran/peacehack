@@ -99,4 +99,4 @@ Ran this once, for heroku with secrets:
 
     heroku config:add ENV=production --app peacehack
     heroku config:add API_KEY=spark_api_key --app peacehack
-    heroku config:add SPARK_ID=spark_api_key --app peacehack
+    heroku config:add SPARK_ID=spark_device_id --app peacehack
