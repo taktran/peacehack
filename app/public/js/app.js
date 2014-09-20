@@ -63,6 +63,9 @@ angular.module('app').controller('ColorPickerCtrl', ["$scope", "$timeout", "apiS
 
   $scope.randomColor = function() {
     apiService.randomLight(1);
+    colorHelper.getColor("1").then(function(color) {
+      $scope.settings.light1 = color;
+    });
   };
 
   $timeout(function() {
