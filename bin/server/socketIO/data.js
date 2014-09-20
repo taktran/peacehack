@@ -32,8 +32,8 @@ module.exports = function(root) {
     "london"
   ];
 
-  dataFilePromiseMappings = {};
-  var dataFilePromises = _.each(dataFileNames, function(name) {
+  var dataFilePromiseMappings = {};
+  _.each(dataFileNames, function(name) {
     dataFilePromiseMappings[name] = getJson(path.join(root, "/data/" + name + ".json"));
   });
 

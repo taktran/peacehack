@@ -12,6 +12,8 @@
     <div class="content type-{{ currentMsgType.type1 }}">
       {{ currentMsg[currentMsgType.type1].msg.content }}
     </div>
+
+    <div class="sentiment">{{ currentMsg[currentMsgType.type1].sentiment.score }}</div>
   </div>
 
   <div class="type type-2">
@@ -27,5 +29,7 @@
     <div class="content type-{{ currentMsgType.type2 }}">
       {{ currentMsg[currentMsgType.type2].msg.content }}
     </div>
+
+    <div class="sentiment">{{ currentMsg[currentMsgType.type2].sentiment.score }}</div>
   </div>
 </div>

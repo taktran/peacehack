@@ -1,6 +1,7 @@
 var SocketIO = require('socket.io');
 var _ = require('lodash');
 var spark = require('../spark');
+var sentiment = require('sentiment');
 
 var MIN_DELAY_TIME = 3 * 1000; // 10s
 var MAX_DELAY_TIME = 10 * 1000; // 10s
@@ -14,10 +15,13 @@ function randomColor(lightId) {
 
 function sendMessage(io, message, type, index) {
   var msgTitle = 'msg:' + type;
+  var sentimentVal = sentiment(message.content);
+
   io.emit(msgTitle, {
     msg: message,
     type: type,
-    msgIndex: index
+    msgIndex: index,
+    sentiment: sentimentVal
   });
 
   if (type === "war") {
