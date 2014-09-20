@@ -12,7 +12,14 @@ angular.module('app').config(function(
     .state('home', {
       templateUrl: 'components/home/templates/home.html',
       url: '/',
-      controller: 'HomeCtrl'
+      controller: 'HomeCtrl',
+      resolve: {
+        light1Color: function(
+          colorHelper
+        ) {
+          return colorHelper.getColor("1");
+        }
+      }
     }
   );
 });

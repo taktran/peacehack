@@ -3,8 +3,35 @@
 /**
  * Color helper methods
  */
-angular.module('app').factory('colorHelper', function() {
+angular.module('app').factory('colorHelper', function(
+  $q,
+  $log,
+  apiService
+) {
   var colorHelper = {};
+
+  // Color to use when color calls fail
+  var fallbackColor = "rgb(0, 0, 0)";
+
+  /**
+   * Get light color using api
+   *
+   * @param  {String} lightId
+   * @return {Promise} Promise of the light colour
+   */
+  colorHelper.getColor = function(lightId) {
+    var deferred = $q.defer();
+
+    apiService.currentState(lightId).then(function(resp) {
+      var color = colorHelper.objectToRGB(resp.data.message);
+      deferred.resolve(color);
+    }).catch(function(error) {
+      $log.log("Can't get light " + lightId, error);
+      deferred.resolve(fallbackColor);
+    });
+
+    return deferred.promise;
+  };
 
   /**
    * Convert color object to rgb string

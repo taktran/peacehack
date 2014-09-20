@@ -65,8 +65,35 @@ angular.module('app').controller('ColorPickerCtrl', ["$scope", "$timeout", "apiS
 /**
  * Color helper methods
  */
-angular.module('app').factory('colorHelper', function() {
+angular.module('app').factory('colorHelper', ["$q", "$log", "apiService", function(
+  $q,
+  $log,
+  apiService
+) {
   var colorHelper = {};
+
+  // Color to use when color calls fail
+  var fallbackColor = "rgb(0, 0, 0)";
+
+  /**
+   * Get light color using api
+   *
+   * @param  {String} lightId
+   * @return {Promise} Promise of the light colour
+   */
+  colorHelper.getColor = function(lightId) {
+    var deferred = $q.defer();
+
+    apiService.currentState(lightId).then(function(resp) {
+      var color = colorHelper.objectToRGB(resp.data.message);
+      deferred.resolve(color);
+    }).catch(function(error) {
+      $log.log("Can't get light " + lightId, error);
+      deferred.resolve(fallbackColor);
+    });
+
+    return deferred.promise;
+  };
 
   /**
    * Convert color object to rgb string
@@ -113,42 +140,23 @@ angular.module('app').factory('colorHelper', function() {
 
   return colorHelper;
 
-});
+}]);
 "use strict";
 
 angular.module('app').config(["$stateProvider", "$urlRouterProvider", function(
   $stateProvider,
   $urlRouterProvider
 ) {
-  // Color to use when color calls fail
-  var fallbackColor = "rgb(0, 0, 0)";
-
-  function getLightColor(lightId, $q, apiService, colorHelper) {
-    var deferred = $q.defer();
-
-    apiService.currentState(lightId).then(function(resp) {
-      var color = colorHelper.objectToRGB(resp.data.message);
-      deferred.resolve(color);
-    }).catch(function(error) {
-      console.log("Can't get light " + lightId, error);
-      deferred.resolve(fallbackColor);
-    });
-
-    return deferred.promise;
-  }
-
   $stateProvider
     .state('colorPicker', {
       templateUrl: 'components/colorPicker/templates/colorPicker.html',
       url: '/admin',
       controller: 'ColorPickerCtrl',
       resolve: {
-        light1Color: ["$q", "apiService", "colorHelper", function(
-          $q,
-          apiService,
+        light1Color: ["colorHelper", function(
           colorHelper
         ) {
-          return getLightColor("1", $q, apiService, colorHelper);
+          return colorHelper.getColor("1");
         }]
       }
     }
@@ -305,11 +313,15 @@ angular.module('app').factory('envService', ["$window", "ENV_OPTIONS", "currentE
 }]);
 "use strict";
 
-angular.module('app').controller('HomeCtrl', ["$scope", "$timeout", function(
+angular.module('app').controller('HomeCtrl', ["$scope", "$timeout", "light1Color", function(
   $scope,
-  $timeout
-) {
+  $timeout,
 
+  light1Color
+) {
+  $scope.light1 = {
+    color: light1Color
+  };
 }]);
 "use strict";
 
@@ -325,10 +337,17 @@ angular.module('app').config(["$stateProvider", "$urlRouterProvider", function(
     .state('home', {
       templateUrl: 'components/home/templates/home.html',
       url: '/',
-      controller: 'HomeCtrl'
+      controller: 'HomeCtrl',
+      resolve: {
+        light1Color: ["colorHelper", function(
+          colorHelper
+        ) {
+          return colorHelper.getColor("1");
+        }]
+      }
     }
   );
 }]);
 angular.module("app").run(["$templateCache", function($templateCache) {$templateCache.put("components/colorPicker/templates/colorPicker.html","<div class=\"color-picker-page\">\n  <h2>Administration</h2>\n  <nav>\n    <a ui-sref=\"home\">Home</a>\n  </nav>\n\n  <div class=\"light-container\">\n    <h2>Light 1\n      <span class=\"color-display\">{{ settings.light1 }}</span></h2>\n\n    <spectrum-colorpicker\n      ng-model=\"settings.light1\"\n      options=\"{ containerClassName: \'color-picker-1\', replacerClassName: \'color-picker-1-selector\' }\"\n      format=\"\'rgb\'\"></spectrum-colorpicker>\n  </div>\n</div>");
-$templateCache.put("components/home/templates/home.html","<div>Home</div>");}]);
+$templateCache.put("components/home/templates/home.html","<div>{{ light1.color }}</div>");}]);
 //# sourceMappingURL=app.js.map
