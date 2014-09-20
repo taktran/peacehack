@@ -40,18 +40,16 @@ angular.module('app').factory('apiService', ["$http", "CONFIG", "envService", fu
 
 "use strict";
 
-angular.module('app').controller('ColorPickerCtrl', ["$scope", "$timeout", "apiService", "colorHelper", "light1Color", "light2Color", function(
+angular.module('app').controller('ColorPickerCtrl', ["$scope", "$timeout", "apiService", "colorHelper", "light1Color", function(
   $scope,
   $timeout,
   apiService,
   colorHelper,
 
-  light1Color,
-  light2Color
+  light1Color
 ) {
   $scope.settings = {
-    light1: light1Color,
-    light2: light2Color
+    light1: light1Color
   };
 
   $timeout(function() {
@@ -59,12 +57,6 @@ angular.module('app').controller('ColorPickerCtrl', ["$scope", "$timeout", "apiS
       var color = colorHelper.rgbToObject($scope.settings.light1);
 
       apiService.updateLight(1, color.r, color.g, color.b);
-    });
-
-    $(".color-picker-2 .sp-choose").click(function() {
-      var color = colorHelper.rgbToObject($scope.settings.light2);
-
-      apiService.updateLight(2, color.r, color.g, color.b);
     });
   });
 }]);
@@ -160,13 +152,6 @@ angular.module('app').config(["$stateProvider", "$urlRouterProvider", function(
           colorHelper
         ) {
           return getLightColor("1", $q, apiService, colorHelper);
-        }],
-        light2Color: ["$q", "apiService", "colorHelper", function(
-          $q,
-          apiService,
-          colorHelper
-        ) {
-          return getLightColor("2", $q, apiService, colorHelper);
         }]
       }
     }

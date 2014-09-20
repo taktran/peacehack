@@ -36,13 +36,6 @@ angular.module('app').config(function(
           colorHelper
         ) {
           return getLightColor("1", $q, apiService, colorHelper);
-        },
-        light2Color: function(
-          $q,
-          apiService,
-          colorHelper
-        ) {
-          return getLightColor("2", $q, apiService, colorHelper);
         }
       }
     }
