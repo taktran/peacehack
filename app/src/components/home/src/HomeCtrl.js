@@ -4,6 +4,7 @@ angular.module('app').controller('HomeCtrl', function(
   $scope,
   $timeout,
   $log,
+  CONFIG,
 
   light1Color
 ) {
@@ -18,10 +19,7 @@ angular.module('app').controller('HomeCtrl', function(
   var socket = io(socketUrl);
 
   $scope.currentMsg = {};
-  $scope.msgTypes = [
-    'war',
-    'peace'
-  ];
+  $scope.msgTypes = CONFIG.msgTypes;
 
   // Set up sockets for the different message
   // types

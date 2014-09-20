@@ -49,68 +49,6 @@ angular.module('app').factory('apiService', ["$http", "CONFIG", "envService", fu
 
 "use strict";
 
-angular.module('app').controller('HomeCtrl', ["$scope", "$timeout", "$log", "light1Color", function(
-  $scope,
-  $timeout,
-  $log,
-
-  light1Color
-) {
-  $scope.light1 = {
-    color: light1Color
-  };
-
-  $log.log($scope.light1);
-
-  // TODO: Integrate with backend server
-  var socketUrl = "http://localhost:8000";
-  var socket = io(socketUrl);
-
-  $scope.currentMsg = {};
-  $scope.msgTypes = [
-    'war',
-    'peace'
-  ];
-
-  // Set up sockets for the different message
-  // types
-  _.each($scope.msgTypes, function(type) {
-    var msgTitle = 'msg:' + type;
-    socket.on(msgTitle, function(msg) {
-      $log.log(msg);
-      $timeout(function() {
-        $scope.currentMsg[type] = msg;
-      });
-    });
-  });
-}]);
-"use strict";
-
-angular.module('app').config(["$stateProvider", "$urlRouterProvider", function(
-  $stateProvider,
-  $urlRouterProvider
-) {
-
-  // Redirect to root if unknown url
-  $urlRouterProvider.otherwise('/');
-
-  $stateProvider
-    .state('home', {
-      templateUrl: 'components/home/templates/home.html',
-      url: '/',
-      controller: 'HomeCtrl',
-      resolve: {
-        light1Color: ["colorHelper", function(
-          colorHelper
-        ) {
-          return colorHelper.getColor("1");
-        }]
-      }
-    }
-  );
-}]);
-"use strict";
-
 angular.module('app').controller('ColorPickerCtrl', ["$scope", "$timeout", "apiService", "colorHelper", "light1Color", function(
   $scope,
   $timeout,
@@ -296,7 +234,12 @@ angular.module('app')
    * Timeout for getting the state of a device
    * @type {Number}
    */
-  getStateTimeout: 1000
+  getStateTimeout: 1000,
+
+  msgTypes: [
+    'war',
+    'peace'
+  ]
 });
 
 /**
@@ -389,6 +332,66 @@ angular.module('app').factory('envService', ["$window", "ENV_OPTIONS", "currentE
     }
   };
 }]);
-angular.module("app").run(["$templateCache", function($templateCache) {$templateCache.put("components/home/templates/home.html","<div class=\"messages\">\n  <div ng-repeat=\"type in msgTypes\">\n    <h2>{{ type }}</h2>\n    <div class=\"type-{{ type }}\">\n      {{ currentMsg[type].msg.content }}\n    </div>\n  </div>\n</div>");
-$templateCache.put("components/colorPicker/templates/colorPicker.html","<div class=\"color-picker-page\">\n  <h2>Administration</h2>\n  <nav>\n    <a ui-sref=\"home\">Home</a>\n  </nav>\n\n  <div class=\"light-container\">\n    <h2>Light 1\n    <span class=\"color-display\">{{ settings.light1 }}</span></h2>\n\n    <button ng-click=\"randomColor()\"\n      class=\"random-button\">Random color</button>\n\n    <spectrum-colorpicker\n      ng-model=\"settings.light1\"\n      options=\"{ containerClassName: \'color-picker-1\', replacerClassName: \'color-picker-1-selector\' }\"\n      format=\"\'rgb\'\"></spectrum-colorpicker>\n  </div>\n</div>");}]);
+"use strict";
+
+angular.module('app').controller('HomeCtrl', ["$scope", "$timeout", "$log", "CONFIG", "light1Color", function(
+  $scope,
+  $timeout,
+  $log,
+  CONFIG,
+
+  light1Color
+) {
+  $scope.light1 = {
+    color: light1Color
+  };
+
+  $log.log($scope.light1);
+
+  // TODO: Integrate with backend server
+  var socketUrl = "http://localhost:8000";
+  var socket = io(socketUrl);
+
+  $scope.currentMsg = {};
+  $scope.msgTypes = CONFIG.msgTypes;
+
+  // Set up sockets for the different message
+  // types
+  _.each($scope.msgTypes, function(type) {
+    var msgTitle = 'msg:' + type;
+    socket.on(msgTitle, function(msg) {
+      $log.log(msg);
+      $timeout(function() {
+        $scope.currentMsg[type] = msg;
+      });
+    });
+  });
+}]);
+"use strict";
+
+angular.module('app').config(["$stateProvider", "$urlRouterProvider", function(
+  $stateProvider,
+  $urlRouterProvider
+) {
+
+  // Redirect to root if unknown url
+  $urlRouterProvider.otherwise('/');
+
+  $stateProvider
+    .state('home', {
+      templateUrl: 'components/home/templates/home.html',
+      url: '/',
+      controller: 'HomeCtrl',
+      resolve: {
+        light1Color: ["colorHelper", function(
+          colorHelper
+        ) {
+          return colorHelper.getColor("1");
+        }]
+      }
+    }
+  );
+}]);
+angular.module("app").run(["$templateCache", function($templateCache) {$templateCache.put("components/colorPicker/templates/colorPicker.html","<div class=\"color-picker-page\">\n  <h2>Administration</h2>\n  <nav>\n    <a ui-sref=\"home\">Home</a>\n  </nav>\n\n  <div class=\"light-container\">\n    <h2>Light 1\n    <span class=\"color-display\">{{ settings.light1 }}</span></h2>\n\n    <button ng-click=\"randomColor()\"\n      class=\"random-button\">Random color</button>\n\n    <spectrum-colorpicker\n      ng-model=\"settings.light1\"\n      options=\"{ containerClassName: \'color-picker-1\', replacerClassName: \'color-picker-1-selector\' }\"\n      format=\"\'rgb\'\"></spectrum-colorpicker>\n  </div>\n</div>");
+$templateCache.put("components/home/templates/home.html","<div class=\"messages\">\n  <div ng-repeat=\"type in msgTypes\">\n    <h2>{{ type }}</h2>\n    <div class=\"type-{{ type }}\">\n      {{ currentMsg[type].msg.content }}\n    </div>\n  </div>\n</div>");}]);
 //# sourceMappingURL=app.js.map

@@ -54,5 +54,10 @@ angular.module('app')
    * Timeout for getting the state of a device
    * @type {Number}
    */
-  getStateTimeout: 1000
+  getStateTimeout: 1000,
+
+  msgTypes: [
+    'war',
+    'peace'
+  ]
 });
