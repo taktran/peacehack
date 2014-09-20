@@ -24,6 +24,10 @@ Run the backend server
 
     npm run dev
 
+A hack for now (TODO: merge with backend server), but run the socket server (for real time communication)
+
+    npm run socket
+
 ### Spark core
 
 Install pre-requisites

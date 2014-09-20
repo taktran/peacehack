@@ -44,6 +44,7 @@
     "xit": true,
 
     "expect": true,
-    "beforeEach": true
+    "beforeEach": true,
+    "io": true
   }
 }
