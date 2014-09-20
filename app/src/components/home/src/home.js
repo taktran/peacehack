@@ -11,7 +11,7 @@ angular.module('app').config(function(
   $stateProvider
     .state('home', {
       templateUrl: 'components/home/templates/home.html',
-      url: '/',
+      url: '/?view',
       controller: 'HomeCtrl',
       resolve: {
         light1Color: function(
@@ -20,6 +20,17 @@ angular.module('app').config(function(
           return colorHelper.getColor("1");
         }
       }
-    }
-  );
+    })
+    .state('homeAll', {
+      templateUrl: 'components/home/templates/home-all.html',
+      url: '/all',
+      controller: 'HomeCtrl',
+      resolve: {
+        light1Color: function(
+          colorHelper
+        ) {
+          return colorHelper.getColor("1");
+        }
+      }
+    });
 });

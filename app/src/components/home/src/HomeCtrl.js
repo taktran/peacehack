@@ -20,6 +20,17 @@ angular.module('app').controller('HomeCtrl', function(
 
   $scope.currentMsg = {};
   $scope.msgTypes = CONFIG.msgTypes;
+  $scope.currentMsgType = {
+    type1: $scope.msgTypes[0],
+    type2: $scope.msgTypes[1],
+  };
+
+  $scope.$watch('currentMsgType', function() {
+    // Hide all
+    _.each($scope.show, function(val, key) {
+      $scope.show[key] = false;
+    });
+  }, true);
 
   // Set up sockets for the different message
   // types

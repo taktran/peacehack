@@ -1,8 +1,31 @@
 <div class="messages">
-  <div ng-repeat="type in msgTypes">
-    <h2>{{ type }}</h2>
-    <div class="type-{{ type }}">
-      {{ currentMsg[type].msg.content }}
+  <div class="type type-1">
+    <h2 ng-click="show['type1'] = !show['type1']"
+      ng-hide="show['type1']">{{ currentMsgType.type1 }}</h2>
+    <select ng-show="show['type1']"
+      ng-blur="show['type1'] = false"
+      ng-model="currentMsgType.type1"
+      name="currentMsgType.type1"
+      ng-options="type for type in msgTypes">
+    </select>
+
+    <div class="content type-{{ currentMsgType.type1 }}">
+      {{ currentMsg[currentMsgType.type1].msg.content }}
+    </div>
+  </div>
+
+  <div class="type type-2">
+    <h2 ng-click="show['type2'] = !show['type2']"
+      ng-hide="show['type2']">{{ currentMsgType.type2 }}</h2>
+    <select ng-show="show['type2']"
+    ng-blur="show['type2'] = false"
+      ng-model="currentMsgType.type2"
+      name="currentMsgType.type2"
+      ng-options="type for type in msgTypes">
+    </select>
+
+    <div class="content type-{{ currentMsgType.type2 }}">
+      {{ currentMsg[currentMsgType.type2].msg.content }}
     </div>
   </div>
 </div>

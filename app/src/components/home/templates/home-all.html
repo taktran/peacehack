@@ -1,0 +1,8 @@
+<div class="messages">
+  <div ng-repeat="type in msgTypes">
+    <h2>{{ type }}</h2>
+    <div class="type-{{ type }}">
+      {{ currentMsg[type].msg.content }}
+    </div>
+  </div>
+</div>

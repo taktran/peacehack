@@ -1,5 +1,28 @@
 .messages {
+  width: 100%;
+
+  .type {
+    width: 50%;
+    float: left;
+  }
+
   h2 {
     text-transform: capitalize;
+    cursor: pointer;
+    text-align: center;
+    width: 100%;
+    margin: 20px 0;
+
+    float: left;
+  }
+
+  select {
+    margin: 20px auto 20px;
+    display: block;
+  }
+
+  .content {
+    clear: both;
+    padding: 20px;
   }
 }
