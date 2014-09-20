@@ -6,8 +6,6 @@ var MIN_DELAY_TIME = 3 * 1000; // 10s
 var MAX_DELAY_TIME = 10 * 1000; // 10s
 
 function randomColor(lightId) {
-  console.log("random", lightId);
-
   return spark.randomLight(lightId).then(function(data) {
   }, function(e) {
     console.error("random error", e);
@@ -33,7 +31,6 @@ function trickleData(io, data, type) {
   var currentIndex = 0;
   var sendMessageWithDelay = function() {
     sendMessage(io, data[currentIndex], type, currentIndex);
-
 
     var delay = _.random(MIN_DELAY_TIME, MAX_DELAY_TIME);
     // Send message again after delay

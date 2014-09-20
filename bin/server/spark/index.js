@@ -20,11 +20,13 @@ var HTTP_OK = 200;
 var secretsSource = process.env.NODE_ENV === "production" ? process.env : require("../../../config/_SECRETS");
 var SECRETS = {
   API_KEY: secretsSource.API_KEY,
-  SPARK_ID: secretsSource.SPARK_ID
+  SPARK_1_ID: secretsSource.SPARK_1_ID,
+  SPARK_2_ID: secretsSource.SPARK_2_ID
 };
 
 var lightIdDeviceKey = {
-  "1": SECRETS.SPARK_ID
+  "1": SECRETS.SPARK_1_ID,
+  "2": SECRETS.SPARK_2_ID
 };
 
 

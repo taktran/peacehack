@@ -86,8 +86,8 @@ On local dev, create a `config/_secrets.js` file in the format
     module.exports = {
       "API_KEY": "some_key",
 
-      "FONDANT_KEY": "some_key",
-      "MOCHI_KEY": "some_key"
+      "SPARK_1_KEY": "some_key",
+      "SPARK_2_KEY": "some_key"
     };
 
 These are set up on production with environment variables eg,
@@ -110,4 +110,5 @@ Ran this once, for heroku with secrets:
 
     heroku config:add ENV=production --app peacehack
     heroku config:add API_KEY=spark_api_key --app peacehack
-    heroku config:add SPARK_ID=spark_device_id --app peacehack
+    heroku config:add SPARK_1_ID=spark_device_id --app peacehack
+    heroku config:add SPARK_2_ID=spark_device_id --app peacehack
