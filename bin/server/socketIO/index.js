@@ -37,7 +37,7 @@ function trickleData(io, data, type) {
     _.delay(sendMessageWithDelay, delay);
 
     // Loop index around when it's at the end
-    currentIndex = currentIndex <= data.length ? currentIndex + 1 : 0;
+    currentIndex = currentIndex < data.length - 1 ? currentIndex + 1 : 0;
   };
 
   sendMessageWithDelay();
