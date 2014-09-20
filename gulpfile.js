@@ -59,6 +59,7 @@ var jsTestFiles = [
 var vendorFiles = [
   path.vendor + "/jquery/jquery.min.js",
   path.vendor + "/lodash/dist/lodash.min.js",
+  path.vendor + "/socket.io/socket.io.js",
   path.vendor + "/angular/angular.min.js",
   path.vendor + "/angular-ui-router/release/angular-ui-router.min.js",
   path.vendor + "/spectrum/spectrum.js",

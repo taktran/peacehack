@@ -3,7 +3,7 @@
 var Hapi = require('hapi');
 var moment = require('moment');
 var _ = require('lodash');
-var SocketIO = require('socket.io');
+var socketIO = require('./socketIO');
 
 require('colors');
 
@@ -58,17 +58,9 @@ server.start(function() {
   var msg = "Server started at: " + server.info.uri;
   var prod = process.env.NODE_ENV === "production" ? " [production]" : "";
 
-  // Add socket io to server variable;
-  var io = SocketIO.listen(server.listener);
-
-  // TODO: Not working with hapi (works in `hapi-socketio.js` though)
-  io.on('connection', function(socket){
-    console.log('a user connected');
-
-    socket.on('disconnect', function(){
-      console.log('user disconnected');
-    });
-  });
+  // TODO: Still doesn't work
+  // Works in hapi-socketio.js though
+  socketIO.start(server);
 
   server.log(["debug"], msg + prod);
 });
