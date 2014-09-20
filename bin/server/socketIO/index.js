@@ -51,6 +51,8 @@ module.exports = {
 
     dataPromises.war.then(function(resp) {
       var data = resp.data;
+      console.log("war data:", data.length);
+
       trickleData(io, data, "war");
     }, function(e) {
       server.log(["error", "data"], e);
@@ -58,6 +60,8 @@ module.exports = {
 
     dataPromises.peace.then(function(resp) {
       var data = resp.data;
+      console.log("peace data:", data.length);
+
       trickleData(io, data, "peace");
     }, function(e) {
       server.log(["error", "data"], e);
