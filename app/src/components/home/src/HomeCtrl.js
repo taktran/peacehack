@@ -11,11 +11,27 @@ angular.module('app').controller('HomeCtrl', function(
     color: light1Color
   };
 
+  $log.log($scope.light1);
+
   // TODO: Integrate with backend server
   var socketUrl = "http://localhost:8000";
   var socket = io(socketUrl);
 
-  socket.on('msg', function(msg){
-    $log.log(msg);
+  $scope.currentMsg = {};
+  $scope.msgTypes = [
+    'war',
+    'peace'
+  ];
+
+  // Set up sockets for the different message
+  // types
+  _.each($scope.msgTypes, function(type) {
+    var msgTitle = 'msg:' + type;
+    socket.on(msgTitle, function(msg) {
+      $log.log(msg);
+      $timeout(function() {
+        $scope.currentMsg[type] = msg;
+      });
+    });
   });
 });

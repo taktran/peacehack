@@ -324,12 +324,28 @@ angular.module('app').controller('HomeCtrl', ["$scope", "$timeout", "$log", "lig
     color: light1Color
   };
 
+  $log.log($scope.light1);
+
   // TODO: Integrate with backend server
   var socketUrl = "http://localhost:8000";
   var socket = io(socketUrl);
 
-  socket.on('msg', function(msg){
-    $log.log(msg);
+  $scope.currentMsg = {};
+  $scope.msgTypes = [
+    'war',
+    'peace'
+  ];
+
+  // Set up sockets for the different message
+  // types
+  _.each($scope.msgTypes, function(type) {
+    var msgTitle = 'msg:' + type;
+    socket.on(msgTitle, function(msg) {
+      $log.log(msg);
+      $timeout(function() {
+        $scope.currentMsg[type] = msg;
+      });
+    });
   });
 }]);
 "use strict";
@@ -358,5 +374,5 @@ angular.module('app').config(["$stateProvider", "$urlRouterProvider", function(
   );
 }]);
 angular.module("app").run(["$templateCache", function($templateCache) {$templateCache.put("components/colorPicker/templates/colorPicker.html","<div class=\"color-picker-page\">\n  <h2>Administration</h2>\n  <nav>\n    <a ui-sref=\"home\">Home</a>\n  </nav>\n\n  <div class=\"light-container\">\n    <h2>Light 1\n      <span class=\"color-display\">{{ settings.light1 }}</span></h2>\n\n    <spectrum-colorpicker\n      ng-model=\"settings.light1\"\n      options=\"{ containerClassName: \'color-picker-1\', replacerClassName: \'color-picker-1-selector\' }\"\n      format=\"\'rgb\'\"></spectrum-colorpicker>\n  </div>\n</div>");
-$templateCache.put("components/home/templates/home.html","<div>{{ light1.color }}</div>");}]);
+$templateCache.put("components/home/templates/home.html","<div class=\"messages\">\n  <div ng-repeat=\"type in msgTypes\">\n    <h2>{{ type }}</h2>\n    <div class=\"type-{{ type }}\">\n      {{ currentMsg[type].msg.content }}\n    </div>\n  </div>\n</div>");}]);
 //# sourceMappingURL=app.js.map

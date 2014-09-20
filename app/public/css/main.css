@@ -551,42 +551,46 @@ See http://bgrins.github.io/spectrum/themes/ for instructions.
   background-position: center;
   background-image: url(data:image/gif;base64,R0lGODlhFAAUAPcAAAAAAJmZmZ2dnZ6enqKioqOjo6SkpKWlpaampqenp6ioqKmpqaqqqqurq/Hx8fLy8vT09PX19ff39/j4+Pn5+fr6+vv7+wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAP8ALAAAAAAUABQAAAihAP9FoPCvoMGDBy08+EdhQAIJCCMybCDAAYUEARBAlFiQQoMABQhKUJBxY0SPICEYHBnggEmDKAuoPMjS5cGYMxHW3IiT478JJA8M/CjTZ0GgLRekNGpwAsYABHIypcAgQMsITDtWJYBR6NSqMico9cqR6tKfY7GeBCuVwlipDNmefAtTrkSzB1RaIAoXodsABiZAEFB06gIBWC1mLVgBa0AAOw==); }
 
-/* line 4, /Users/ttt/Work/Dev/peacehack/peacehack/app/styles/main.scss */
+/* line 2, /Users/ttt/Work/Dev/peacehack/peacehack/app/styles/./_messages */
+.messages h2 {
+  text-transform: capitalize; }
+
+/* line 5, /Users/ttt/Work/Dev/peacehack/peacehack/app/styles/main.scss */
 body {
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
   font-weight: 300; }
 
-/* line 9, /Users/ttt/Work/Dev/peacehack/peacehack/app/styles/main.scss */
+/* line 10, /Users/ttt/Work/Dev/peacehack/peacehack/app/styles/main.scss */
 h1 {
   text-align: center;
   margin-bottom: 0; }
 
-/* line 14, /Users/ttt/Work/Dev/peacehack/peacehack/app/styles/main.scss */
+/* line 15, /Users/ttt/Work/Dev/peacehack/peacehack/app/styles/main.scss */
 .light-container {
   width: 100%;
   float: left; }
-  /* line 18, /Users/ttt/Work/Dev/peacehack/peacehack/app/styles/main.scss */
+  /* line 19, /Users/ttt/Work/Dev/peacehack/peacehack/app/styles/main.scss */
   .light-container h2 {
     text-align: center;
     height: 30px; }
-  /* line 23, /Users/ttt/Work/Dev/peacehack/peacehack/app/styles/main.scss */
+  /* line 24, /Users/ttt/Work/Dev/peacehack/peacehack/app/styles/main.scss */
   .light-container .color-display {
     display: block;
     color: #bbb;
     font-size: 0.7em;
     line-height: 1em; }
-  /* line 30, /Users/ttt/Work/Dev/peacehack/peacehack/app/styles/main.scss */
+  /* line 31, /Users/ttt/Work/Dev/peacehack/peacehack/app/styles/main.scss */
   .light-container .sp-preview {
     width: 99%;
     height: 100px;
     margin: 0;
     padding: 0;
     border: none; }
-  /* line 38, /Users/ttt/Work/Dev/peacehack/peacehack/app/styles/main.scss */
+  /* line 39, /Users/ttt/Work/Dev/peacehack/peacehack/app/styles/main.scss */
   .light-container .sp-replacer {
     width: 100%;
     border: none;
     padding: 0; }
-  /* line 44, /Users/ttt/Work/Dev/peacehack/peacehack/app/styles/main.scss */
+  /* line 45, /Users/ttt/Work/Dev/peacehack/peacehack/app/styles/main.scss */
   .light-container .sp-dd {
     display: none; }

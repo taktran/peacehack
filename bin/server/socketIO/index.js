@@ -4,7 +4,8 @@ var _ = require('lodash');
 var DELAY_TIME = 10 * 1000; // 10s
 
 function sendMessage(io, message, type, index) {
-  io.emit('msg', {
+  var msgTitle = 'msg:' + type;
+  io.emit(msgTitle, {
     msg: message,
     type: type,
     msgIndex: index
