@@ -1,0 +1,1091 @@
+{
+  "total": 2676,
+  "data": [
+    {
+      "remoteID": "507083817371578368",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "kamelhawwash",
+        "remoteID": "232683248",
+        "image": "http://pbs.twimg.com/profile_images/500644194604445696/solqrnia_normal.jpeg",
+        "name": "Kamel Hawwash"
+      },
+      "image": "http://pbs.twimg.com/media/BwmGC4iIAAECvUW.jpg",
+      "tags": [],
+      "publishedAt": "2014-09-03T08:32:57+00:00",
+      "summary": "@haaretzcom #IDF sets up new unit 2fight legal onslaught over #Gaza war\nhttp://t.co/BsRYwhiMMS #I...",
+      "content": "@haaretzcom #IDF sets up new unit 2fight legal onslaught over #Gaza war\nhttp://t.co/BsRYwhiMMS #ICC4Israel #warcrimes http://t.co/1sBZNeDYpo",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T08:33:14.538299",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "London",
+          "authorLocationName": "UK"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "Ux9gLdhdSG6bjPNhQKkhnQ",
+      "createdAt": "2014-09-03T08:31:54.365757"
+    },
+    {
+      "remoteID": "507083623385018368",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "TJArchive",
+        "remoteID": "2196336342",
+        "image": "http://pbs.twimg.com/profile_images/378800000824270618/47e1b4a9193350b112a2f88a42c72cf1_normal.jpeg",
+        "name": "TJ Archive"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-03T08:32:11+00:00",
+      "summary": "Government Under Fire Over Handling Of War http://t.co/0MwSqc4zyZ #EhudOlmert #IDF #Israel #Italy...",
+      "content": "Government Under Fire Over Handling Of War http://t.co/0MwSqc4zyZ #EhudOlmert #IDF #Israel #Italy #LastFriday #Lebanon #UN",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T08:33:15.901136",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "London",
+          "authorLocationName": "London"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "-w9UjeDQRLqATpqFZaurxA",
+      "createdAt": "2014-09-03T08:31:54.435421"
+    },
+    {
+      "remoteID": "507072522555113472",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "dawouda",
+        "remoteID": "123218583",
+        "image": "http://pbs.twimg.com/profile_images/2495022093/gqhsv5n4b5txsstahrln_normal.jpeg",
+        "name": "Dawoud Al-Massri"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-03T07:48:04+00:00",
+      "summary": "((#Netanyahu: #UN should investigate #Hamas' war crimes, not #IDF actions)) WELL-ARTICULATED :)",
+      "content": "((#Netanyahu: #UN should investigate #Hamas' war crimes, not #IDF actions)) WELL-ARTICULATED :)",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:53:21.539675",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": "Gaza Strip"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "CWKqtzmQRAGx6JyTkKC1TQ",
+      "createdAt": "2014-09-03T07:53:09.846153"
+    },
+    {
+      "remoteID": "507058455962587136",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "tags": [
+        {
+          "confidence": 1,
+          "name": "weather"
+        }
+      ],
+      "author": {
+        "username": "MILOisKATE",
+        "remoteID": "354183382",
+        "image": "http://pbs.twimg.com/profile_images/462879276618899457/8vmiv5dV_normal.jpeg",
+        "name": "Here Kitty Kitty"
+      },
+      "publishedAt": "2014-09-03T06:52:11+00:00",
+      "summary": "Shame that FEMA won't be helping HI cuz of #Iselle  Many subdivisions looked like war zones. Isel...",
+      "content": "Shame that FEMA won't be helping HI cuz of #Iselle  Many subdivisions looked like war zones. Iselle WAS truely a disaster!",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:12:11.656150",
+      "entities": [
+        "Hawaii",
+        "United States",
+        "Humuula Ahupua`a",
+        "Hawaii Co.",
+        "HI"
+      ],
+      "geo": {
+        "coords": [
+          -155.5185546875,
+          19.5985164642334
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Hawaii",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea4": "Hawaii Co.",
+          "adminArea3": "HI",
+          "formattedAddress": "Humuula Ahupua`a, HI",
+          "adminArea5": "Humuula Ahupua`a",
+          "adminArea1": "United States"
+        }
+      },
+      "id": "MAXjBYOESpWaVhxZyNIQMg",
+      "createdAt": "2014-09-03T07:08:22.946527"
+    },
+    {
+      "remoteID": "507043096329072640",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "Dazr",
+        "remoteID": "19699233",
+        "image": "http://pbs.twimg.com/profile_images/504254666150928384/RpUVlVv2_normal.jpeg",
+        "name": "Darrell Morrison"
+      },
+      "tags": [
+        {
+          "confidence": 1,
+          "name": "death"
+        }
+      ],
+      "publishedAt": "2014-09-03T05:51:09+00:00",
+      "summary": "Listen kids, if you are tired of playing XBOX or PS4 and want to play with death in theatres of w...",
+      "content": "Listen kids, if you are tired of playing XBOX or PS4 and want to play with death in theatres of war don't complain if injured! #auspol #IDF",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T06:32:12.808275",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Melbourne",
+          "authorLocationName": "iPhone: -37.596886,143.832047"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "EKksHTinQXeikewvYLl6hQ",
+      "createdAt": "2014-09-03T06:28:33.892997"
+    },
+    {
+      "remoteID": "507042788366491648",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "lettywho1",
+        "remoteID": "1654442893",
+        "image": "http://pbs.twimg.com/profile_images/378800000382479759/6b0e6bedb155c2af3bb66951f364ccb4_normal.jpeg",
+        "name": "Dr Nazreen Kadir"
+      },
+      "image": "http://pbs.twimg.com/media/BwlG7RFIYAARCVU.png",
+      "tags": [],
+      "publishedAt": "2014-09-03T05:49:55+00:00",
+      "summary": "Let the games begin! @benabyad MT:#Israel/#IDF sets up unit to fight legal onslaught #Gaza war ht...",
+      "content": "Let the games begin! @benabyad MT:#Israel/#IDF sets up unit to fight legal onslaught #Gaza war http://t.co/qSMfL2dtmO http://t.co/X4WJF3BLwM",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T06:32:31.754149",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": "Northern California"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "KilVZo4PRSS8P91SFUJkEw",
+      "createdAt": "2014-09-03T06:28:34.016771"
+    },
+    {
+      "remoteID": "507017503319789568",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "cusavpf",
+        "remoteID": "575562020",
+        "image": "http://pbs.twimg.com/profile_images/463304817184493568/xxOoQoje_normal.jpeg",
+        "name": "Reda Zarrug"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-03T04:09:27+00:00",
+      "summary": "RT @tadlouni: Aerial footage of the effects of the war on #Gaza will sure to shock you. Much dest...",
+      "content": "RT @tadlouni: Aerial footage of the effects of the war on #Gaza will sure to shock you. Much destruction. #cdnpoli #palestine #IDF https://…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T04:27:39.468158",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Atlantic Time (Canada)",
+          "authorLocationName": "Carleton University (401 UC)"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "vephAXKhQ1ek7ziS7W7gKQ",
+      "createdAt": "2014-09-03T04:28:04.034251"
+    },
+    {
+      "remoteID": "507011638567116801",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "tadlouni",
+        "remoteID": "121742777",
+        "image": "http://pbs.twimg.com/profile_images/378800000643943967/db64a94419ed21304ce5abeb8f75a16c_normal.jpeg",
+        "name": "Toufic Adlouni"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-03T03:46:09+00:00",
+      "summary": "Aerial footage of the effects of the war on #Gaza will sure to shock you. Much destruction. #cdnp...",
+      "content": "Aerial footage of the effects of the war on #Gaza will sure to shock you. Much destruction. #cdnpoli #palestine #IDF https://t.co/3kcLQofIhj",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T03:47:44.509698",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": "Ville de Québec, Canada "
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "MeM03R6OSoKOnrmkD9fBew",
+      "createdAt": "2014-09-03T03:47:25.632059"
+    },
+    {
+      "remoteID": "506990877940514816",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "YvonneCorcoranN",
+        "remoteID": "560703845",
+        "image": "http://pbs.twimg.com/profile_images/431261903495516161/DklCqwo8_normal.jpeg",
+        "name": "YvonneCorcoranNantes"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-03T02:23:39+00:00",
+      "summary": "Hamas popularity 'surges after Gaza war' http://t.co/vsqKaQQBpW @antloewenstein #Gaza #IDF #Middl...",
+      "content": "Hamas popularity 'surges after Gaza war' http://t.co/vsqKaQQBpW @antloewenstein #Gaza #IDF #MiddleEast",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T02:32:47.495282",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Hawaii",
+          "authorLocationName": "Australia"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "BIOUG_SfQ2ivfoJ4kxgvGA",
+      "createdAt": "2014-09-03T02:33:14.962188"
+    },
+    {
+      "remoteID": "506911743030083584",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "MiddleEast_BRK",
+        "remoteID": "428140124",
+        "image": "http://pbs.twimg.com/profile_images/484449701052162048/izaDavrV_normal.png",
+        "name": "ConflictReporter"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-02T21:09:12+00:00",
+      "summary": "RT @BitteWenden99: @MiddleEast_BRK Seems like this is a real war now. And only because of one men..",
+      "content": "RT @BitteWenden99: @MiddleEast_BRK Seems like this is a real war now. And only because of one men..",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T01:20:21.260927",
+      "entities": [
+        "General-conflict"
+      ],
+      "geo": {
+        "locationIdentifiers": {
+          "authorTimeZone": "Berlin",
+          "authorLocationName": "Germany"
+        },
+        "addressComponents": {
+          "adminArea1": "General-conflict",
+          "formattedAddress": "General-conflict"
+        }
+      },
+      "id": "jcLlZ9cOREmnptuWPNqy8A",
+      "createdAt": "2014-09-03T01:17:41.561738"
+    },
+    {
+      "remoteID": "506898827564285952",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "CustosDivini",
+        "remoteID": "292353470",
+        "image": "http://pbs.twimg.com/profile_images/504179207585271808/fyonWH8q_normal.jpeg",
+        "name": "Kalashnikitty"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-02T20:17:52+00:00",
+      "summary": "What Churchill Told FDR \nAs World War II Erupted \nExactly 75 Years Ago\nhttp://t.co/eIufWDAQSk #na...",
+      "content": "What Churchill Told FDR \nAs World War II Erupted \nExactly 75 Years Ago\nhttp://t.co/eIufWDAQSk #natsec #geopolitics",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T20:31:20.186176",
+      "entities": [
+        "General-conflict"
+      ],
+      "geo": {
+        "locationIdentifiers": {
+          "authorTimeZone": "Istanbul",
+          "authorLocationName": "RT/Mention/Follow/Link ≠ E"
+        },
+        "addressComponents": {
+          "adminArea1": "General-conflict",
+          "formattedAddress": "General-conflict"
+        }
+      },
+      "id": "XT3tlp5DQg6KP4Eg3sWpEg",
+      "createdAt": "2014-09-02T20:30:29.545974"
+    },
+    {
+      "remoteID": "506892866183245824",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "ILPADRINO0",
+        "remoteID": "69761144",
+        "image": "http://pbs.twimg.com/profile_images/438425153236922369/jdYV_voO_normal.jpeg",
+        "name": "Suliman Ali Zway"
+      },
+      "tags": [
+        {
+          "confidence": 1,
+          "name": "armed-conflict"
+        },
+        {
+          "confidence": 1,
+          "name": "conflict"
+        },
+        {
+          "confidence": 1,
+          "name": "death"
+        }
+      ],
+      "publishedAt": "2014-09-02T19:54:11+00:00",
+      "summary": "RT @ReutersWorld: Three killed, nine injured when Libyan war plane crashes in eastern city: medic...",
+      "content": "RT @ReutersWorld: Three killed, nine injured when Libyan war plane crashes in eastern city: medics http://t.co/3U92mS6pVS",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T20:30:30.620701",
+      "entities": [
+        "Libya"
+      ],
+      "geo": {
+        "coords": [
+          18.043556213378906,
+          27.23609733581543
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Athens",
+          "authorLocationName": "Benghazi-Tripoli Libya"
+        },
+        "addressComponents": {
+          "adminArea1": "Libya",
+          "formattedAddress": "Libya"
+        }
+      },
+      "id": "eG8vj0YmSt-A38kMY8lZNg",
+      "createdAt": "2014-09-02T20:30:28.653236"
+    },
+    {
+      "remoteID": "506892340477591553",
+      "license": "twitter",
+      "language": {
+        "code": "it"
+      },
+      "author": {
+        "username": "AndreaGContini",
+        "remoteID": "397997207",
+        "image": "http://pbs.twimg.com/profile_images/484229939684581376/lZoJldD9_normal.jpeg",
+        "name": "Andrea Contini"
+      },
+      "contentEnglish": "The Art of War: The Revolution of the Infantry in the post war 89 The example of #IDF; who imagined him? http://t.co/SMIK6OO7L9",
+      "publishedAt": "2014-09-02T19:52:06+00:00",
+      "summary": "L'arte della guerra: la Rivoluzione della Fanteria nelle guerre post 89. L'esempio di #IDF; chi s...",
+      "content": "L'arte della guerra: la Rivoluzione della Fanteria nelle guerre post 89. L'esempio di #IDF; chi se lo immaginava? http://t.co/SMIK6OO7L9",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T20:35:13.274861",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Athens",
+          "authorLocationName": "www.facebook.com/a.g.contini"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "-ZMGRr4iTqCc9QCvgypWwg",
+      "createdAt": "2014-09-02T20:30:33.447907"
+    },
+    {
+      "remoteID": "506885350556729344",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "jacekolejnik",
+        "remoteID": "71776815",
+        "image": "http://pbs.twimg.com/profile_images/378800000443888222/97cfe841646696b6f2a6823d43f87c58_normal.jpeg",
+        "name": "Jacek Olejnik"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-02T19:24:19+00:00",
+      "summary": ".@ynetnews: #Netanyahu: @UN should investigate #Hamas' war crimes, not #IDF actions - #Israel #Ga...",
+      "content": ".@ynetnews: #Netanyahu: @UN should investigate #Hamas' war crimes, not #IDF actions - #Israel #Gaza: http://t.co/Z892OmZ7at",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T19:53:04.872773",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Jerusalem",
+          "authorLocationName": "Warsaw"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "HiDnRryGQd6-DX-0y_12Jw",
+      "createdAt": "2014-09-02T19:47:24.533799"
+    },
+    {
+      "remoteID": "506882581640396800",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "world_outback",
+        "remoteID": "2670408355",
+        "image": "http://pbs.twimg.com/profile_images/493829954904133633/NnHFVnBz_normal.jpeg",
+        "name": "WORLD OUTBACK NEWS"
+      },
+      "image": "http://pbs.twimg.com/media/BwjPBUhCQAAsal0.jpg",
+      "tags": [],
+      "publishedAt": "2014-09-02T19:13:19+00:00",
+      "summary": "Reports clean up in #Gaza City could take years after the #IDF and #Hamas 50 day war.  #auspol #P...",
+      "content": "Reports clean up in #Gaza City could take years after the #IDF and #Hamas 50 day war.  #auspol #Palestine #Israel http://t.co/XMSSmvUYfH",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T19:54:04.748210",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Sydney",
+          "authorLocationName": "Australia"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "KqSKEmVaQRCHC5R76e7QFw",
+      "createdAt": "2014-09-02T19:47:25.128217"
+    },
+    {
+      "remoteID": "506874024245624833",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "7DLife_NG",
+        "remoteID": "1883527866",
+        "image": "http://pbs.twimg.com/profile_images/494072396622868480/V8FBjCm6_normal.jpeg",
+        "name": "Life through 7D Lens"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-02T18:39:19+00:00",
+      "summary": "...Never was d case, for those of u who like to understand things Read on #IDF's \"Operation Pilla...",
+      "content": "...Never was d case, for those of u who like to understand things Read on #IDF's \"Operation Pillar of Defence\" The 1st Social Media War..",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T19:08:10.625319",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": "Abuja"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "rWCKbqtrQs22cm3xICww7w",
+      "createdAt": "2014-09-02T19:05:24.414917"
+    },
+    {
+      "remoteID": "506842373289422848",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "antialacran",
+        "remoteID": "357897234",
+        "image": "http://pbs.twimg.com/profile_images/1749526816/image1326349898_normal.png",
+        "name": "antialacrán"
+      },
+      "tags": [
+        {
+          "confidence": 1,
+          "name": "armed-conflict"
+        },
+        {
+          "confidence": 1,
+          "name": "conflict"
+        },
+        {
+          "confidence": 1,
+          "name": "death"
+        }
+      ],
+      "publishedAt": "2014-09-02T16:33:33+00:00",
+      "summary": "RT @aleksiskander: Hannibal Directive Focus of War Crimes Inquiry - indiscriminate killing of civ...",
+      "content": "RT @aleksiskander: Hannibal Directive Focus of War Crimes Inquiry - indiscriminate killing of civilians and even #IDF's own soldiers http:/…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T16:56:10.302065",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": "Brasil"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "h3bI0hsySpSPfofbZp8V-A",
+      "createdAt": "2014-09-02T16:53:48.875524"
+    },
+    {
+      "remoteID": "506832785336971264",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "YaakovShmuel",
+        "remoteID": "2611221822",
+        "image": "http://pbs.twimg.com/profile_images/505440562615304192/6_LoaNyp_normal.jpeg",
+        "name": "Yaakov Shmuel"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-02T15:55:27+00:00",
+      "summary": "The lesson of this summer’s awful war http://t.co/jh2OHIgudM #IDF #Hamas #Gaza #tcot",
+      "content": "The lesson of this summer’s awful war http://t.co/jh2OHIgudM #IDF #Hamas #Gaza #tcot",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T16:15:08.374518",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Jerusalem",
+          "authorLocationName": "Israel, NY, SEA"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "r4HWrMzTTsuzjjPUu7SGEg",
+      "createdAt": "2014-09-02T16:13:02.736174"
+    },
+    {
+      "remoteID": "506827264189669376",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "shee1313",
+        "remoteID": "52238149",
+        "image": "http://pbs.twimg.com/profile_images/495607856586969090/tlpZmKqA_normal.jpeg",
+        "name": "shee"
+      },
+      "image": "http://pbs.twimg.com/media/BwiCyyRIQAAo4ww.jpg",
+      "tags": [
+        {
+          "confidence": 0.731059,
+          "name": "photo-person"
+        }
+      ],
+      "publishedAt": "2014-09-02T15:33:30+00:00",
+      "summary": "RT @YaakovShmuel: The end of the #Gaza war doesn't translate into #peace: http://t.co/uItprRNj8f ...",
+      "content": "RT @YaakovShmuel: The end of the #Gaza war doesn't translate into #peace: http://t.co/uItprRNj8f  http://t.co/cvh8va2Vow #IDF #Israel #Hama…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T15:34:12.382462",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "inVtzFcPT8yC2jClYw5ubw",
+      "createdAt": "2014-09-02T15:33:37.890168"
+    },
+    {
+      "remoteID": "506826403137224704",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "YaakovShmuel",
+        "remoteID": "2611221822",
+        "image": "http://pbs.twimg.com/profile_images/505440562615304192/6_LoaNyp_normal.jpeg",
+        "name": "Yaakov Shmuel"
+      },
+      "image": "http://pbs.twimg.com/media/BwiCyyRIQAAo4ww.jpg",
+      "tags": [
+        {
+          "confidence": 0.689974,
+          "name": "photo-person"
+        }
+      ],
+      "publishedAt": "2014-09-02T15:30:05+00:00",
+      "summary": "The end of the #Gaza war doesn't translate into #peace: http://t.co/uItprRNj8f  http://t.co/cvh8v...",
+      "content": "The end of the #Gaza war doesn't translate into #peace: http://t.co/uItprRNj8f  http://t.co/cvh8va2Vow #IDF #Israel #Hamas #tcot",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T15:34:12.967894",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Jerusalem",
+          "authorLocationName": "Israel, NY, SEA"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "sHaNLDtFT1GP7aIdWioJag",
+      "createdAt": "2014-09-02T15:33:37.923625"
+    },
+    {
+      "remoteID": "506808966866018304",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "MiddleEast_BRK",
+        "remoteID": "428140124",
+        "image": "http://pbs.twimg.com/profile_images/484449701052162048/izaDavrV_normal.png",
+        "name": "ConflictReporter"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-02T14:20:48+00:00",
+      "summary": "#BreakingNews\n\n@NATO:\n\"Ukraine lost the war in eastern #Ukraine. @Poroshenko must try to get his ...",
+      "content": "#BreakingNews\n\n@NATO:\n\"Ukraine lost the war in eastern #Ukraine. @Poroshenko must try to get his troops out alive.\"\n\nhttp://t.co/7bGmscV5RW",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T14:53:15.502569",
+      "entities": [
+        "General-conflict"
+      ],
+      "geo": {
+        "locationIdentifiers": {
+          "authorTimeZone": "Berlin",
+          "authorLocationName": "Germany"
+        },
+        "addressComponents": {
+          "adminArea1": "General-conflict",
+          "formattedAddress": "General-conflict"
+        }
+      },
+      "id": "Dn6dJTALSwichI1Ng2ptKA",
+      "createdAt": "2014-09-02T14:52:38.419484"
+    },
+    {
+      "remoteID": "506803216844341248",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "IsraelinIreland",
+        "remoteID": "74702868",
+        "image": "http://pbs.twimg.com/profile_images/1335924323/twitterlogo_normal.PNG",
+        "name": "Israel in Ireland"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-02T13:57:57+00:00",
+      "summary": "Gross comparison of #IDF's attack on high-rise #Hamas HQ with 9/11 attack retailed without commen...",
+      "content": "Gross comparison of #IDF's attack on high-rise #Hamas HQ with 9/11 attack retailed without comment by @IrishTimes hackette in post-war #Gaza",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T14:10:42.781378",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Dublin",
+          "authorLocationName": "Dublin, Republic of Ireland"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "_339fschRO-B-FjVbSNzKQ",
+      "createdAt": "2014-09-02T14:08:13.850160"
+    },
+    {
+      "remoteID": "506796482809188352",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "AlertNet",
+        "remoteID": "15762575",
+        "image": "http://pbs.twimg.com/profile_images/492572880966647808/vkfuoXEt_normal.jpeg",
+        "name": "AlertNet"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-02T13:31:11+00:00",
+      "summary": "End of #Gaza war doesn't translate into peace http://t.co/erVHFgIEJK",
+      "content": "End of #Gaza war doesn't translate into peace http://t.co/erVHFgIEJK",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T14:09:18.416473",
+      "entities": [
+        "General-conflict"
+      ],
+      "geo": {
+        "locationIdentifiers": {
+          "authorTimeZone": "London",
+          "authorLocationName": "Global"
+        },
+        "addressComponents": {
+          "adminArea1": "General-conflict",
+          "formattedAddress": "General-conflict"
+        }
+      },
+      "id": "9dJDrWtFSauFBmSi9CR_Zw",
+      "createdAt": "2014-09-02T14:08:11.156560"
+    },
+    {
+      "remoteID": "506777944510201856",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "reez4u",
+        "remoteID": "557534583",
+        "image": "http://pbs.twimg.com/profile_images/492278298802946048/fzYRIoOZ_normal.jpeg",
+        "name": "Reez"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-02T12:17:32+00:00",
+      "summary": "Coward #IDF war on children in pictures ... \nhttp://t.co/91ZbQe4KxD\nYou, coward #IDF soldier, tra...",
+      "content": "Coward #IDF war on children in pictures ... \nhttp://t.co/91ZbQe4KxD\nYou, coward #IDF soldier, train yourself to fight kids!!!",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T12:29:48.935628",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "-vxpVkjmSO255HQ11PwVHg",
+      "createdAt": "2014-09-02T12:26:59.164446"
+    },
+    {
+      "remoteID": "506775071370018816",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "MiddleEast_BRK",
+        "remoteID": "428140124",
+        "image": "http://pbs.twimg.com/profile_images/484449701052162048/izaDavrV_normal.png",
+        "name": "ConflictReporter"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-02T12:06:07+00:00",
+      "summary": "#Ukraine is a dead man walking now.\nLeft alone by the international community to the Russian aggr...",
+      "content": "#Ukraine is a dead man walking now.\nLeft alone by the international community to the Russian aggression,it had no chance and #lost this war.",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T12:27:57.359004",
+      "entities": [
+        "General-conflict"
+      ],
+      "geo": {
+        "locationIdentifiers": {
+          "authorTimeZone": "Berlin",
+          "authorLocationName": "Germany"
+        },
+        "addressComponents": {
+          "adminArea1": "General-conflict",
+          "formattedAddress": "General-conflict"
+        }
+      },
+      "id": "nprZCP0mTH-_q46f3lqKcA",
+      "createdAt": "2014-09-02T12:26:54.448937"
+    }
+  ]
+}

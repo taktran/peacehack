@@ -4,6 +4,7 @@ var Hapi = require('hapi');
 var moment = require('moment');
 var _ = require('lodash');
 var socketIO = require('./socketIO');
+var path = require('path');
 
 require('colors');
 
@@ -60,7 +61,7 @@ server.start(function() {
 
   // TODO: Still doesn't work
   // Works in hapi-socketio.js though
-  socketIO.start(server);
+  socketIO.start(server, path.join(__dirname, "..", ".."));
 
   server.log(["debug"], msg + prod);
 });

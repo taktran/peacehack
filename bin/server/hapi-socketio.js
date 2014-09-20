@@ -12,6 +12,7 @@
 
 var Hapi = require('hapi');
 var socketIO = require('./socketIO');
+var path = require('path');
 
 // Declare internals
 
@@ -33,7 +34,7 @@ internals.startServer = function () {
   });
 
   server.start(function () {
-    socketIO.start(server);
+    socketIO.start(server, path.join(__dirname, "..", ".."));
   });
 };
 

@@ -25,7 +25,8 @@
     "hapi": "^6.6.0",
     "colors": "^0.6.2",
     "request": "^2.40.0",
-    "socket.io": "^1.1.0"
+    "socket.io": "^1.1.0",
+    "q": "^1.0.1"
   },
   "devDependencies": {
     "matchdep": "~0.1.2",
