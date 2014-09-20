@@ -130,20 +130,17 @@ angular.module('app').config(["$stateProvider", "$urlRouterProvider", function(
       var color = colorHelper.objectToRGB(resp.data.message);
       deferred.resolve(color);
     }).catch(function(error) {
-      console.log("Can't get light 2", error);
+      console.log("Can't get light " + lightId, error);
       deferred.resolve(fallbackColor);
     });
 
     return deferred.promise;
   }
 
-  // Redirect to root if unknown url
-  $urlRouterProvider.otherwise('/');
-
   $stateProvider
     .state('colorPicker', {
       templateUrl: 'components/colorPicker/templates/colorPicker.html',
-      url: '/',
+      url: '/admin',
       controller: 'ColorPickerCtrl',
       resolve: {
         light1Color: ["$q", "apiService", "colorHelper", function(
@@ -306,5 +303,32 @@ angular.module('app').factory('envService', ["$window", "ENV_OPTIONS", "currentE
     }
   };
 }]);
-angular.module("app").run(["$templateCache", function($templateCache) {$templateCache.put("components/colorPicker/templates/colorPicker.html","<div class=\"color-picker-page\">\n  <div class=\"light-container\">\n    <h2>Light 1\n      <span class=\"color-display\">{{ settings.light1 }}</span></h2>\n\n    <spectrum-colorpicker\n      ng-model=\"settings.light1\"\n      options=\"{ containerClassName: \'color-picker-1\', replacerClassName: \'color-picker-1-selector\' }\"\n      format=\"\'rgb\'\"></spectrum-colorpicker>\n  </div>\n</div>");}]);
+"use strict";
+
+angular.module('app').controller('HomeCtrl', ["$scope", "$timeout", function(
+  $scope,
+  $timeout
+) {
+
+}]);
+"use strict";
+
+angular.module('app').config(["$stateProvider", "$urlRouterProvider", function(
+  $stateProvider,
+  $urlRouterProvider
+) {
+
+  // Redirect to root if unknown url
+  $urlRouterProvider.otherwise('/');
+
+  $stateProvider
+    .state('home', {
+      templateUrl: 'components/home/templates/home.html',
+      url: '/',
+      controller: 'HomeCtrl'
+    }
+  );
+}]);
+angular.module("app").run(["$templateCache", function($templateCache) {$templateCache.put("components/colorPicker/templates/colorPicker.html","<div class=\"color-picker-page\">\n  <h2>Administration</h2>\n  <nav>\n    <a ui-sref=\"home\">Home</a>\n  </nav>\n\n  <div class=\"light-container\">\n    <h2>Light 1\n      <span class=\"color-display\">{{ settings.light1 }}</span></h2>\n\n    <spectrum-colorpicker\n      ng-model=\"settings.light1\"\n      options=\"{ containerClassName: \'color-picker-1\', replacerClassName: \'color-picker-1-selector\' }\"\n      format=\"\'rgb\'\"></spectrum-colorpicker>\n  </div>\n</div>");
+$templateCache.put("components/home/templates/home.html","<div>Home</div>");}]);
 //# sourceMappingURL=app.js.map

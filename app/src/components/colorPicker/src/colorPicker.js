@@ -14,20 +14,17 @@ angular.module('app').config(function(
       var color = colorHelper.objectToRGB(resp.data.message);
       deferred.resolve(color);
     }).catch(function(error) {
-      console.log("Can't get light 2", error);
+      console.log("Can't get light " + lightId, error);
       deferred.resolve(fallbackColor);
     });
 
     return deferred.promise;
   }
 
-  // Redirect to root if unknown url
-  $urlRouterProvider.otherwise('/');
-
   $stateProvider
     .state('colorPicker', {
       templateUrl: 'components/colorPicker/templates/colorPicker.html',
-      url: '/',
+      url: '/admin',
       controller: 'ColorPickerCtrl',
       resolve: {
         light1Color: function(
