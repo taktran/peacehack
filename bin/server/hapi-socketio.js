@@ -1,4 +1,4 @@
-// Example from https://github.com/hapijs/hapi/blob/master/examples/socketio.js
+// Adapted from hapi example: https://github.com/hapijs/hapi/blob/master/examples/socketio.js
 
 // The following initializes a socket.io server.
 // The socket.io client JavaScript is located at http://localhost:8000/socket.io/socket.io.js
@@ -11,8 +11,7 @@
 // Load modules
 
 var Hapi = require('hapi');
-var SocketIO = require('socket.io');
-
+var socketIO = require('./socketIO');
 
 // Declare internals
 
@@ -27,21 +26,14 @@ internals.startServer = function () {
     reply('Hello');
   };
 
-  server.route({ method: 'GET', path: '/', handler: helloHandler });
+  server.route({
+    method: 'GET',
+    path: '/',
+    handler: helloHandler
+  });
 
   server.start(function () {
-    var io = SocketIO.listen(server.listener);
-
-    io.on('connection', function(socket){
-      console.log('a user connected');
-      io.emit('msg', {
-        data: "hello"
-      });
-
-      socket.on('disconnect', function(){
-        console.log('user disconnected');
-      });
-    });
+    socketIO.start(server);
   });
 };
 
