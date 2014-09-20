@@ -34,6 +34,9 @@ internals.startServer = function () {
 
     io.on('connection', function(socket){
       console.log('a user connected');
+      io.emit('msg', {
+        data: "hello"
+      });
 
       socket.on('disconnect', function(){
         console.log('user disconnected');

@@ -3,6 +3,7 @@
 angular.module('app').controller('HomeCtrl', function(
   $scope,
   $timeout,
+  $log,
 
   light1Color
 ) {
@@ -12,4 +13,8 @@ angular.module('app').controller('HomeCtrl', function(
 
   var socketUrl = "http://localhost:8000";
   var socket = io(socketUrl);
+
+  socket.on('msg', function(msg){
+    $log.log(msg);
+  });
 });

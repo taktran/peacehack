@@ -313,9 +313,10 @@ angular.module('app').factory('envService', ["$window", "ENV_OPTIONS", "currentE
 }]);
 "use strict";
 
-angular.module('app').controller('HomeCtrl', ["$scope", "$timeout", "light1Color", function(
+angular.module('app').controller('HomeCtrl', ["$scope", "$timeout", "$log", "light1Color", function(
   $scope,
   $timeout,
+  $log,
 
   light1Color
 ) {
@@ -325,6 +326,10 @@ angular.module('app').controller('HomeCtrl', ["$scope", "$timeout", "light1Color
 
   var socketUrl = "http://localhost:8000";
   var socket = io(socketUrl);
+
+  socket.on('msg', function(msg){
+    $log.log(msg);
+  });
 }]);
 "use strict";
 
