@@ -338,19 +338,21 @@ angular.module('app').factory('envService', ["$window", "ENV_OPTIONS", "currentE
 }]);
 "use strict";
 
-angular.module('app').controller('HomeCtrl', ["$scope", "$timeout", "$log", "CONFIG", "light1Color", function(
+angular.module('app').controller('HomeCtrl', ["$scope", "$timeout", "$log", "CONFIG", "light1Color", "light2Color", function(
   $scope,
   $timeout,
   $log,
   CONFIG,
 
-  light1Color
+  light1Color,
+  light2Color
 ) {
-  $scope.light1 = {
-    color: light1Color
+  $scope.lights = {
+    color1: light1Color,
+    color2: light2Color
   };
 
-  $log.log($scope.light1);
+  $log.log($scope.lights);
 
   // TODO: Integrate with backend server
   var socketUrl = "http://localhost:8000";
@@ -402,6 +404,11 @@ angular.module('app').config(["$stateProvider", "$urlRouterProvider", function(
           colorHelper
         ) {
           return colorHelper.getColor("1");
+        }],
+        light2Color: ["colorHelper", function(
+          colorHelper
+        ) {
+          return colorHelper.getColor("2");
         }]
       }
     })

@@ -18,6 +18,11 @@ angular.module('app').config(function(
           colorHelper
         ) {
           return colorHelper.getColor("1");
+        },
+        light2Color: function(
+          colorHelper
+        ) {
+          return colorHelper.getColor("2");
         }
       }
     })

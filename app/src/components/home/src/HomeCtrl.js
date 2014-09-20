@@ -6,13 +6,15 @@ angular.module('app').controller('HomeCtrl', function(
   $log,
   CONFIG,
 
-  light1Color
+  light1Color,
+  light2Color
 ) {
-  $scope.light1 = {
-    color: light1Color
+  $scope.lights = {
+    color1: light1Color,
+    color2: light2Color
   };
 
-  $log.log($scope.light1);
+  $log.log($scope.lights);
 
   // TODO: Integrate with backend server
   var socketUrl = "http://localhost:8000";
