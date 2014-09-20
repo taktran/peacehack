@@ -1,7 +1,8 @@
 var SocketIO = require('socket.io');
 var _ = require('lodash');
 
-var DELAY_TIME = 10 * 1000; // 10s
+var MIN_DELAY_TIME = 3 * 1000; // 10s
+var MAX_DELAY_TIME = 10 * 1000; // 10s
 
 function sendMessage(io, message, type, index) {
   var msgTitle = 'msg:' + type;
@@ -17,8 +18,10 @@ function trickleData(io, data, type) {
   var sendMessageWithDelay = function() {
     sendMessage(io, data[currentIndex], type, currentIndex);
 
+
+    var delay = _.random(MIN_DELAY_TIME, MAX_DELAY_TIME);
     // Send message again after delay
-    _.delay(sendMessageWithDelay, DELAY_TIME);
+    _.delay(sendMessageWithDelay, delay);
 
     // Loop index around
     currentIndex = currentIndex < data.length ? currentIndex + 1 : 0;
