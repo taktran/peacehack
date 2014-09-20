@@ -23,8 +23,8 @@ function trickleData(io, data, type) {
     // Send message again after delay
     _.delay(sendMessageWithDelay, delay);
 
-    // Loop index around
-    currentIndex = currentIndex < data.length ? currentIndex + 1 : 0;
+    // Loop index around when it's at the end
+    currentIndex = currentIndex <= data.length ? currentIndex + 1 : 0;
   };
 
   sendMessageWithDelay();
