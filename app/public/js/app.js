@@ -18,6 +18,10 @@ angular.module('app').factory('apiService', ["$http", "CONFIG", "envService", fu
     return LIGHTS_URL + lightId;
   }
 
+  function getRandomUrl(lightId) {
+    return LIGHTS_URL + lightId + "/random";
+  }
+
   return {
     updateLight: function(lightId, red, green, blue) {
       var url = getUrl(lightId);
@@ -27,6 +31,11 @@ angular.module('app').factory('apiService', ["$http", "CONFIG", "envService", fu
         g: green,
         b: blue
       });
+    },
+    randomLight: function(lightId) {
+      var url = getRandomUrl(lightId);
+
+      return $http.post(url);
     },
     currentState: function(lightId) {
       var url = getUrl(lightId);
@@ -50,6 +59,10 @@ angular.module('app').controller('ColorPickerCtrl', ["$scope", "$timeout", "apiS
 ) {
   $scope.settings = {
     light1: light1Color
+  };
+
+  $scope.randomColor = function() {
+    apiService.randomLight(1);
   };
 
   $timeout(function() {
@@ -373,6 +386,6 @@ angular.module('app').config(["$stateProvider", "$urlRouterProvider", function(
     }
   );
 }]);
-angular.module("app").run(["$templateCache", function($templateCache) {$templateCache.put("components/colorPicker/templates/colorPicker.html","<div class=\"color-picker-page\">\n  <h2>Administration</h2>\n  <nav>\n    <a ui-sref=\"home\">Home</a>\n  </nav>\n\n  <div class=\"light-container\">\n    <h2>Light 1\n      <span class=\"color-display\">{{ settings.light1 }}</span></h2>\n\n    <spectrum-colorpicker\n      ng-model=\"settings.light1\"\n      options=\"{ containerClassName: \'color-picker-1\', replacerClassName: \'color-picker-1-selector\' }\"\n      format=\"\'rgb\'\"></spectrum-colorpicker>\n  </div>\n</div>");
+angular.module("app").run(["$templateCache", function($templateCache) {$templateCache.put("components/colorPicker/templates/colorPicker.html","<div class=\"color-picker-page\">\n  <h2>Administration</h2>\n  <nav>\n    <a ui-sref=\"home\">Home</a>\n  </nav>\n\n  <div class=\"light-container\">\n    <h2>Light 1\n    <span class=\"color-display\">{{ settings.light1 }}</span></h2>\n\n    <button ng-click=\"randomColor()\"\n      class=\"random-button\">Random color</button>\n\n    <spectrum-colorpicker\n      ng-model=\"settings.light1\"\n      options=\"{ containerClassName: \'color-picker-1\', replacerClassName: \'color-picker-1-selector\' }\"\n      format=\"\'rgb\'\"></spectrum-colorpicker>\n  </div>\n</div>");
 $templateCache.put("components/home/templates/home.html","<div class=\"messages\">\n  <div ng-repeat=\"type in msgTypes\">\n    <h2>{{ type }}</h2>\n    <div class=\"type-{{ type }}\">\n      {{ currentMsg[type].msg.content }}\n    </div>\n  </div>\n</div>");}]);
 //# sourceMappingURL=app.js.map

@@ -12,6 +12,10 @@ angular.module('app').controller('ColorPickerCtrl', function(
     light1: light1Color
   };
 
+  $scope.randomColor = function() {
+    apiService.randomLight(1);
+  };
+
   $timeout(function() {
     $(".color-picker-1 .sp-choose").click(function() {
       var color = colorHelper.rgbToObject($scope.settings.light1);

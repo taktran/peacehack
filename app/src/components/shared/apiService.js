@@ -11,6 +11,10 @@ angular.module('app').factory('apiService', function (
     return LIGHTS_URL + lightId;
   }
 
+  function getRandomUrl(lightId) {
+    return LIGHTS_URL + lightId + "/random";
+  }
+
   return {
     updateLight: function(lightId, red, green, blue) {
       var url = getUrl(lightId);
@@ -20,6 +24,11 @@ angular.module('app').factory('apiService', function (
         g: green,
         b: blue
       });
+    },
+    randomLight: function(lightId) {
+      var url = getRandomUrl(lightId);
+
+      return $http.post(url);
     },
     currentState: function(lightId) {
       var url = getUrl(lightId);

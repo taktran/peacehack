@@ -80,13 +80,47 @@ module.exports = {
   },
 
   /**
+   * Change to a random color
+   *
+   * @param  {String} lightId
+   * @return {Promise} Promise of color change results
+   */
+  randomLight: function(lightId) {
+    var deferred = q.defer();
+
+    if (isValidLight(lightId)) {
+      var deviceId = lightIdDeviceKey[lightId];
+      var url = getDeviceUrl(deviceId) + "/random";
+
+      request.post(url, {
+        headers: {
+          'Authorization': 'Bearer ' + SECRETS.API_KEY
+        },
+        timeout: REQUEST_TIMEOUT
+      }, function(error, response, body) {
+        if (error || response.statusCode !== HTTP_OK) {
+          deferred(helpers.errorMessage(url, error, response, body));
+        }
+
+        // server.log(["debug", "changeLight"], "Response (" +  response.statusCode + "): " + body);
+
+        deferred.resolve(helpers.successResponse());
+      });
+    } else {
+      deferred.reject("Invalid light id: " + lightId);
+    }
+
+    return deferred.promise;
+  },
+
+  /**
    * Change color
    *
    * @param  {String} lightId
    * @param  {Object} color Color object: { r: Integer, g: Integer, b: Integer }
    * @return {Promise} Promise of color change results
    */
-  changeLight: function changeLight(lightId, color) {
+  changeLight: function(lightId, color) {
     var deferred = q.defer();
 
     if (isValidLight(lightId)) {

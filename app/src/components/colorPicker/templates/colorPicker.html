@@ -6,7 +6,10 @@
 
   <div class="light-container">
     <h2>Light 1
-      <span class="color-display">{{ settings.light1 }}</span></h2>
+    <span class="color-display">{{ settings.light1 }}</span></h2>
+
+    <button ng-click="randomColor()"
+      class="random-button">Random color</button>
 
     <spectrum-colorpicker
       ng-model="settings.light1"

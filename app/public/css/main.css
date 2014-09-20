@@ -574,23 +574,26 @@ h1 {
     text-align: center;
     height: 30px; }
   /* line 24, /Users/ttt/Work/Dev/peacehack/peacehack/app/styles/main.scss */
+  .light-container .random-button {
+    margin-bottom: 10px; }
+  /* line 28, /Users/ttt/Work/Dev/peacehack/peacehack/app/styles/main.scss */
   .light-container .color-display {
     display: block;
     color: #bbb;
     font-size: 0.7em;
     line-height: 1em; }
-  /* line 31, /Users/ttt/Work/Dev/peacehack/peacehack/app/styles/main.scss */
+  /* line 35, /Users/ttt/Work/Dev/peacehack/peacehack/app/styles/main.scss */
   .light-container .sp-preview {
     width: 99%;
     height: 100px;
     margin: 0;
     padding: 0;
     border: none; }
-  /* line 39, /Users/ttt/Work/Dev/peacehack/peacehack/app/styles/main.scss */
+  /* line 43, /Users/ttt/Work/Dev/peacehack/peacehack/app/styles/main.scss */
   .light-container .sp-replacer {
     width: 100%;
     border: none;
     padding: 0; }
-  /* line 45, /Users/ttt/Work/Dev/peacehack/peacehack/app/styles/main.scss */
+  /* line 49, /Users/ttt/Work/Dev/peacehack/peacehack/app/styles/main.scss */
   .light-container .sp-dd {
     display: none; }

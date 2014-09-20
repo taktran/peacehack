@@ -31,6 +31,17 @@ module.exports = function(server) {
     });
   }
 
+  function randomLight(req, reply) {
+    var lightId = req.params.id;
+
+    spark.randomLight(lightId).then(function(data) {
+      reply(data);
+    }, function(error) {
+      server.log(["error", "changeLight"], error);
+      reply(Hapi.error.internal());
+    });
+  }
+
   return [
     {
       method: 'GET',
@@ -44,6 +55,13 @@ module.exports = function(server) {
       path: '/lights/{id}',
       config: {
         handler: changeLight
+      }
+    },
+    {
+      method: 'POST',
+      path: '/lights/{id}/random',
+      config: {
+        handler: randomLight
       }
     }
   ];

@@ -86,6 +86,12 @@ int changeRGB(String command) {
   return HTTP_OK;
 }
 
+int randomRGB(String command) {
+  nextRandomColor();
+
+  return HTTP_OK;
+}
+
 void setup() {
   // Start serial connection
   Serial.begin(9600);
@@ -104,6 +110,15 @@ void setup() {
    *    POST https://api.spark.io/v1/devices/[device_id]/update
    */
   Spark.function("update", changeRGB);
+
+  /**
+   * Change RGB to a random color
+   *
+   * To call (with authentication):
+   *
+   *    POST https://api.spark.io/v1/devices/[device_id]/random
+   */
+  Spark.function("random", randomRGB);
 
   // Register state variable
   Spark.variable("state", &rgbColors, STRING);
