@@ -1,8 +1,18 @@
 var SocketIO = require('socket.io');
 var _ = require('lodash');
+var spark = require('../spark');
 
 var MIN_DELAY_TIME = 3 * 1000; // 10s
 var MAX_DELAY_TIME = 10 * 1000; // 10s
+
+function randomColor(lightId) {
+  console.log("random", lightId);
+
+  return spark.randomLight(lightId).then(function(data) {
+  }, function(e) {
+    console.error("random error", e);
+  });
+}
 
 function sendMessage(io, message, type, index) {
   var msgTitle = 'msg:' + type;
@@ -11,6 +21,12 @@ function sendMessage(io, message, type, index) {
     type: type,
     msgIndex: index
   });
+
+  if (type === "war") {
+    randomColor("1");
+  } else if (type === "peace") {
+    randomColor("2");
+  }
 }
 
 function trickleData(io, data, type) {
