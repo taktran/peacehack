@@ -1,0 +1,4110 @@
+{
+  "total": 6071,
+  "data": [
+    {
+      "remoteID": "507091811915948032",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "diaahadid",
+        "remoteID": "14933370",
+        "image": "http://pbs.twimg.com/profile_images/506497853514985472/er-pueXA_normal.jpeg",
+        "name": "Diaa Hadid ضياء حديد"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-03T09:04:43+00:00",
+      "summary": "Who accounts for injustice? DNA Evidence Clears Two Men in 1983 Murder http://t.co/fl9dF3QiTK",
+      "content": "Who accounts for injustice? DNA Evidence Clears Two Men in 1983 Murder http://t.co/fl9dF3QiTK",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T09:13:36.861019",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Santiago",
+          "authorLocationName": "Beirut, Lebanon"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "GCprHLA1R1GzqTVJaD50Zw",
+      "createdAt": "2014-09-03T09:13:51.952473"
+    },
+    {
+      "remoteID": "507090364587859969",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "diaahadid",
+        "remoteID": "14933370",
+        "image": "http://pbs.twimg.com/profile_images/506497853514985472/er-pueXA_normal.jpeg",
+        "name": "Diaa Hadid ضياء حديد"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-03T08:58:58+00:00",
+      "summary": "Breaking the siege of #Amerli, #Iraq: read to the last three paragraphs. \nhttp://t.co/tph4x4djzz",
+      "content": "Breaking the siege of #Amerli, #Iraq: read to the last three paragraphs. \nhttp://t.co/tph4x4djzz",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T09:13:36.843311",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Santiago",
+          "authorLocationName": "Beirut, Lebanon"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "cieulIh7Qi2tYc3aMSypnA",
+      "createdAt": "2014-09-03T09:13:52.203737"
+    },
+    {
+      "remoteID": "507081101417144320",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "diaahadid",
+        "remoteID": "14933370",
+        "image": "http://pbs.twimg.com/profile_images/506497853514985472/er-pueXA_normal.jpeg",
+        "name": "Diaa Hadid ضياء حديد"
+      },
+      "tags": [
+        {
+          "confidence": 1,
+          "name": "air-combat"
+        },
+        {
+          "confidence": 1,
+          "name": "armed-conflict"
+        },
+        {
+          "confidence": 1,
+          "name": "conflict"
+        }
+      ],
+      "publishedAt": "2014-09-03T08:22:10+00:00",
+      "summary": "RT @DailyStarLeb: HRW slams #Lebanon for expelling children of migrant laborers http://t.co/WwFr3...",
+      "content": "RT @DailyStarLeb: HRW slams #Lebanon for expelling children of migrant laborers http://t.co/WwFr3TBzRi",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T08:31:30.128798",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Santiago",
+          "authorLocationName": "Beirut, Lebanon"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "1KxwRV-xS_C5oujAEmeKjA",
+      "createdAt": "2014-09-03T08:31:51.015570"
+    },
+    {
+      "remoteID": "507079952290697216",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "diaahadid",
+        "remoteID": "14933370",
+        "image": "http://pbs.twimg.com/profile_images/506497853514985472/er-pueXA_normal.jpeg",
+        "name": "Diaa Hadid ضياء حديد"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-03T08:17:36+00:00",
+      "summary": "\"they have formed the most monstrous squad of historical reenactors of all time\"  Graeme Wood on ...",
+      "content": "\"they have formed the most monstrous squad of historical reenactors of all time\"  Graeme Wood on ISIS http://t.co/I68m4OiWNL",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T08:31:32.765522",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Santiago",
+          "authorLocationName": "Beirut, Lebanon"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "IpIsenLCSueE-WpXyXdhPA",
+      "createdAt": "2014-09-03T08:31:51.057906"
+    },
+    {
+      "remoteID": "507077595067080705",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "diaahadid",
+        "remoteID": "14933370",
+        "image": "http://pbs.twimg.com/profile_images/506497853514985472/er-pueXA_normal.jpeg",
+        "name": "Diaa Hadid ضياء حديد"
+      },
+      "contentEnglish": "# And Linen",
+      "publishedAt": "2014-09-03T08:08:14+00:00",
+      "summary": "#وينن",
+      "content": "#وينن",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T08:31:32.765068",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Santiago",
+          "authorLocationName": "Beirut, Lebanon"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "oHM6f-R7S-6z0ZixCZzc5Q",
+      "createdAt": "2014-09-03T08:31:51.105342"
+    },
+    {
+      "remoteID": "507075314221346816",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "THE_47th",
+        "remoteID": "22741371",
+        "image": "http://pbs.twimg.com/profile_images/2402183369/image_normal.jpg",
+        "name": "The 47th"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-03T07:59:10+00:00",
+      "summary": ". @_djim_ related: http://t.co/fciOp2ujKs",
+      "content": ". @_djim_ related: http://t.co/fciOp2ujKs",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T08:31:32.063573",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": "Syria "
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "4YRAIk7TTm-qyZCK2ihf-w",
+      "createdAt": "2014-09-03T08:31:51.149123"
+    },
+    {
+      "remoteID": "507065726167826432",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "THE_47th",
+        "remoteID": "22741371",
+        "image": "http://pbs.twimg.com/profile_images/2402183369/image_normal.jpg",
+        "name": "The 47th"
+      },
+      "image": "http://pbs.twimg.com/media/Bwl1ltlIEAEPZMr.jpg",
+      "tags": [],
+      "publishedAt": "2014-09-03T07:21:04+00:00",
+      "summary": "Probably 86% of all Muslim Homsies had their penis circumcised at Abdelhaq &amp; Sons Circumcisio...",
+      "content": "Probably 86% of all Muslim Homsies had their penis circumcised at Abdelhaq &amp; Sons Circumcision clinic http://t.co/E3j9bS0998",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:52:11.384550",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": "Syria "
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "NK0HSkjpREWQIkJB_0owMw",
+      "createdAt": "2014-09-03T07:52:50.164377"
+    },
+    {
+      "remoteID": "507058531439476737",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "rzbh",
+        "remoteID": "14996800",
+        "image": "http://pbs.twimg.com/profile_images/464704700328062976/g_5R8N1v_normal.jpeg",
+        "name": "Roozbeh Kaboly"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-03T06:52:29+00:00",
+      "summary": "RT @taahir_khan: Hizb-e-Islami Afghanistan has dismissed as completely false a media report that ...",
+      "content": "RT @taahir_khan: Hizb-e-Islami Afghanistan has dismissed as completely false a media report that it is \"considering joining forces with Isl…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:07:56.758329",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Amsterdam",
+          "authorLocationName": "The Netherlands"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "d3RLR6iAQqWaKwN-5Wh2EA",
+      "createdAt": "2014-09-03T07:08:17.693577"
+    },
+    {
+      "remoteID": "507058130501767168",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "rzbh",
+        "remoteID": "14996800",
+        "image": "http://pbs.twimg.com/profile_images/464704700328062976/g_5R8N1v_normal.jpeg",
+        "name": "Roozbeh Kaboly"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-03T06:50:53+00:00",
+      "summary": "Iranians play role in breaking IS siege of Iraqi town http://t.co/ZuXBAYuCDv",
+      "content": "Iranians play role in breaking IS siege of Iraqi town http://t.co/ZuXBAYuCDv",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:07:57.439440",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Amsterdam",
+          "authorLocationName": "The Netherlands"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "XNORTB5RTk-RQWgR0vPTQw",
+      "createdAt": "2014-09-03T07:08:17.735699"
+    },
+    {
+      "remoteID": "507052048379297792",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "rzbh",
+        "remoteID": "14996800",
+        "image": "http://pbs.twimg.com/profile_images/464704700328062976/g_5R8N1v_normal.jpeg",
+        "name": "Roozbeh Kaboly"
+      },
+      "image": "http://pbs.twimg.com/media/Bwlais7IMAAoypT.jpg",
+      "tags": [],
+      "publishedAt": "2014-09-03T06:26:43+00:00",
+      "summary": "RT @AlArabiya_Eng: #shisha in the middle of #London #streets http://t.co/cigDnd7XJ1 http://t.co/h...",
+      "content": "RT @AlArabiya_Eng: #shisha in the middle of #London #streets http://t.co/cigDnd7XJ1 http://t.co/h9IfELpLhG",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T06:28:49.954573",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Amsterdam",
+          "authorLocationName": "The Netherlands"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "0SmnSlaWQzmQXY80yNUIiw",
+      "createdAt": "2014-09-03T06:28:14.962689"
+    },
+    {
+      "remoteID": "507051615866855424",
+      "license": "twitter",
+      "language": {
+        "code": "nl"
+      },
+      "author": {
+        "username": "rzbh",
+        "remoteID": "14996800",
+        "image": "http://pbs.twimg.com/profile_images/464704700328062976/g_5R8N1v_normal.jpeg",
+        "name": "Roozbeh Kaboly"
+      },
+      "contentEnglish": "RTHRW_NL: The Islamic State also now makes use of cluster bombs. nytimes about new reporthrw http://t.co/qFmgHv2Zh8rzbh @ ja ...",
+      "publishedAt": "2014-09-03T06:25:00+00:00",
+      "summary": "RT @HRW_NL: De Islamitische Staat maakt nu ook gebruik van clusterbommen. @nytimes over nieuw rap...",
+      "content": "RT @HRW_NL: De Islamitische Staat maakt nu ook gebruik van clusterbommen. @nytimes over nieuw rapport @hrw http://t.co/qFmgHv2Zh8 @rzbh @ja…",
+      "source": "twitter",
+      "tags": [
+        {
+          "confidence": 1,
+          "name": "armed-conflict"
+        },
+        {
+          "confidence": 1,
+          "name": "conflict"
+        }
+      ],
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T06:28:40.907515",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Amsterdam",
+          "authorLocationName": "The Netherlands"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "7PpM2Mr7TSOxaG0qZaZrug",
+      "createdAt": "2014-09-03T06:28:14.998357"
+    },
+    {
+      "remoteID": "506920170737369088",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "KenanFreeSyria",
+        "remoteID": "14200987",
+        "image": "http://pbs.twimg.com/profile_images/489762179898302466/1kuIoxah_normal.jpeg",
+        "name": "Kenan كنان"
+      },
+      "image": "http://pbs.twimg.com/media/Bwi3SHqIMAA7ncB.jpg",
+      "tags": [
+        {
+          "confidence": 0.9995,
+          "name": "photo-person"
+        }
+      ],
+      "publishedAt": "2014-09-02T21:42:41+00:00",
+      "summary": "RT @KenRoth: Remember Steven Sotloff as hero for reporting #Syria atrocities. Latest is ISIS murd...",
+      "content": "RT @KenRoth: Remember Steven Sotloff as hero for reporting #Syria atrocities. Latest is ISIS murdering him. http://t.co/7f6OwDoubH http://t…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T01:17:12.380504",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": "Half in school, half in Syria"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "PujTXcrcTeSagAVj31dT8w",
+      "createdAt": "2014-09-03T01:17:38.920261"
+    },
+    {
+      "remoteID": "506883667583463424",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "diaahadid",
+        "remoteID": "14933370",
+        "image": "http://pbs.twimg.com/profile_images/506497853514985472/er-pueXA_normal.jpeg",
+        "name": "Diaa Hadid ضياء حديد"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-02T19:17:38+00:00",
+      "summary": "RT @LizSly: CNN is toning down its images of the Sotloff beheading - showing only his face; refra...",
+      "content": "RT @LizSly: CNN is toning down its images of the Sotloff beheading - showing only his face; refraining from using his speech, cutting out t…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T19:47:47.659524",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Santiago",
+          "authorLocationName": "Beirut, Lebanon"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "traydAxPRWGptWY8VGhmzQ",
+      "createdAt": "2014-09-02T19:47:16.768631"
+    },
+    {
+      "remoteID": "506883656380465152",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "diaahadid",
+        "remoteID": "14933370",
+        "image": "http://pbs.twimg.com/profile_images/506497853514985472/er-pueXA_normal.jpeg",
+        "name": "Diaa Hadid ضياء حديد"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-02T19:17:35+00:00",
+      "summary": "RT @ABC: Journalist Steven Sotloff's family \"aware of video, but awaiting confirmation,\" spokeswo...",
+      "content": "RT @ABC: Journalist Steven Sotloff's family \"aware of video, but awaiting confirmation,\" spokeswoman says; “they're grieving and want their…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T19:47:48.306688",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Santiago",
+          "authorLocationName": "Beirut, Lebanon"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "xyrBKlDTSHGdGLxM4YP9VA",
+      "createdAt": "2014-09-02T19:47:17.180542"
+    },
+    {
+      "remoteID": "506881224644628481",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "diaahadid",
+        "remoteID": "14933370",
+        "image": "http://pbs.twimg.com/profile_images/506497853514985472/er-pueXA_normal.jpeg",
+        "name": "Diaa Hadid ضياء حديد"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-02T19:07:56+00:00",
+      "summary": "RT @hxhassan: 'It's excessive. Every time we go to the city centre, we find (slaughtered) heads h...",
+      "content": "RT @hxhassan: 'It's excessive. Every time we go to the city centre, we find (slaughtered) heads hung on the fence\" - someone from Deir Ezzo…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T19:47:42.809155",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Santiago",
+          "authorLocationName": "Beirut, Lebanon"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "5DpIyCywQbG_cwEfZMKY1w",
+      "createdAt": "2014-09-02T19:47:17.526329"
+    },
+    {
+      "remoteID": "506881049373073408",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "diaahadid",
+        "remoteID": "14933370",
+        "image": "http://pbs.twimg.com/profile_images/506497853514985472/er-pueXA_normal.jpeg",
+        "name": "Diaa Hadid ضياء حديد"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-02T19:07:14+00:00",
+      "summary": "RT @KarlreMarks: We all need to remember that ISIS murders are practised regularly on hundreds in...",
+      "content": "RT @KarlreMarks: We all need to remember that ISIS murders are practised regularly on hundreds in Syria and Iraq, these are not one-offs.",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T19:47:42.861912",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Santiago",
+          "authorLocationName": "Beirut, Lebanon"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "XuVkQ4OhQAOSsXbiQe7uDw",
+      "createdAt": "2014-09-02T19:47:17.590188"
+    },
+    {
+      "remoteID": "506878968784371715",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "diaahadid",
+        "remoteID": "14933370",
+        "image": "http://pbs.twimg.com/profile_images/506497853514985472/er-pueXA_normal.jpeg",
+        "name": "Diaa Hadid ضياء حديد"
+      },
+      "tags": [
+        {
+          "confidence": 1,
+          "name": "armed-conflict"
+        },
+        {
+          "confidence": 1,
+          "name": "conflict"
+        },
+        {
+          "confidence": 1,
+          "name": "death"
+        }
+      ],
+      "publishedAt": "2014-09-02T18:58:58+00:00",
+      "summary": "RT @rhreid: #Sotloff appears to have been killed after the bombing around Amerli, #Iraq.  http://...",
+      "content": "RT @rhreid: #Sotloff appears to have been killed after the bombing around Amerli, #Iraq.  http://t.co/DznWphRGPR",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T19:05:50.029561",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Santiago",
+          "authorLocationName": "Beirut, Lebanon"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "iz4_z7GHR3auRk3P4qQbQg",
+      "createdAt": "2014-09-02T19:05:20.145474"
+    },
+    {
+      "remoteID": "506876799058317312",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "diaahadid",
+        "remoteID": "14933370",
+        "image": "http://pbs.twimg.com/profile_images/506497853514985472/er-pueXA_normal.jpeg",
+        "name": "Diaa Hadid ضياء حديد"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-02T18:50:20+00:00",
+      "summary": "RT @AP: MORE: Sotloff family \"knows of this horrific tragedy and is grieving privately,\" spokesma...",
+      "content": "RT @AP: MORE: Sotloff family \"knows of this horrific tragedy and is grieving privately,\" spokesman says: http://t.co/MbcQARrhOG",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T19:05:50.606392",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Santiago",
+          "authorLocationName": "Beirut, Lebanon"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "rN1ukh84QV60cU8gkhWRUw",
+      "createdAt": "2014-09-02T19:05:20.182471"
+    },
+    {
+      "remoteID": "506876372229189632",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "diaahadid",
+        "remoteID": "14933370",
+        "image": "http://pbs.twimg.com/profile_images/506497853514985472/er-pueXA_normal.jpeg",
+        "name": "Diaa Hadid ضياء حديد"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-02T18:48:39+00:00",
+      "summary": "RT @Raniaab: RIP all captives beheaded by IS in past weeks: Foley, Sotloff, a Lebanese soldier, a...",
+      "content": "RT @Raniaab: RIP all captives beheaded by IS in past weeks: Foley, Sotloff, a Lebanese soldier, an Iraqi Kurd, many, many Syrians",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T19:05:40.948975",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Santiago",
+          "authorLocationName": "Beirut, Lebanon"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "ign2utnOQLmoGpGK8r5xWw",
+      "createdAt": "2014-09-02T19:05:20.214965"
+    },
+    {
+      "remoteID": "506876199457783809",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "diaahadid",
+        "remoteID": "14933370",
+        "image": "http://pbs.twimg.com/profile_images/506497853514985472/er-pueXA_normal.jpeg",
+        "name": "Diaa Hadid ضياء حديد"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-02T18:47:57+00:00",
+      "summary": "RT @zkaram: Video purports to show beheading of 2nd US journalist Steven #Sotloff http://t.co/IT5...",
+      "content": "RT @zkaram: Video purports to show beheading of 2nd US journalist Steven #Sotloff http://t.co/IT5hTorpjd",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T19:05:50.061033",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Santiago",
+          "authorLocationName": "Beirut, Lebanon"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "jZjAqHCxTa-jO0FcknVQDQ",
+      "createdAt": "2014-09-02T19:05:20.250100"
+    },
+    {
+      "remoteID": "506873862500659200",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "diaahadid",
+        "remoteID": "14933370",
+        "image": "http://pbs.twimg.com/profile_images/506497853514985472/er-pueXA_normal.jpeg",
+        "name": "Diaa Hadid ضياء حديد"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-02T18:38:40+00:00",
+      "summary": "RT @ishaantharoor: @liamstack @blakehounshell not for Time. We told him rptdly not to go in. Per ...",
+      "content": "RT @ishaantharoor: @liamstack @blakehounshell not for Time. We told him rptdly not to go in. Per DB story, he was chasing a lead. Not sure …",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T19:06:00.857087",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Santiago",
+          "authorLocationName": "Beirut, Lebanon"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "KBD6cALnRdGuF5X_UL8yOA",
+      "createdAt": "2014-09-02T19:05:20.281541"
+    },
+    {
+      "remoteID": "506873669352976384",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "diaahadid",
+        "remoteID": "14933370",
+        "image": "http://pbs.twimg.com/profile_images/506497853514985472/er-pueXA_normal.jpeg",
+        "name": "Diaa Hadid ضياء حديد"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-02T18:37:54+00:00",
+      "summary": "RT @AP: BREAKING: Family spokesman: Sotloff relatives aware of beheading video by Islamic State, ...",
+      "content": "RT @AP: BREAKING: Family spokesman: Sotloff relatives aware of beheading video by Islamic State, are grieving.",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T19:06:16.513864",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Santiago",
+          "authorLocationName": "Beirut, Lebanon"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "JyABsK1OTUqWEFdtW5SwUA",
+      "createdAt": "2014-09-02T19:05:20.314891"
+    },
+    {
+      "remoteID": "506873655679520768",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "diaahadid",
+        "remoteID": "14933370",
+        "image": "http://pbs.twimg.com/profile_images/506497853514985472/er-pueXA_normal.jpeg",
+        "name": "Diaa Hadid ضياء حديد"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-02T18:37:51+00:00",
+      "summary": "RT @BuzzFeedNews: WASHINGTON (@AP) — Family spokesman: Sotloff relatives aware of beheading video...",
+      "content": "RT @BuzzFeedNews: WASHINGTON (@AP) — Family spokesman: Sotloff relatives aware of beheading video by Islamic State, are grieving",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T19:06:16.589238",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Santiago",
+          "authorLocationName": "Beirut, Lebanon"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "9qRLvlXdSWWjiRZI5WvrDQ",
+      "createdAt": "2014-09-02T19:05:20.346211"
+    },
+    {
+      "remoteID": "506872960154890240",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "diaahadid",
+        "remoteID": "14933370",
+        "image": "http://pbs.twimg.com/profile_images/506497853514985472/er-pueXA_normal.jpeg",
+        "name": "Diaa Hadid ضياء حديد"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-02T18:35:05+00:00",
+      "summary": "RT @liamstack: Good question, anyone know? RT @blakehounshell  Who was Sotloff on assignment for ...",
+      "content": "RT @liamstack: Good question, anyone know? RT @blakehounshell  Who was Sotloff on assignment for when he was kidnapped? Has that come out y…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T19:06:17.862111",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Santiago",
+          "authorLocationName": "Beirut, Lebanon"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "_U5uqR2yS2WqcsBkOm_ypA",
+      "createdAt": "2014-09-02T19:05:20.378775"
+    },
+    {
+      "remoteID": "506872682928156674",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "diaahadid",
+        "remoteID": "14933370",
+        "image": "http://pbs.twimg.com/profile_images/506497853514985472/er-pueXA_normal.jpeg",
+        "name": "Diaa Hadid ضياء حديد"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-02T18:33:59+00:00",
+      "summary": "RT @rhreid: #Pentagon spokesman: \"We believe #Turkey...expending energy\" to confront #IslamicStat...",
+      "content": "RT @rhreid: #Pentagon spokesman: \"We believe #Turkey...expending energy\" to confront #IslamicState \"as best they can.\"",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T19:06:26.448966",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Santiago",
+          "authorLocationName": "Beirut, Lebanon"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "fqhrsyuoSqCMTQZb4pz8kw",
+      "createdAt": "2014-09-02T19:05:20.415916"
+    },
+    {
+      "remoteID": "506871821384572929",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "diaahadid",
+        "remoteID": "14933370",
+        "image": "http://pbs.twimg.com/profile_images/506497853514985472/er-pueXA_normal.jpeg",
+        "name": "Diaa Hadid ضياء حديد"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-02T18:30:34+00:00",
+      "summary": "RT @joshgreenman: In a world awash in pundits, here's to all the journalists who risk their lives...",
+      "content": "RT @joshgreenman: In a world awash in pundits, here's to all the journalists who risk their lives in dangerous places, trying to convey com…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T19:06:43.214436",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Santiago",
+          "authorLocationName": "Beirut, Lebanon"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "epw4l4ovQvy2UIi9ufnnRA",
+      "createdAt": "2014-09-02T19:05:20.471042"
+    },
+    {
+      "remoteID": "506866182444838912",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "diaahadid",
+        "remoteID": "14933370",
+        "image": "http://pbs.twimg.com/profile_images/506497853514985472/er-pueXA_normal.jpeg",
+        "name": "Diaa Hadid ضياء حديد"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-02T18:08:09+00:00",
+      "summary": "RT @tgoldenberg: Steven Sotloff's murder should draw attention not only to reporters' plight, but...",
+      "content": "RT @tgoldenberg: Steven Sotloff's murder should draw attention not only to reporters' plight, but also to locals under #ISIS' menacing rule",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T18:24:48.652069",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Santiago",
+          "authorLocationName": "Beirut, Lebanon"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "EFXkZskuQvuWcT6Qptrvtg",
+      "createdAt": "2014-09-02T18:25:15.377147"
+    },
+    {
+      "remoteID": "506865723680243712",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "diaahadid",
+        "remoteID": "14933370",
+        "image": "http://pbs.twimg.com/profile_images/506497853514985472/er-pueXA_normal.jpeg",
+        "name": "Diaa Hadid ضياء حديد"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-02T18:06:20+00:00",
+      "summary": "RT @joshrogin: .@statedeptspox says U.S. wants to destroy ISIL \"as quickly as possible\"",
+      "content": "RT @joshrogin: .@statedeptspox says U.S. wants to destroy ISIL \"as quickly as possible\"",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T18:24:48.600516",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Santiago",
+          "authorLocationName": "Beirut, Lebanon"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "qxL9gM5YTmmCpPaE4BN4nQ",
+      "createdAt": "2014-09-02T18:25:15.466532"
+    },
+    {
+      "remoteID": "506859666979454978",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "diaahadid",
+        "remoteID": "14933370",
+        "image": "http://pbs.twimg.com/profile_images/506497853514985472/er-pueXA_normal.jpeg",
+        "name": "Diaa Hadid ضياء حديد"
+      },
+      "tags": [
+        {
+          "confidence": 1,
+          "name": "death"
+        }
+      ],
+      "publishedAt": "2014-09-02T17:42:16+00:00",
+      "summary": "RT @AP: MORE: Sotloff was threatened with death in recent video showing beheading of another Amer...",
+      "content": "RT @AP: MORE: Sotloff was threatened with death in recent video showing beheading of another American journalist: http://t.co/wvdZw8lnEZ",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T18:24:49.294855",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Santiago",
+          "authorLocationName": "Beirut, Lebanon"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "mwLK4nQpTDuXmgg0M1QnFg",
+      "createdAt": "2014-09-02T18:25:15.732450"
+    },
+    {
+      "remoteID": "506854086478929920",
+      "license": "twitter",
+      "language": {
+        "code": "ar"
+      },
+      "author": {
+        "username": "diaahadid",
+        "remoteID": "14933370",
+        "image": "http://pbs.twimg.com/profile_images/506497853514985472/er-pueXA_normal.jpeg",
+        "name": "Diaa Hadid ضياء حديد"
+      },
+      "contentEnglish": "RT @ AkhbarMujahid3: soon to be published # Massh_alvriqan version titled\n\n\"A second letter to America\"\n\n\"A Second Message to America\"",
+      "publishedAt": "2014-09-02T17:20:05+00:00",
+      "summary": "RT @AkhbarMujahid3: قريباً ستنشر #مؤسسة_الفرقان إصداراً بعنوان\n\n\"رسالة ثانية لأمريكا\"\n\n\"A Second ...",
+      "content": "RT @AkhbarMujahid3: قريباً ستنشر #مؤسسة_الفرقان إصداراً بعنوان\n\n\"رسالة ثانية لأمريكا\"\n\n\"A Second Message to America\"",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T17:39:13.588560",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Santiago",
+          "authorLocationName": "Beirut, Lebanon"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "quV6KcLUSdKr9GLY0Zvzcw",
+      "createdAt": "2014-09-02T17:38:54.195206"
+    },
+    {
+      "remoteID": "506853750733299713",
+      "license": "twitter",
+      "language": {
+        "code": "es"
+      },
+      "author": {
+        "username": "diaahadid",
+        "remoteID": "14933370",
+        "image": "http://pbs.twimg.com/profile_images/506497853514985472/er-pueXA_normal.jpeg",
+        "name": "Diaa Hadid ضياء حديد"
+      },
+      "contentEnglish": "RTvicentmontagud: Steven Sotloff. Another journalist beheaded in Iraq by the Islamic State. BBCWorld",
+      "publishedAt": "2014-09-02T17:18:45+00:00",
+      "summary": "RT @vicentmontagud: Steven Sotloff. Otro periodista decapitado en Iraq por el Estado Islámico. @B...",
+      "content": "RT @vicentmontagud: Steven Sotloff. Otro periodista decapitado en Iraq por el Estado Islámico. @BBCWorld",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T17:39:21.125792",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Santiago",
+          "authorLocationName": "Beirut, Lebanon"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "xKZOE0emTIupLf87Ekexvg",
+      "createdAt": "2014-09-02T17:38:54.245988"
+    },
+    {
+      "remoteID": "506853638862807040",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "diaahadid",
+        "remoteID": "14933370",
+        "image": "http://pbs.twimg.com/profile_images/506497853514985472/er-pueXA_normal.jpeg",
+        "name": "Diaa Hadid ضياء حديد"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-02T17:18:19+00:00",
+      "summary": "RT @DailyMail: BREAKING: Internet video purports to show beheading of U.S. reporter Steven Sotlof...",
+      "content": "RT @DailyMail: BREAKING: Internet video purports to show beheading of U.S. reporter Steven Sotloff by ISIS - @AP",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T17:39:21.838631",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Santiago",
+          "authorLocationName": "Beirut, Lebanon"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "hfmttPqUQSeeKAeVa5ljvA",
+      "createdAt": "2014-09-02T17:38:54.279816"
+    },
+    {
+      "remoteID": "506853446507831296",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "diaahadid",
+        "remoteID": "14933370",
+        "image": "http://pbs.twimg.com/profile_images/506497853514985472/er-pueXA_normal.jpeg",
+        "name": "Diaa Hadid ضياء حديد"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-02T17:17:33+00:00",
+      "summary": "RT @MarquardtA: RT @siteintelgroup\n#IS Beheads Steven Joel #Sotloff, Threatens to Execute Briton ...",
+      "content": "RT @MarquardtA: RT @siteintelgroup\n#IS Beheads Steven Joel #Sotloff, Threatens to Execute Briton David Cawthorne Haines",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T17:39:21.060854",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Santiago",
+          "authorLocationName": "Beirut, Lebanon"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "DPxg_Z75Ri6acfbTsAWKLQ",
+      "createdAt": "2014-09-02T17:38:54.310645"
+    },
+    {
+      "remoteID": "506853429013393408",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "diaahadid",
+        "remoteID": "14933370",
+        "image": "http://pbs.twimg.com/profile_images/506497853514985472/er-pueXA_normal.jpeg",
+        "name": "Diaa Hadid ضياء حديد"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-02T17:17:29+00:00",
+      "summary": "RT @pdanahar: AP reporting that a video has been released on the internet showing the beheading o...",
+      "content": "RT @pdanahar: AP reporting that a video has been released on the internet showing the beheading of journalist Steven Sotloff by ISIS.",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T17:39:34.594832",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Santiago",
+          "authorLocationName": "Beirut, Lebanon"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "Pg6CRY9NQxyWK4KgYX4DIg",
+      "createdAt": "2014-09-02T17:38:54.361940"
+    },
+    {
+      "remoteID": "506852364561965057",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "diaahadid",
+        "remoteID": "14933370",
+        "image": "http://pbs.twimg.com/profile_images/506497853514985472/er-pueXA_normal.jpeg",
+        "name": "Diaa Hadid ضياء حديد"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-02T17:13:15+00:00",
+      "summary": "RT @maxjrosenthal: Christ. RT @AP: BREAKING: Internet video purports to show beheading of US repo...",
+      "content": "RT @maxjrosenthal: Christ. RT @AP: BREAKING: Internet video purports to show beheading of US reporter Steven Sotloff by Islamic State group.",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T17:39:46.817319",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Santiago",
+          "authorLocationName": "Beirut, Lebanon"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "9YV6XS9XTN65z2ZyBF5TvA",
+      "createdAt": "2014-09-02T17:38:54.403552"
+    },
+    {
+      "remoteID": "506852303606145025",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "diaahadid",
+        "remoteID": "14933370",
+        "image": "http://pbs.twimg.com/profile_images/506497853514985472/er-pueXA_normal.jpeg",
+        "name": "Diaa Hadid ضياء حديد"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-02T17:13:00+00:00",
+      "summary": "RT @karoun: oh no not again. RT @AP BREAKING: Internet video purports to show beheading of US rep...",
+      "content": "RT @karoun: oh no not again. RT @AP BREAKING: Internet video purports to show beheading of US reporter Steven Sotloff by Islamic State grou…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T17:39:48.822493",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Santiago",
+          "authorLocationName": "Beirut, Lebanon"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "qBy-tUUXRl-qwoasPRCOgg",
+      "createdAt": "2014-09-02T17:38:54.435388"
+    },
+    {
+      "remoteID": "506851754705960960",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "diaahadid",
+        "remoteID": "14933370",
+        "image": "http://pbs.twimg.com/profile_images/506497853514985472/er-pueXA_normal.jpeg",
+        "name": "Diaa Hadid ضياء حديد"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-02T17:10:49+00:00",
+      "summary": "RT @AP: BREAKING: Internet video purports to show beheading of US reporter Steven Sotloff by Isla...",
+      "content": "RT @AP: BREAKING: Internet video purports to show beheading of US reporter Steven Sotloff by Islamic State group.",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T17:39:54.644696",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Santiago",
+          "authorLocationName": "Beirut, Lebanon"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "9CmqBppTSca8VcVgkBfPaw",
+      "createdAt": "2014-09-02T17:38:54.502433"
+    },
+    {
+      "remoteID": "506811839301566465",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "THE_47th",
+        "remoteID": "22741371",
+        "image": "http://pbs.twimg.com/profile_images/2402183369/image_normal.jpg",
+        "name": "The 47th"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-02T14:32:13+00:00",
+      "summary": "After all those years, I just found out that 'cinqtupled' isn't what comes after tripled &amp; qu...",
+      "content": "After all those years, I just found out that 'cinqtupled' isn't what comes after tripled &amp; quadrupled.",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T14:52:05.854454",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": "Syria "
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "SV61X5ssQCmZlVQS-NC8Qw",
+      "createdAt": "2014-09-02T14:52:36.823617"
+    },
+    {
+      "remoteID": "506796133470191616",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "THE_47th",
+        "remoteID": "22741371",
+        "image": "http://pbs.twimg.com/profile_images/2402183369/image_normal.jpg",
+        "name": "The 47th"
+      },
+      "contentEnglish": "RT @CilinaNasser: @BBCKimGhattas @THE_47th \nhttps://t.co/qqnEu3bTBY",
+      "publishedAt": "2014-09-02T13:29:48+00:00",
+      "summary": "RT @CilinaNasser: @BBCKimGhattas @THE_47th \nhttps://t.co/qqnEu3bTBY",
+      "content": "RT @CilinaNasser: @BBCKimGhattas @THE_47th \nhttps://t.co/qqnEu3bTBY",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T14:07:33.729605",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": "Syria "
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "I4nJ_PviQjWr9KVCRV6Jqg",
+      "createdAt": "2014-09-02T14:08:09.302568"
+    },
+    {
+      "remoteID": "506794186054848512",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "THE_47th",
+        "remoteID": "22741371",
+        "image": "http://pbs.twimg.com/profile_images/2402183369/image_normal.jpg",
+        "name": "The 47th"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-02T13:22:04+00:00",
+      "summary": "Says a lot abt our history: The top 10 most memorable speeches of Arab leaders in modern history ...",
+      "content": "Says a lot abt our history: The top 10 most memorable speeches of Arab leaders in modern history http://t.co/JcZ2aCC3HZ [English subtitles]",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T13:26:29.173314",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": "Syria "
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "_Cyf8aDGSTKmWIjqgh6X6A",
+      "createdAt": "2014-09-02T13:27:15.760658"
+    },
+    {
+      "remoteID": "506786947680182272",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "diaahadid",
+        "remoteID": "14933370",
+        "image": "http://pbs.twimg.com/profile_images/506497853514985472/er-pueXA_normal.jpeg",
+        "name": "Diaa Hadid ضياء حديد"
+      },
+      "tags": [
+        {
+          "confidence": 1,
+          "name": "armed-conflict"
+        },
+        {
+          "confidence": 1,
+          "name": "conflict"
+        },
+        {
+          "confidence": 1,
+          "name": "death"
+        }
+      ],
+      "publishedAt": "2014-09-02T12:53:18+00:00",
+      "summary": "RT @AP: BREAKING: 6 militants killed in US strike on al-Shabab in Somalia; fate of group's leader...",
+      "content": "RT @AP: BREAKING: 6 militants killed in US strike on al-Shabab in Somalia; fate of group's leader unclear.",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T13:11:17.478256",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Santiago",
+          "authorLocationName": "Beirut, Lebanon"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "2NLPrM6hSKuYFEHX6N8wfw",
+      "createdAt": "2014-09-02T13:11:25.250823"
+    },
+    {
+      "remoteID": "506786465850732544",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "diaahadid",
+        "remoteID": "14933370",
+        "image": "http://pbs.twimg.com/profile_images/506497853514985472/er-pueXA_normal.jpeg",
+        "name": "Diaa Hadid ضياء حديد"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-02T12:51:23+00:00",
+      "summary": "A girl was raped by 5 men but a detective said the sex was “100% consensual.” She was 12. #Britai...",
+      "content": "A girl was raped by 5 men but a detective said the sex was “100% consensual.” She was 12. #Britain's rape problem\n\n http://t.co/5gMxhx8y7d",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T13:11:17.513722",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Santiago",
+          "authorLocationName": "Beirut, Lebanon"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "CacXxzWdRO-A3GzEKWhQgg",
+      "createdAt": "2014-09-02T13:11:25.301223"
+    },
+    {
+      "remoteID": "506783512717164544",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "THE_47th",
+        "remoteID": "22741371",
+        "image": "http://pbs.twimg.com/profile_images/2402183369/image_normal.jpg",
+        "name": "The 47th"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-02T12:39:39+00:00",
+      "summary": "RT @rmslim: The middle man between #ISIS &amp; #Assad regime  http://t.co/lgARXP8M3n #Syria",
+      "content": "RT @rmslim: The middle man between #ISIS &amp; #Assad regime  http://t.co/lgARXP8M3n #Syria",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T13:11:18.786621",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": "Syria "
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "vi6CSSUpQHyW1bQFYsPjTw",
+      "createdAt": "2014-09-02T13:11:25.333419"
+    },
+    {
+      "remoteID": "506774578446995456",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "THE_47th",
+        "remoteID": "22741371",
+        "image": "http://pbs.twimg.com/profile_images/2402183369/image_normal.jpg",
+        "name": "The 47th"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-02T12:04:09+00:00",
+      "summary": "RT @mohalfur: @EjmAlrai @DrAbbasKadhim For first time video of murder of Ayatollah Mohammad Sadeq...",
+      "content": "RT @mohalfur: @EjmAlrai @DrAbbasKadhim For first time video of murder of Ayatollah Mohammad Sadeq al-Sadr by Saddam Regime:\n1- http://t.co/…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T12:27:32.295853",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": "Syria "
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "Ub-xED0yR0i8MeeiOo0KtQ",
+      "createdAt": "2014-09-02T12:26:53.430122"
+    },
+    {
+      "remoteID": "506774496393846784",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "THE_47th",
+        "remoteID": "22741371",
+        "image": "http://pbs.twimg.com/profile_images/2402183369/image_normal.jpg",
+        "name": "The 47th"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-02T12:03:50+00:00",
+      "summary": "RT @EjmAlrai: Second video showing how sayed Mohamad sadeq al-Sadr  was shot at again by Saddam H...",
+      "content": "RT @EjmAlrai: Second video showing how sayed Mohamad sadeq al-Sadr  was shot at again by Saddam Husein people https://t.co/zYJBqIK7In\n@moha…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T12:27:33.009441",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": "Syria "
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "FI7-SYpoRpK1S4VpYhlRdg",
+      "createdAt": "2014-09-02T12:26:53.468822"
+    },
+    {
+      "remoteID": "506774032751288320",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "THE_47th",
+        "remoteID": "22741371",
+        "image": "http://pbs.twimg.com/profile_images/2402183369/image_normal.jpg",
+        "name": "The 47th"
+      },
+      "tags": [
+        {
+          "confidence": 1,
+          "name": "armed-conflict"
+        },
+        {
+          "confidence": 1,
+          "name": "conflict"
+        }
+      ],
+      "publishedAt": "2014-09-02T12:01:59+00:00",
+      "summary": "U say some rebel grps the US supports in Syria are affiliated w Al Qaeda/ISIS. I raise u the US f...",
+      "content": "U say some rebel grps the US supports in Syria are affiliated w Al Qaeda/ISIS. I raise u the US fighting nxt 2terrorist militias in Iraq.",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T12:27:25.498356",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": "Syria "
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "Ga94HD0BRESJnnL6kmYAag",
+      "createdAt": "2014-09-02T12:26:53.503646"
+    },
+    {
+      "remoteID": "506744316820471809",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "diaahadid",
+        "remoteID": "14933370",
+        "image": "http://pbs.twimg.com/profile_images/506497853514985472/er-pueXA_normal.jpeg",
+        "name": "Diaa Hadid ضياء حديد"
+      },
+      "tags": [
+        {
+          "confidence": 1,
+          "name": "armed-conflict"
+        },
+        {
+          "confidence": 1,
+          "name": "conflict"
+        },
+        {
+          "confidence": 1,
+          "name": "death"
+        }
+      ],
+      "publishedAt": "2014-09-02T10:03:54+00:00",
+      "summary": "RT @TamerFakahany: Amnesty accuses Islamic State militants of war crimes in Iraq: mass killings, ...",
+      "content": "RT @TamerFakahany: Amnesty accuses Islamic State militants of war crimes in Iraq: mass killings, abductions &amp; expulsions.  http://t.co/k5k6…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T10:26:23.267708",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Santiago",
+          "authorLocationName": "Beirut, Lebanon"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "Sf6B4vWKQu6rhMLlIpxDew",
+      "createdAt": "2014-09-02T10:26:43.802584"
+    },
+    {
+      "remoteID": "506744189242310656",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "diaahadid",
+        "remoteID": "14933370",
+        "image": "http://pbs.twimg.com/profile_images/506497853514985472/er-pueXA_normal.jpeg",
+        "name": "Diaa Hadid ضياء حديد"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-02T10:03:24+00:00",
+      "summary": "RT @nedmparker1: Rampage in Iraqi parliament  by Shiite families of missing soldiers  highlights ...",
+      "content": "RT @nedmparker1: Rampage in Iraqi parliament  by Shiite families of missing soldiers  highlights anger at Iraq's political elite cuts acros…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T10:26:23.255920",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Santiago",
+          "authorLocationName": "Beirut, Lebanon"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "qAlIAAd8QSmlCeQlvQxflg",
+      "createdAt": "2014-09-02T10:26:43.838553"
+    },
+    {
+      "remoteID": "506693612294668288",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "diaahadid",
+        "remoteID": "14933370",
+        "image": "http://pbs.twimg.com/profile_images/506497853514985472/er-pueXA_normal.jpeg",
+        "name": "Diaa Hadid ضياء حديد"
+      },
+      "image": "http://pbs.twimg.com/media/BwMGDEhIcAAOrmb.jpg",
+      "tags": [],
+      "publishedAt": "2014-09-02T06:42:25+00:00",
+      "summary": "RT @MYSADCAT: My cat is sad because he wants to write an epic literary novel but has severe probl...",
+      "content": "RT @MYSADCAT: My cat is sad because he wants to write an epic literary novel but has severe problems with writer's block. http://t.co/ibH9l…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T07:15:14.852424",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Santiago",
+          "authorLocationName": "Beirut, Lebanon"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "BIco_XL8TOqNiLqwJGkVXQ",
+      "createdAt": "2014-09-02T07:15:32.771939"
+    },
+    {
+      "remoteID": "506550692430229504",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "THE_47th",
+        "remoteID": "22741371",
+        "image": "http://pbs.twimg.com/profile_images/2402183369/image_normal.jpg",
+        "name": "The 47th"
+      },
+      "image": "http://pbs.twimg.com/media/Bwec9_MIEAADQxr.jpg",
+      "tags": [],
+      "publishedAt": "2014-09-01T21:14:31+00:00",
+      "summary": "RT @JFXM: Deaths from police shootings (@TheEconomist):\n\nU. States: 409\nGermany: 8\nBritain: 0\nJap...",
+      "content": "RT @JFXM: Deaths from police shootings (@TheEconomist):\n\nU. States: 409\nGermany: 8\nBritain: 0\nJapan: 0\n\nhttp://t.co/NbIBUvryY5 http://t.co/…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T21:52:31.259548",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": "Syria "
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "liQe1YFLT2usKCRD1lAJHQ",
+      "createdAt": "2014-09-01T21:52:55.825898"
+    },
+    {
+      "remoteID": "506546376420098048",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "THE_47th",
+        "remoteID": "22741371",
+        "image": "http://pbs.twimg.com/profile_images/2402183369/image_normal.jpg",
+        "name": "The 47th"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T20:57:22+00:00",
+      "summary": "RT @TaziMorocco: Theory is that #Assad wants a \"Sinjar Scenario\" in Salmiyeh where Ismaelites liv...",
+      "content": "RT @TaziMorocco: Theory is that #Assad wants a \"Sinjar Scenario\" in Salmiyeh where Ismaelites live. #Syria #Hama",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T21:10:06.882251",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": "Syria "
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "PGorCYhLTyemOLy_igfsSw",
+      "createdAt": "2014-09-01T21:10:35.881928"
+    },
+    {
+      "remoteID": "506546370376138752",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "THE_47th",
+        "remoteID": "22741371",
+        "image": "http://pbs.twimg.com/profile_images/2402183369/image_normal.jpg",
+        "name": "The 47th"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T20:57:20+00:00",
+      "summary": "RT @TaziMorocco: Regme paved the way for #ISIS towards Salmiyeh in Eastern #Hama countryside http...",
+      "content": "RT @TaziMorocco: Regme paved the way for #ISIS towards Salmiyeh in Eastern #Hama countryside https://t.co/aqggeSAR9g #Syria",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T21:10:11.995034",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": "Syria "
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "X7fvOpynSvuzmPzByVcfXw",
+      "createdAt": "2014-09-01T21:10:35.951378"
+    },
+    {
+      "remoteID": "506545853512040448",
+      "license": "twitter",
+      "language": {
+        "code": "ar"
+      },
+      "author": {
+        "username": "THE_47th",
+        "remoteID": "22741371",
+        "image": "http://pbs.twimg.com/profile_images/2402183369/image_normal.jpg",
+        "name": "The 47th"
+      },
+      "image": "http://pbs.twimg.com/media/BweS87-IQAEElu5.jpg",
+      "contentEnglish": "RT @ eldorar1: Like Alvriqh_17 # and # # Mtar_tabqh Assad forces withdraw from the vicinity of \"peaceful\" and the organization \"State\" progressing http://t.co/l2sEFo1uJ5 http: // ...",
+      "publishedAt": "2014-09-01T20:55:17+00:00",
+      "summary": "RT @eldorar1: على غرار #الفرقة_17 و #مطار_الطبقة قوات #الأسد تنسحب من محيط \"#السلمية\" وتنظيم \"#ال...",
+      "content": "RT @eldorar1: على غرار #الفرقة_17 و #مطار_الطبقة قوات #الأسد تنسحب من محيط \"#السلمية\" وتنظيم \"#الدولة\" يتقدم http://t.co/l2sEFo1uJ5 http://…",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T21:10:12.709527",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": "Syria "
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "_Q6pgzCBSKeClTx8hZnzbg",
+      "createdAt": "2014-09-01T21:10:36.109358"
+    },
+    {
+      "remoteID": "506543378369355776",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "THE_47th",
+        "remoteID": "22741371",
+        "image": "http://pbs.twimg.com/profile_images/2402183369/image_normal.jpg",
+        "name": "The 47th"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T20:45:27+00:00",
+      "summary": "RT @gilbertjasono: Don't want your naked pics leaked? Don't take naked pics. Don't want to be poi...",
+      "content": "RT @gilbertjasono: Don't want your naked pics leaked? Don't take naked pics. Don't want to be poisoned? Don't eat food. Don't want to be mu…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T21:10:10.053821",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": "Syria "
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "v0t_2Tm4Tked14JXRAp6qw",
+      "createdAt": "2014-09-01T21:10:36.150135"
+    },
+    {
+      "remoteID": "506541350813442048",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "THE_47th",
+        "remoteID": "22741371",
+        "image": "http://pbs.twimg.com/profile_images/2402183369/image_normal.jpg",
+        "name": "The 47th"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T20:37:23+00:00",
+      "summary": "When Obama searches for Jennifer Lawrence nudies tonight, will it show up in National Internet Br...",
+      "content": "When Obama searches for Jennifer Lawrence nudies tonight, will it show up in National Internet Browser History Archives?",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T21:10:17.057789",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": "Syria "
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "cEIZOswKR_-2Ed3-K6S_kg",
+      "createdAt": "2014-09-01T21:10:36.192852"
+    },
+    {
+      "remoteID": "506527898824876034",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "THE_47th",
+        "remoteID": "22741371",
+        "image": "http://pbs.twimg.com/profile_images/2402183369/image_normal.jpg",
+        "name": "The 47th"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T19:43:56+00:00",
+      "summary": "RT @iqy007: @daqeqa @THE_47th @ShamiWitness looks like supporters have already given up http://t....",
+      "content": "RT @iqy007: @daqeqa @THE_47th @ShamiWitness looks like supporters have already given up http://t.co/Njqhk9Ypp2 ",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T19:46:51.330235",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": "Syria "
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "8wV1MpONS9yba6B6Ihdp4w",
+      "createdAt": "2014-09-01T19:47:28.374925"
+    },
+    {
+      "remoteID": "506521801451896832",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "THE_47th",
+        "remoteID": "22741371",
+        "image": "http://pbs.twimg.com/profile_images/2402183369/image_normal.jpg",
+        "name": "The 47th"
+      },
+      "image": "http://pbs.twimg.com/media/BweGG5mIMAE2oKq.jpg",
+      "tags": [
+        {
+          "confidence": 0.999629,
+          "name": "photo-person"
+        }
+      ],
+      "publishedAt": "2014-09-01T19:19:42+00:00",
+      "summary": "RT @SoccerMouaz: #FreeMaryam #Bahrain speak out for this brave young lady http://t.co/abF85irDHt",
+      "content": "RT @SoccerMouaz: #FreeMaryam #Bahrain speak out for this brave young lady http://t.co/abF85irDHt",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T19:47:03.887354",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": "Syria "
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "nnFSQQl6S2CI4bJQuZo8Dg",
+      "createdAt": "2014-09-01T19:47:28.416275"
+    },
+    {
+      "remoteID": "506513121906008064",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "diaahadid",
+        "remoteID": "14933370",
+        "image": "http://pbs.twimg.com/profile_images/506497853514985472/er-pueXA_normal.jpeg",
+        "name": "Diaa Hadid ضياء حديد"
+      },
+      "image": "http://pbs.twimg.com/media/BwdzjESIgAEzMwg.jpg",
+      "tags": [
+        {
+          "confidence": 0.5123085257960629,
+          "name": "donation"
+        }
+      ],
+      "publishedAt": "2014-09-01T18:45:13+00:00",
+      "summary": "RT @maxjrosenthal: For real. RT @abumuqawama: Hey, Men of America, I've been in airports all day ...",
+      "content": "RT @maxjrosenthal: For real. RT @abumuqawama: Hey, Men of America, I've been in airports all day and just made this for you. http://t.co/3S…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T19:04:50.401133",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Santiago",
+          "authorLocationName": "Beirut, Lebanon"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "zyTWR4kBR-mhUJUGEYReKA",
+      "createdAt": "2014-09-01T19:04:30.958609"
+    },
+    {
+      "remoteID": "506505349105328128",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "diaahadid",
+        "remoteID": "14933370",
+        "image": "http://pbs.twimg.com/profile_images/506497853514985472/er-pueXA_normal.jpeg",
+        "name": "Diaa Hadid ضياء حديد"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T18:14:20+00:00",
+      "summary": "In Syria's starving Yarmuk camp, a pianist conjures hope http://t.co/SNj09WKwtX via @YahooNews",
+      "content": "In Syria's starving Yarmuk camp, a pianist conjures hope http://t.co/SNj09WKwtX via @YahooNews",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T18:23:48.228592",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Santiago",
+          "authorLocationName": "Beirut, Lebanon"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "npc-L6FtTlWVpnit1AWnwQ",
+      "createdAt": "2014-09-01T18:24:16.281682"
+    },
+    {
+      "remoteID": "506494574614040576",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "diaahadid",
+        "remoteID": "14933370",
+        "image": "http://pbs.twimg.com/profile_images/506497853514985472/er-pueXA_normal.jpeg",
+        "name": "Diaa Hadid ضياء حديد"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T17:31:31+00:00",
+      "summary": "Iron &amp; Wine my ears thank you https://t.co/YgDu7OyVTM",
+      "content": "Iron &amp; Wine my ears thank you https://t.co/YgDu7OyVTM",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T17:45:24.329510",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Santiago",
+          "authorLocationName": "Beirut, Lebanon"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "MbMPWdq7Q7yM408Uhw-msw",
+      "createdAt": "2014-09-01T17:45:55.550751"
+    },
+    {
+      "remoteID": "506494247689003008",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "diaahadid",
+        "remoteID": "14933370",
+        "image": "http://pbs.twimg.com/profile_images/506497853514985472/er-pueXA_normal.jpeg",
+        "name": "Diaa Hadid ضياء حديد"
+      },
+      "image": "http://pbs.twimg.com/media/BwchPZsCMAAZKQP.jpg",
+      "tags": [
+        {
+          "confidence": 0.99959,
+          "name": "photo-person"
+        }
+      ],
+      "publishedAt": "2014-09-01T17:30:13+00:00",
+      "summary": "RT @Act4Disappeared: The #disappeared, or #Lebanon’s inability to face its #CivilWar history @Dai...",
+      "content": "RT @Act4Disappeared: The #disappeared, or #Lebanon’s inability to face its #CivilWar history @DailyStarLeb \nhttp://t.co/HAXASnKUlP http://t…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T17:45:31.866353",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Santiago",
+          "authorLocationName": "Beirut, Lebanon"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "-wf6uYHeTgm919DKZ7nuWw",
+      "createdAt": "2014-09-01T17:45:55.590834"
+    },
+    {
+      "remoteID": "506476063359131648",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "diaahadid",
+        "remoteID": "14933370",
+        "image": "http://pbs.twimg.com/profile_images/378800000751059300/0886e1d443b3c5a56f9b3ab2874b39b1_normal.jpeg",
+        "name": "Diaa Hadid ضياء حديد"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T16:17:58+00:00",
+      "summary": "Important read on women in prison: I Went From Grad School to Prison http://t.co/6JIrqODviV via @...",
+      "content": "Important read on women in prison: I Went From Grad School to Prison http://t.co/6JIrqODviV via @Cosmopolitan",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T16:26:33.121673",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Santiago",
+          "authorLocationName": "Beirut, Lebanon"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "plu93RUqRfun8FiyftcK6w",
+      "createdAt": "2014-09-01T16:27:11.660559"
+    },
+    {
+      "remoteID": "506476001367695360",
+      "license": "twitter",
+      "language": {
+        "code": "in"
+      },
+      "author": {
+        "username": "rzbh",
+        "remoteID": "14996800",
+        "image": "http://pbs.twimg.com/profile_images/464704700328062976/g_5R8N1v_normal.jpeg",
+        "name": "Roozbeh Kaboly"
+      },
+      "image": "http://pbs.twimg.com/media/BwdVzQKIMAAuPx5.jpg",
+      "contentEnglish": "RTCameraHan: Kirkuk http://t.co/hVyPjK0K8J",
+      "publishedAt": "2014-09-01T16:17:43+00:00",
+      "summary": "RT @CameraHan: Kirkuk http://t.co/hVyPjK0K8J",
+      "content": "RT @CameraHan: Kirkuk http://t.co/hVyPjK0K8J",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T16:26:47.428558",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Amsterdam",
+          "authorLocationName": "The Netherlands"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "FlqNZ9vTSUyAKRYRe0T0Rw",
+      "createdAt": "2014-09-01T16:27:11.945707"
+    },
+    {
+      "remoteID": "506475778801160192",
+      "license": "twitter",
+      "language": {
+        "code": "nl"
+      },
+      "author": {
+        "username": "rzbh",
+        "remoteID": "14996800",
+        "image": "http://pbs.twimg.com/profile_images/464704700328062976/g_5R8N1v_normal.jpeg",
+        "name": "Roozbeh Kaboly"
+      },
+      "image": "http://pbs.twimg.com/media/BwdVtBiIYAE2wSk.jpg",
+      "contentEnglish": "RTCameraHan: We drove today also Kirkuk. There often explode car bombs. http://t.co/GyKVzWxRZu",
+      "publishedAt": "2014-09-01T16:16:50+00:00",
+      "summary": "RT @CameraHan: We reden vandaag ook door Kirkuk. Daar ontploffen vaak autobommen. http://t.co/GyK...",
+      "content": "RT @CameraHan: We reden vandaag ook door Kirkuk. Daar ontploffen vaak autobommen. http://t.co/GyKVzWxRZu",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T16:26:47.220066",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Amsterdam",
+          "authorLocationName": "The Netherlands"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "o10NX367Sb-Uq7W0e3IekA",
+      "createdAt": "2014-09-01T16:27:11.988366"
+    },
+    {
+      "remoteID": "506453821225447424",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "diaahadid",
+        "remoteID": "14933370",
+        "image": "http://pbs.twimg.com/profile_images/378800000751059300/0886e1d443b3c5a56f9b3ab2874b39b1_normal.jpeg",
+        "name": "Diaa Hadid ضياء حديد"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T14:49:35+00:00",
+      "summary": "#Arabs use one of their little-known weapons to cut #ISIS down: humor (@KarlreMarks knows that th...",
+      "content": "#Arabs use one of their little-known weapons to cut #ISIS down: humor (@KarlreMarks knows that though) by @vmsalama http://t.co/GSrtcg5ITf",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T15:07:10.930364",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Santiago",
+          "authorLocationName": "Beirut, Lebanon"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "NSL6z63wQMiXUezPSU8fdA",
+      "createdAt": "2014-09-01T15:07:35.631847"
+    },
+    {
+      "remoteID": "506451153694228480",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "diaahadid",
+        "remoteID": "14933370",
+        "image": "http://pbs.twimg.com/profile_images/378800000751059300/0886e1d443b3c5a56f9b3ab2874b39b1_normal.jpeg",
+        "name": "Diaa Hadid ضياء حديد"
+      },
+      "image": "http://pbs.twimg.com/media/BwO16EJIAAA8Qfi.jpg",
+      "tags": [],
+      "publishedAt": "2014-09-01T14:38:59+00:00",
+      "summary": "RT @NYTArchives: 75 years ago today, The Times reported Germany’s invasion of Poland—the start of...",
+      "content": "RT @NYTArchives: 75 years ago today, The Times reported Germany’s invasion of Poland—the start of World War II. http://t.co/Y9oeTiqJcT http…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T15:07:14.227826",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Santiago",
+          "authorLocationName": "Beirut, Lebanon"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "IgTITZtFT8aupG8hAljlOQ",
+      "createdAt": "2014-09-01T15:07:35.668382"
+    },
+    {
+      "remoteID": "506449948146020353",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "THE_47th",
+        "remoteID": "22741371",
+        "image": "http://pbs.twimg.com/profile_images/2402183369/image_normal.jpg",
+        "name": "The 47th"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T14:34:11+00:00",
+      "summary": "RT @rogue_allah: Any1 know why #ISIS has banned the sale of women's sanitary napkins in #mosul? i...",
+      "content": "RT @rogue_allah: Any1 know why #ISIS has banned the sale of women's sanitary napkins in #mosul? is it same in #raqqa #NO2ISIS  http://t.co/…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T15:07:12.238839",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": "Syria "
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "Y3EMFBwmSISiNEnhHBtSsw",
+      "createdAt": "2014-09-01T15:07:35.712422"
+    },
+    {
+      "remoteID": "506438587689488384",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "THE_47th",
+        "remoteID": "22741371",
+        "image": "http://pbs.twimg.com/profile_images/2402183369/image_normal.jpg",
+        "name": "The 47th"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T13:49:03+00:00",
+      "summary": "Twitter's activity is down by 30% bcz of all you guys masturbating wildly to Jennifer Lawrence le...",
+      "content": "Twitter's activity is down by 30% bcz of all you guys masturbating wildly to Jennifer Lawrence leaked nudes.",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T14:22:10.732423",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": "Syria "
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "tGhIQf4ZSiKTvJdbNLfL4w",
+      "createdAt": "2014-09-01T14:22:32.532208"
+    },
+    {
+      "remoteID": "506432366030888960",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "diaahadid",
+        "remoteID": "14933370",
+        "image": "http://pbs.twimg.com/profile_images/378800000751059300/0886e1d443b3c5a56f9b3ab2874b39b1_normal.jpeg",
+        "name": "Diaa Hadid ضياء حديد"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T13:24:19+00:00",
+      "summary": "RT @tgoldenberg: Ideally suited to two-minute bursts of play RT @joshmitnick Palestine's most unl...",
+      "content": "RT @tgoldenberg: Ideally suited to two-minute bursts of play RT @joshmitnick Palestine's most unlikely tech venture: Spermania   http://t.c…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T14:22:12.629262",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Santiago",
+          "authorLocationName": "Beirut, Lebanon"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "R-w3BgKqQuqG7L3--YFScA",
+      "createdAt": "2014-09-01T14:22:32.647166"
+    },
+    {
+      "remoteID": "506422340113399808",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "THE_47th",
+        "remoteID": "22741371",
+        "image": "http://pbs.twimg.com/profile_images/2402183369/image_normal.jpg",
+        "name": "The 47th"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T12:44:29+00:00",
+      "summary": "RT @JadBantha: Assad pulled out 90% of his troops in Salamiyah where Ismaili minorities are based...",
+      "content": "RT @JadBantha: Assad pulled out 90% of his troops in Salamiyah where Ismaili minorities are based giving ISIS greenlight to control it #Syr…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T14:22:13.344658",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": "Syria "
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "ypljSE8kThe2nSw6ucb0OA",
+      "createdAt": "2014-09-01T14:22:32.733921"
+    },
+    {
+      "remoteID": "506422268625702912",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "THE_47th",
+        "remoteID": "22741371",
+        "image": "http://pbs.twimg.com/profile_images/2402183369/image_normal.jpg",
+        "name": "The 47th"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T12:44:12+00:00",
+      "summary": "Maybe 35K tweets out of my 51K total was warning about the situation we're in right now.",
+      "content": "Maybe 35K tweets out of my 51K total was warning about the situation we're in right now.",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T14:22:13.317096",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": "Syria "
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "_FyTsv3AQMKCDfHtHFFwfA",
+      "createdAt": "2014-09-01T14:22:32.783614"
+    },
+    {
+      "remoteID": "506418141397004289",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "THE_47th",
+        "remoteID": "22741371",
+        "image": "http://pbs.twimg.com/profile_images/2402183369/image_normal.jpg",
+        "name": "The 47th"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T12:27:48+00:00",
+      "summary": "ISIS photoblog of preparing, executing and overruning Assad's Tabqa Military Airport [Graphic]  h...",
+      "content": "ISIS photoblog of preparing, executing and overruning Assad's Tabqa Military Airport [Graphic]  https://t.co/jVwcMEMsyR",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T14:22:33.945647",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": "Syria "
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "CjoYmDvmTd2Fqs2LyWZtsA",
+      "createdAt": "2014-09-01T14:22:32.832917"
+    },
+    {
+      "remoteID": "506411009498947584",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "THE_47th",
+        "remoteID": "22741371",
+        "image": "http://pbs.twimg.com/profile_images/2402183369/image_normal.jpg",
+        "name": "The 47th"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T11:59:28+00:00",
+      "summary": "RT @BSyria: @THE_47th @Press_IsLamic As usual, 0 Syrians.",
+      "content": "RT @BSyria: @THE_47th @Press_IsLamic As usual, 0 Syrians.",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T14:22:37.321839",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": "Syria "
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "1xan8zHiRGSvtjeYg4sHmg",
+      "createdAt": "2014-09-01T14:22:32.869834"
+    },
+    {
+      "remoteID": "506409587395006465",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "diaahadid",
+        "remoteID": "14933370",
+        "image": "http://pbs.twimg.com/profile_images/378800000751059300/0886e1d443b3c5a56f9b3ab2874b39b1_normal.jpeg",
+        "name": "Diaa Hadid ضياء حديد"
+      },
+      "image": "http://pbs.twimg.com/media/BwcgCcdCcAEsn3x.jpg",
+      "tags": [],
+      "publishedAt": "2014-09-01T11:53:48+00:00",
+      "summary": "RT @francescaborri: today's #Gaza, seen by Ashraf Amra http://t.co/LWhSSAUabV",
+      "content": "RT @francescaborri: today's #Gaza, seen by Ashraf Amra http://t.co/LWhSSAUabV",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T14:22:41.404274",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Santiago",
+          "authorLocationName": "Beirut, Lebanon"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "VEjQehXSQjmdrDQdB7PXNg",
+      "createdAt": "2014-09-01T14:22:32.903718"
+    },
+    {
+      "remoteID": "506409250772758528",
+      "license": "twitter",
+      "language": {
+        "code": "ar"
+      },
+      "author": {
+        "username": "THE_47th",
+        "remoteID": "22741371",
+        "image": "http://pbs.twimg.com/profile_images/2402183369/image_normal.jpg",
+        "name": "The 47th"
+      },
+      "contentEnglish": "new video from inside Tabqa Air base in Raqqa RT @Press_IsLamic: جديد\n\n من داخل [ مطار الطبقة العسكري المحرر ]\n\n http://t.co/3ptmfPdwZ2",
+      "publishedAt": "2014-09-01T11:52:28+00:00",
+      "summary": "new video from inside Tabqa Air base in Raqqa RT @Press_IsLamic: جديد\n\n من داخل [ مطار الطبقة الع...",
+      "content": "new video from inside Tabqa Air base in Raqqa RT @Press_IsLamic: جديد\n\n من داخل [ مطار الطبقة العسكري المحرر ]\n\n http://t.co/3ptmfPdwZ2",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T14:22:40.613866",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": "Syria "
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "Z0qUE1vHRyS-pDLpR4__Zg",
+      "createdAt": "2014-09-01T14:22:32.934599"
+    },
+    {
+      "remoteID": "506407232238788608",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "THE_47th",
+        "remoteID": "22741371",
+        "image": "http://pbs.twimg.com/profile_images/2402183369/image_normal.jpg",
+        "name": "The 47th"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T11:44:27+00:00",
+      "summary": "I mean even the scummest of scum of Bashar Assad supporters on earth have had it with this filthy...",
+      "content": "I mean even the scummest of scum of Bashar Assad supporters on earth have had it with this filthy regime http://t.co/jan3hUrLM9",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T14:22:55.094048",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": "Syria "
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "WTBA93wjQpyRelEQWruXfg",
+      "createdAt": "2014-09-01T14:22:32.964991"
+    },
+    {
+      "remoteID": "506406853769969664",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "THE_47th",
+        "remoteID": "22741371",
+        "image": "http://pbs.twimg.com/profile_images/2402183369/image_normal.jpg",
+        "name": "The 47th"
+      },
+      "tags": [
+        {
+          "confidence": 1,
+          "name": "government"
+        }
+      ],
+      "publishedAt": "2014-09-01T11:42:57+00:00",
+      "summary": "RT @Brown_Moses: Seeing more and more reports of Assad supporters being detained by security serv...",
+      "content": "RT @Brown_Moses: Seeing more and more reports of Assad supporters being detained by security services after criticising the government afte…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T14:23:00.101201",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": "Syria "
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "oUao3iVsR4uAjolxPflExQ",
+      "createdAt": "2014-09-01T14:22:33.015390"
+    },
+    {
+      "remoteID": "506403563535597568",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "THE_47th",
+        "remoteID": "22741371",
+        "image": "http://pbs.twimg.com/profile_images/2402183369/image_normal.jpg",
+        "name": "The 47th"
+      },
+      "image": "http://pbs.twimg.com/media/BwcbWy1IYAAae90.jpg",
+      "tags": [
+        {
+          "confidence": 0.9995,
+          "name": "photo-person"
+        },
+        {
+          "confidence": 1,
+          "name": "armed-conflict"
+        },
+        {
+          "confidence": 1,
+          "name": "conflict"
+        },
+        {
+          "confidence": 1,
+          "name": "death"
+        }
+      ],
+      "publishedAt": "2014-09-01T11:29:52+00:00",
+      "summary": "Reminder Russia not only supplies Assad with arms. It has troops on the ground killing Syrians #S...",
+      "content": "Reminder Russia not only supplies Assad with arms. It has troops on the ground killing Syrians #Syria http://t.co/1KQ12WSP2o",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T14:23:06.244021",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": "Syria "
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "1c3341QSTwOtu6DIHuyilw",
+      "createdAt": "2014-09-01T14:22:33.048707"
+    },
+    {
+      "remoteID": "506399739127283712",
+      "license": "twitter",
+      "language": {
+        "code": "es"
+      },
+      "author": {
+        "username": "diaahadid",
+        "remoteID": "14933370",
+        "image": "http://pbs.twimg.com/profile_images/378800000751059300/0886e1d443b3c5a56f9b3ab2874b39b1_normal.jpeg",
+        "name": "Diaa Hadid ضياء حديد"
+      },
+      "contentEnglish": "RTnicoesquibel:marianoemartin summer burst",
+      "publishedAt": "2014-09-01T11:14:40+00:00",
+      "summary": "RT @nicoesquibel: @marianoemartin estalló el verano",
+      "content": "RT @nicoesquibel: @marianoemartin estalló el verano",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T14:23:04.851392",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Santiago",
+          "authorLocationName": "Beirut, Lebanon"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "qf0e3_IwSDKramx__AHegg",
+      "createdAt": "2014-09-01T14:22:33.082567"
+    },
+    {
+      "remoteID": "506383633457094656",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "THE_47th",
+        "remoteID": "22741371",
+        "image": "http://pbs.twimg.com/profile_images/2402183369/image_normal.jpg",
+        "name": "The 47th"
+      },
+      "image": "http://pbs.twimg.com/media/BwcIiNdCUAAYqzj.jpg",
+      "tags": [],
+      "publishedAt": "2014-09-01T10:10:41+00:00",
+      "summary": "RT @donatelladr: Amazing artwork from #Saraqeb #Syria by photographer Bilal Musa https://t.co/YYS...",
+      "content": "RT @donatelladr: Amazing artwork from #Saraqeb #Syria by photographer Bilal Musa https://t.co/YYSLA8tvh4 http://t.co/PTKNTDhGmD",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T10:17:54.397038",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": "Syria "
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "L3aU0ff9T4ilN-zqpTC8nw",
+      "createdAt": "2014-09-01T10:18:20.005965"
+    },
+    {
+      "remoteID": "506363285571399680",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "rzbh",
+        "remoteID": "14996800",
+        "image": "http://pbs.twimg.com/profile_images/464704700328062976/g_5R8N1v_normal.jpeg",
+        "name": "Roozbeh Kaboly"
+      },
+      "image": "http://pbs.twimg.com/media/BwYLUHoCQAEkuY4.jpg",
+      "tags": [],
+      "publishedAt": "2014-09-01T08:49:49+00:00",
+      "summary": "RT @UNHCRIraq: Downtown Erbil. Just some of the 850k #Iraq displaced in the KR-I. Shelter needs l...",
+      "content": "RT @UNHCRIraq: Downtown Erbil. Just some of the 850k #Iraq displaced in the KR-I. Shelter needs loom large. http://t.co/FYqS7oc3db",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T09:08:51.830564",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Amsterdam",
+          "authorLocationName": "The Netherlands"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "chV2wbzBRL-vEntuaYIxbQ",
+      "createdAt": "2014-09-01T09:09:17.543340"
+    },
+    {
+      "remoteID": "506327304885510144",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "THE_47th",
+        "remoteID": "22741371",
+        "image": "http://pbs.twimg.com/profile_images/2402183369/image_normal.jpg",
+        "name": "The 47th"
+      },
+      "tags": [
+        {
+          "confidence": 1,
+          "name": "armed-conflict"
+        },
+        {
+          "confidence": 1,
+          "name": "conflict"
+        },
+        {
+          "confidence": 1,
+          "name": "death"
+        }
+      ],
+      "publishedAt": "2014-09-01T06:26:51+00:00",
+      "summary": "RT @hahussain: 42 children killed in #Syria over past 36 hours. Had they been non-Sunnis, or had ...",
+      "content": "RT @hahussain: 42 children killed in #Syria over past 36 hours. Had they been non-Sunnis, or had Israel been doing the killing, they'd have…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T06:28:59.992923",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": "Syria "
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "0rKP1htJQz-g5hYMrLNF9Q",
+      "createdAt": "2014-09-01T06:29:31.101764"
+    },
+    {
+      "remoteID": "506322788186357760",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "diaahadid",
+        "remoteID": "14933370",
+        "image": "http://pbs.twimg.com/profile_images/378800000751059300/0886e1d443b3c5a56f9b3ab2874b39b1_normal.jpeg",
+        "name": "Diaa Hadid ضياء حديد"
+      },
+      "image": "http://pbs.twimg.com/media/BwbR5J6IYAAGUpQ.jpg",
+      "tags": [
+        {
+          "confidence": 1,
+          "name": "air-combat"
+        },
+        {
+          "confidence": 1,
+          "name": "armed-conflict"
+        },
+        {
+          "confidence": 1,
+          "name": "conflict"
+        }
+      ],
+      "publishedAt": "2014-09-01T06:08:54+00:00",
+      "summary": "#BBC's Jon in #Sydney has a powerful meditation on #Australia's immigration &amp; #Gaza https://t...",
+      "content": "#BBC's Jon in #Sydney has a powerful meditation on #Australia's immigration &amp; #Gaza https://t.co/GG8uzE3FE1 http://t.co/9ubqyui8hl",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T06:29:06.797070",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Santiago",
+          "authorLocationName": "Beirut, Lebanon"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "4mecuS3tTNGG-0N8yEOllw",
+      "createdAt": "2014-09-01T06:29:31.137947"
+    },
+    {
+      "remoteID": "506320228360261632",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "diaahadid",
+        "remoteID": "14933370",
+        "image": "http://pbs.twimg.com/profile_images/378800000751059300/0886e1d443b3c5a56f9b3ab2874b39b1_normal.jpeg",
+        "name": "Diaa Hadid ضياء حديد"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T05:58:44+00:00",
+      "summary": "A nose for your plane. #latergram #beirut airbase #lebanon http://t.co/PP2LTIt3BY",
+      "content": "A nose for your plane. #latergram #beirut airbase #lebanon http://t.co/PP2LTIt3BY",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T06:29:00.700814",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Santiago",
+          "authorLocationName": "Beirut, Lebanon"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "fbuE12XzTXWoQPL4old4Lw",
+      "createdAt": "2014-09-01T06:29:31.183801"
+    },
+    {
+      "remoteID": "506269601429471232",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "KenanFreeSyria",
+        "remoteID": "14200987",
+        "image": "http://pbs.twimg.com/profile_images/489762179898302466/1kuIoxah_normal.jpeg",
+        "name": "Kenan كنان"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T02:37:33+00:00",
+      "summary": "An earlier report about rape in #Syria that we ought to review from time to time to remind oursel...",
+      "content": "An earlier report about rape in #Syria that we ought to review from time to time to remind ourselves of this... http://t.co/1GeWg7SVYx",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T02:39:33.923121",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": "Half in school, half in Syria"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "nvUOtPvlTUWSLpq3o4cZ8w",
+      "createdAt": "2014-09-01T02:40:20.583130"
+    },
+    {
+      "remoteID": "506195012783075329",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "diaahadid",
+        "remoteID": "14933370",
+        "image": "http://pbs.twimg.com/profile_images/378800000751059300/0886e1d443b3c5a56f9b3ab2874b39b1_normal.jpeg",
+        "name": "Diaa Hadid ضياء حديد"
+      },
+      "contentEnglish": "#humansofbeirut #beirut #lebanon http://t.co/8M4dG3ElnC",
+      "publishedAt": "2014-08-31T21:41:10+00:00",
+      "summary": "#humansofbeirut #beirut #lebanon http://t.co/8M4dG3ElnC",
+      "content": "#humansofbeirut #beirut #lebanon http://t.co/8M4dG3ElnC",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T21:44:55.479927",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Santiago",
+          "authorLocationName": "Beirut, Lebanon"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "qIEMomszR2CSMVDrsL3sDg",
+      "createdAt": "2014-08-31T21:45:33.327199"
+    },
+    {
+      "remoteID": "506174752038584322",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "THE_47th",
+        "remoteID": "22741371",
+        "image": "http://pbs.twimg.com/profile_images/2402183369/image_normal.jpg",
+        "name": "The 47th"
+      },
+      "tags": [],
+      "publishedAt": "2014-08-31T20:20:39+00:00",
+      "summary": "Think like an avg American: a US-led effort neutralized Gaddafi's regime frm terrorizing Libyans ...",
+      "content": "Think like an avg American: a US-led effort neutralized Gaddafi's regime frm terrorizing Libyans like Assad did Syrians. Was it appreciated?",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T20:24:20.109251",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": "Syria "
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "2SGvQm6cSaOuGc2jeIXJjA",
+      "createdAt": "2014-08-31T20:24:43.615276"
+    },
+    {
+      "remoteID": "506169905792974848",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "THE_47th",
+        "remoteID": "22741371",
+        "image": "http://pbs.twimg.com/profile_images/2402183369/image_normal.jpg",
+        "name": "The 47th"
+      },
+      "tags": [],
+      "publishedAt": "2014-08-31T20:01:24+00:00",
+      "summary": "RT @Amoka: @THE_47th Kurdistan is not like everywhere else, where 99.99% support security forces,...",
+      "content": "RT @Amoka: @THE_47th Kurdistan is not like everywhere else, where 99.99% support security forces, 8 bombs per day in Baghdad compared to 2 …",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T20:24:22.714531",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": "Syria "
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "-zDSq-kAQuG6ERs71Fgukg",
+      "createdAt": "2014-08-31T20:24:43.665833"
+    },
+    {
+      "remoteID": "506169263229796352",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "THE_47th",
+        "remoteID": "22741371",
+        "image": "http://pbs.twimg.com/profile_images/2402183369/image_normal.jpg",
+        "name": "The 47th"
+      },
+      "tags": [],
+      "publishedAt": "2014-08-31T19:58:51+00:00",
+      "summary": "RT @vesodino: @THE_47th HPG,\nYPG, PJAK and YBS will enjoy reach bazaar i believe :)",
+      "content": "RT @vesodino: @THE_47th HPG,\nYPG, PJAK and YBS will enjoy reach bazaar i believe :)",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T20:24:22.635431",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": "Syria "
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "86t_8U0XRdWx5g0g8fnYTA",
+      "createdAt": "2014-08-31T20:24:43.708381"
+    },
+    {
+      "remoteID": "506167476858945536",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "THE_47th",
+        "remoteID": "22741371",
+        "image": "http://pbs.twimg.com/profile_images/2402183369/image_normal.jpg",
+        "name": "The 47th"
+      },
+      "tags": [],
+      "publishedAt": "2014-08-31T19:51:45+00:00",
+      "summary": "Interesting 1st hand acct of 1 #Mosul resident on how life was before/after ISIS &amp; the city's...",
+      "content": "Interesting 1st hand acct of 1 #Mosul resident on how life was before/after ISIS &amp; the city's overall mood now  http://t.co/sVH7471XZt",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T20:24:22.648085",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": "Syria "
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "5dZR2oeFQL66mXzlr8Vl8Q",
+      "createdAt": "2014-08-31T20:24:43.748936"
+    },
+    {
+      "remoteID": "506166046634831872",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "THE_47th",
+        "remoteID": "22741371",
+        "image": "http://pbs.twimg.com/profile_images/2402183369/image_normal.jpg",
+        "name": "The 47th"
+      },
+      "tags": [],
+      "publishedAt": "2014-08-31T19:46:04+00:00",
+      "summary": "Even Germany just announced they too will provide Kurdistan with arms. Kurdish weapon black marke...",
+      "content": "Even Germany just announced they too will provide Kurdistan with arms. Kurdish weapon black market is gonna be booming within a few weeks.",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T20:24:34.159411",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": "Syria "
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "iAmJkDLKRZmOliKJMXKA2Q",
+      "createdAt": "2014-08-31T20:24:43.792523"
+    },
+    {
+      "remoteID": "506163276741632000",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "THE_47th",
+        "remoteID": "22741371",
+        "image": "http://pbs.twimg.com/profile_images/2402183369/image_normal.jpg",
+        "name": "The 47th"
+      },
+      "tags": [],
+      "publishedAt": "2014-08-31T19:35:03+00:00",
+      "summary": "Interesting 1st hand acct of 1 #Mosul resident on how life was before/after ISIS, and the city's ...",
+      "content": "Interesting 1st hand acct of 1 #Mosul resident on how life was before/after ISIS, and the city's overall mood now  http://t.co/sVH7471XZt",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T19:41:43.528111",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": "Syria "
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "kGsYIhQQRs-c1WGd560tIg",
+      "createdAt": "2014-08-31T19:42:27.635170"
+    },
+    {
+      "remoteID": "506125534967762944",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "THE_47th",
+        "remoteID": "22741371",
+        "image": "http://pbs.twimg.com/profile_images/2402183369/image_normal.jpg",
+        "name": "The 47th"
+      },
+      "tags": [],
+      "publishedAt": "2014-08-31T17:05:05+00:00",
+      "summary": "Pls if u see disgruntled activity like #PTs on pro Assad FB &amp; twitter accounts pls send them ...",
+      "content": "Pls if u see disgruntled activity like #PTs on pro Assad FB &amp; twitter accounts pls send them to me and or out them all under #AnissiKhasisi",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T17:40:38.090101",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": "Syria "
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "b3D5LPHuRiurSx3O-udVcA",
+      "createdAt": "2014-08-31T17:41:09.234545"
+    },
+    {
+      "remoteID": "506118569310965762",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "THE_47th",
+        "remoteID": "22741371",
+        "image": "http://pbs.twimg.com/profile_images/2402183369/image_normal.jpg",
+        "name": "The 47th"
+      },
+      "image": "http://pbs.twimg.com/media/BwYX0I9IEAAlOPJ.jpg",
+      "tags": [],
+      "publishedAt": "2014-08-31T16:37:24+00:00",
+      "summary": "RT @monakareem: Maryam &amp; Zainab posing by a mural for their father in #Bahrain #FreeMaryam #f...",
+      "content": "RT @monakareem: Maryam &amp; Zainab posing by a mural for their father in #Bahrain #FreeMaryam #freeabdulhadi http://t.co/dulcWK4Tqw",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T16:57:30.691888",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": "Syria "
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "DN5KTYGjT4uj4Zx1Rl6nPg",
+      "createdAt": "2014-08-31T16:57:55.060127"
+    },
+    {
+      "remoteID": "506117879633174529",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "THE_47th",
+        "remoteID": "22741371",
+        "image": "http://pbs.twimg.com/profile_images/2402183369/image_normal.jpg",
+        "name": "The 47th"
+      },
+      "image": "http://pbs.twimg.com/media/BwYXhrgCYAAByMO.jpg",
+      "tags": [
+        {
+          "confidence": 0.731059,
+          "name": "photo-person"
+        },
+        {
+          "confidence": 1,
+          "name": "arrest"
+        }
+      ],
+      "publishedAt": "2014-08-31T16:34:40+00:00",
+      "summary": "You spend the better part of ur day 4 almost 4yrs, supporting &amp; making up lies 4Assad, then h...",
+      "content": "You spend the better part of ur day 4 almost 4yrs, supporting &amp; making up lies 4Assad, then his sec forces arrest u http://t.co/hxBQMx2Sjk",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T16:57:30.270615",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": "Syria "
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "Nof1ggHTR1W_Cgg92_VCug",
+      "createdAt": "2014-08-31T16:57:55.096561"
+    },
+    {
+      "remoteID": "506116409076641792",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "THE_47th",
+        "remoteID": "22741371",
+        "image": "http://pbs.twimg.com/profile_images/2402183369/image_normal.jpg",
+        "name": "The 47th"
+      },
+      "tags": [],
+      "publishedAt": "2014-08-31T16:28:49+00:00",
+      "summary": "RT @AtassiZaher: @THE_47th lol, I hope he enjoys the hospitality of the Regime he loves so much :)",
+      "content": "RT @AtassiZaher: @THE_47th lol, I hope he enjoys the hospitality of the Regime he loves so much :)",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T16:57:29.378767",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": "Syria "
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "p3KUKb0cT92K3f_n3-Xjww",
+      "createdAt": "2014-08-31T16:57:55.133081"
+    },
+    {
+      "remoteID": "506116263441997825",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "THE_47th",
+        "remoteID": "22741371",
+        "image": "http://pbs.twimg.com/profile_images/2402183369/image_normal.jpg",
+        "name": "The 47th"
+      },
+      "image": "http://pbs.twimg.com/media/BwYWDq-CAAArss2.jpg",
+      "tags": [
+        {
+          "confidence": 0.731059,
+          "name": "photo-person"
+        }
+      ],
+      "publishedAt": "2014-08-31T16:28:15+00:00",
+      "summary": "We saw signs of pissed off pro Assadists. Then we saw them take a little action, now we're seeing...",
+      "content": "We saw signs of pissed off pro Assadists. Then we saw them take a little action, now we're seeing them get arrested http://t.co/mAhdbGdHrB",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T16:57:30.686769",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": "Syria "
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "9ax46lJmRMaX6vLnzKjcsg",
+      "createdAt": "2014-08-31T16:57:55.166299"
+    },
+    {
+      "remoteID": "506115837778866176",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "THE_47th",
+        "remoteID": "22741371",
+        "image": "http://pbs.twimg.com/profile_images/2402183369/image_normal.jpg",
+        "name": "The 47th"
+      },
+      "image": "http://pbs.twimg.com/media/BwYVq4rCYAAE7mR.jpg",
+      "tags": [
+        {
+          "confidence": 0.731059,
+          "name": "photo-person"
+        }
+      ],
+      "publishedAt": "2014-08-31T16:26:33+00:00",
+      "summary": "Assad regime is now arresting admins of popular pro Assad pages that r not \"pro\" enough http://t....",
+      "content": "Assad regime is now arresting admins of popular pro Assad pages that r not \"pro\" enough http://t.co/A0L4HCWVQL",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T16:58:00.092283",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": "Syria "
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "KQKBSxSfTYSaIbktKdc_3w",
+      "createdAt": "2014-08-31T16:57:55.205088"
+    },
+    {
+      "remoteID": "506112446407262208",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "KenanFreeSyria",
+        "remoteID": "14200987",
+        "image": "http://pbs.twimg.com/profile_images/489762179898302466/1kuIoxah_normal.jpeg",
+        "name": "Kenan كنان"
+      },
+      "tags": [],
+      "publishedAt": "2014-08-31T16:13:05+00:00",
+      "summary": "\"ISIS resulted from Assad. The solution is eliminating the cause, not the result alone.\" http://t...",
+      "content": "\"ISIS resulted from Assad. The solution is eliminating the cause, not the result alone.\" http://t.co/3zSThl6pvf",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T16:15:54.073575",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": "Half in school, half in Syria"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "hXdswSkxQMOAK1zgWKN3Lw",
+      "createdAt": "2014-08-31T16:16:24.224819"
+    },
+    {
+      "remoteID": "506108234965348352",
+      "license": "twitter",
+      "language": {
+        "code": "ar"
+      },
+      "author": {
+        "username": "THE_47th",
+        "remoteID": "22741371",
+        "image": "http://pbs.twimg.com/profile_images/2402183369/image_normal.jpg",
+        "name": "The 47th"
+      },
+      "image": "http://pbs.twimg.com/media/BwYK0w5CcAIqbf6.png",
+      "tags": [
+        {
+          "confidence": 0.668188,
+          "name": "photo-person"
+        },
+        {
+          "confidence": 1,
+          "name": "military"
+        }
+      ],
+      "contentEnglish": "RT @ 0_Anas: the regime arrested the owner of the page \"Eagles Airport class military men Lion\"\nAhaaa http://t.co/1Fqm2BpycL",
+      "publishedAt": "2014-08-31T15:56:20+00:00",
+      "summary": "RT @0_Anas: النظام اعتقل صاحب صفحة \" نسور مطار الطبقة العسكري  رجال الأسد \" \nاحااا http://t.co/1F...",
+      "content": "RT @0_Anas: النظام اعتقل صاحب صفحة \" نسور مطار الطبقة العسكري  رجال الأسد \" \nاحااا http://t.co/1Fqm2BpycL",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T16:15:59.391337",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": "Syria "
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "qFrVg0aIS8ilXV74koN4vg",
+      "createdAt": "2014-08-31T16:16:24.258713"
+    }
+  ]
+}

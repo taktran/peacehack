@@ -26,7 +26,7 @@ angular.module('app').controller('HomeCtrl', function(
   _.each($scope.msgTypes, function(type) {
     var msgTitle = 'msg:' + type;
     socket.on(msgTitle, function(msg) {
-      $log.log(msg);
+      // $log.log(msg);
       $timeout(function() {
         $scope.currentMsg[type] = msg;
       });

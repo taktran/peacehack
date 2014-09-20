@@ -1172,6 +1172,3416 @@
       },
       "id": "9dJDrWtFSauFBmSi9CR_Zw",
       "createdAt": "2014-09-02T14:08:11.156560"
+    },
+    {
+      "remoteID": "506775020019146753",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "InstagramMV",
+        "remoteID": "920169361",
+        "image": "http://pbs.twimg.com/profile_images/418739472801341440/K6qnx-nj_normal.png",
+        "name": "Instagram MV"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-02T12:05:54+00:00",
+      "summary": "Israel is my home !! #proudjew #idfmylife #IDF #iloveidf #iloveisrael #proudtobeisraeli #peace #...",
+      "content": "Israel is my home !! #proudjew #idfmylife #IDF #iloveidf #iloveisrael #proudtobeisraeli #peace #proudtobejew... http://t.co/F98qipYD0l",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T12:31:09.783228",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "Z3tkr9UWTSKIW_NiMxDlSQ",
+      "createdAt": "2014-09-02T12:26:59.629537"
+    },
+    {
+      "remoteID": "506507987163557888",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "StachR",
+        "remoteID": "2584199773",
+        "image": "http://pbs.twimg.com/profile_images/481103321499832320/wsZBsw2B_normal.jpeg",
+        "name": "Rosemary Stachini"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T18:24:49+00:00",
+      "summary": "RT @StandWithUs: Rest in Peace Sgt. Shachar Shalev http://t.co/rOyoAk4khK BDE #israel #idf #hero",
+      "content": "RT @StandWithUs: Rest in Peace Sgt. Shachar Shalev http://t.co/rOyoAk4khK BDE #israel #idf #hero",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T18:27:17.624534",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Amsterdam",
+          "authorLocationName": "Luton,UK"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "pMkG6xgaRWGY6EKZPyv-iA",
+      "createdAt": "2014-09-01T18:24:20.692595"
+    },
+    {
+      "remoteID": "506488199842398209",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "PeterKanelis",
+        "remoteID": "341284736",
+        "image": "http://pbs.twimg.com/profile_images/1673600273/111204-111013_normal.jpg",
+        "name": "Peter Kanelis"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T17:06:11+00:00",
+      "summary": "RT @jkanelis: Cease-fire? Is peace treaty next? http://t.co/ujPoiIl2Ki via @jkanelis #Gaza #Hamas...",
+      "content": "RT @jkanelis: Cease-fire? Is peace treaty next? http://t.co/ujPoiIl2Ki via @jkanelis #Gaza #Hamas #Israel #IDF #MiddleEast",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T17:08:03.995410",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": "Amarillo, Texas"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "CleESEAiRMief4eIbaVWqw",
+      "createdAt": "2014-09-01T17:07:06.357645"
+    },
+    {
+      "remoteID": "506467330180644864",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "CustosDivini",
+        "remoteID": "292353470",
+        "image": "http://pbs.twimg.com/profile_images/504179207585271808/fyonWH8q_normal.jpeg",
+        "name": "Kalashnikitty"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T15:43:15+00:00",
+      "summary": "Turkish PM promises peace with Kurds http://t.co/qEZldZKp8v #Davutoglu #Turkey #TwitterKurds",
+      "content": "Turkish PM promises peace with Kurds http://t.co/qEZldZKp8v #Davutoglu #Turkey #TwitterKurds",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T15:46:03.156343",
+      "entities": [
+        "General-conflict"
+      ],
+      "geo": {
+        "locationIdentifiers": {
+          "authorTimeZone": "Istanbul",
+          "authorLocationName": "RT/Mention/Follow/Link ≠ E"
+        },
+        "addressComponents": {
+          "adminArea1": "General-conflict",
+          "formattedAddress": "General-conflict"
+        }
+      },
+      "id": "m8qZQ7yeTvKbzAigdZyq9A",
+      "createdAt": "2014-09-01T15:46:28.131643"
+    },
+    {
+      "remoteID": "506455927286157313",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "RobialinaG",
+        "remoteID": "1729974930",
+        "image": "http://pbs.twimg.com/profile_images/378800000415039752/42f43395b5aba28c79d5b95fd9f355a8_normal.jpeg",
+        "name": "Robialina Gurkin"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T14:57:57+00:00",
+      "summary": "RT @StandWithUs: Rest in Peace Sgt. Shachar Shalev http://t.co/rOyoAk4khK BDE #israel #idf #hero",
+      "content": "RT @StandWithUs: Rest in Peace Sgt. Shachar Shalev http://t.co/rOyoAk4khK BDE #israel #idf #hero",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T15:09:28.883286",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "mqUXnFtJRqCva0axJTRsEg",
+      "createdAt": "2014-09-01T15:07:39.870303"
+    },
+    {
+      "remoteID": "506437116151083008",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "AlertNet",
+        "remoteID": "15762575",
+        "image": "http://pbs.twimg.com/profile_images/492572880966647808/vkfuoXEt_normal.jpeg",
+        "name": "AlertNet"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T13:43:12+00:00",
+      "summary": "Lesotho PM calls for regional peace force after \"coup\" http://t.co/CX9AkhVcKs #LesothoCoup",
+      "content": "Lesotho PM calls for regional peace force after \"coup\" http://t.co/CX9AkhVcKs #LesothoCoup",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T14:27:48.891995",
+      "entities": [
+        "General-conflict"
+      ],
+      "geo": {
+        "locationIdentifiers": {
+          "authorTimeZone": "London",
+          "authorLocationName": "Global"
+        },
+        "addressComponents": {
+          "adminArea1": "General-conflict",
+          "formattedAddress": "General-conflict"
+        }
+      },
+      "id": "kCi14l6eTeWiax6g6pe8rg",
+      "createdAt": "2014-09-01T14:22:37.763418"
+    },
+    {
+      "remoteID": "506432370304499712",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "AlertNet",
+        "remoteID": "15762575",
+        "image": "http://pbs.twimg.com/profile_images/492572880966647808/vkfuoXEt_normal.jpeg",
+        "name": "AlertNet"
+      },
+      "tags": [
+        {
+          "confidence": 1,
+          "name": "rebels"
+        }
+      ],
+      "publishedAt": "2014-09-01T13:24:20+00:00",
+      "summary": "#Mali hopes to seal initial peace deal with Tuareg rebels in eight weeks http://t.co/88Kq7etBYw",
+      "content": "#Mali hopes to seal initial peace deal with Tuareg rebels in eight weeks http://t.co/88Kq7etBYw",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T14:28:31.315417",
+      "entities": [
+        "General-conflict"
+      ],
+      "geo": {
+        "locationIdentifiers": {
+          "authorTimeZone": "London",
+          "authorLocationName": "Global"
+        },
+        "addressComponents": {
+          "adminArea1": "General-conflict",
+          "formattedAddress": "General-conflict"
+        }
+      },
+      "id": "O_lCYN4dSEy2oGf5eMpIRg",
+      "createdAt": "2014-09-01T14:22:38.051594"
+    },
+    {
+      "remoteID": "506425294237237248",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "AlertNet",
+        "remoteID": "15762575",
+        "image": "http://pbs.twimg.com/profile_images/492572880966647808/vkfuoXEt_normal.jpeg",
+        "name": "AlertNet"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T12:56:13+00:00",
+      "summary": "A young #Rohingya and ex-political prisoner tells @thinink her vision for peace between groups in...",
+      "content": "A young #Rohingya and ex-political prisoner tells @thinink her vision for peace between groups in Myanmar http://t.co/DEm4Nd2Sjd",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T14:29:09.962347",
+      "entities": [
+        "General-conflict"
+      ],
+      "geo": {
+        "locationIdentifiers": {
+          "authorTimeZone": "London",
+          "authorLocationName": "Global"
+        },
+        "addressComponents": {
+          "adminArea1": "General-conflict",
+          "formattedAddress": "General-conflict"
+        }
+      },
+      "id": "W8R3W12hSCeoRzJL6DzGzg",
+      "createdAt": "2014-09-01T14:22:38.277529"
+    },
+    {
+      "remoteID": "506421005028716544",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "MaryFitzger",
+        "remoteID": "109523018",
+        "image": "http://pbs.twimg.com/profile_images/693136112/Byline_pic_normal.JPG",
+        "name": "Mary Fitzgerald"
+      },
+      "image": "http://pbs.twimg.com/media/BwcHQq1CIAAkcuU.jpg",
+      "tags": [
+        {
+          "confidence": 0.964429,
+          "name": "photo-person"
+        }
+      ],
+      "publishedAt": "2014-09-01T12:39:11+00:00",
+      "summary": "RT @Gheblawi: Libyan cub and brownies calling for #peace in #Libya #scouts http://t.co/1D52BkzaN9",
+      "content": "RT @Gheblawi: Libyan cub and brownies calling for #peace in #Libya #scouts http://t.co/1D52BkzaN9",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T14:24:07.894990",
+      "entities": [
+        "Libya"
+      ],
+      "geo": {
+        "coords": [
+          18.043556213378906,
+          27.23609733581543
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Casablanca",
+          "authorLocationName": "Tripoli-Benghazi"
+        },
+        "addressComponents": {
+          "adminArea1": "Libya",
+          "formattedAddress": "Libya"
+        }
+      },
+      "id": "KrQE8Dz1RAmsr0kBh_0NGA",
+      "createdAt": "2014-09-01T14:22:34.835205"
+    },
+    {
+      "remoteID": "506381374505639936",
+      "license": "twitter",
+      "language": {
+        "code": "ar"
+      },
+      "author": {
+        "username": "GihanTadreft",
+        "remoteID": "294354944",
+        "image": "http://pbs.twimg.com/profile_images/3284121927/e5f9aad72157ec8806b3454b5da4930a_normal.jpeg",
+        "name": "Gihan Badi"
+      },
+      "image": "http://pbs.twimg.com/media/Bwb9XOiIEAAiyVX.jpg",
+      "contentEnglish": "(If, say peace Khatpk ignorant)\n\n\"elgubtan:GihanTadreft And continues the series of threats and accusations of treason and terrorism # Tarabuls_mahtlh http://t.co/25P1rSVchr\"",
+      "publishedAt": "2014-09-01T10:01:42+00:00",
+      "summary": "(واذا خاطبك الجاهلون فقل سلاما)\n\n“@elgubtan: @GihanTadreft ويستمر مسلسل التهديد والتخوين والإرهاب...",
+      "content": "(واذا خاطبك الجاهلون فقل سلاما)\n\n“@elgubtan: @GihanTadreft ويستمر مسلسل التهديد والتخوين والإرهاب #طرابلس_المحتلة http://t.co/25P1rSVchr”",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T10:17:54.022504",
+      "entities": [
+        "Libya"
+      ],
+      "geo": {
+        "coords": [
+          18.043556213378906,
+          27.23609733581543
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "London",
+          "authorLocationName": "UK"
+        },
+        "addressComponents": {
+          "adminArea1": "Libya",
+          "formattedAddress": "Libya"
+        }
+      },
+      "id": "8jRooD4nSs-MX32mD2dakw",
+      "createdAt": "2014-09-01T10:18:20.561831"
+    },
+    {
+      "remoteID": "506377107203571712",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "egbarm",
+        "remoteID": "30953171",
+        "image": "http://pbs.twimg.com/profile_images/2779375434/3b9d16f2c3dc410d3f7914aef0052fda_normal.jpeg",
+        "name": "maayan egbar"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T09:44:45+00:00",
+      "summary": "RT @StandWithUs: Rest in Peace Sgt. Shachar Shalev http://t.co/rOyoAk4khK BDE #israel #idf #hero",
+      "content": "RT @StandWithUs: Rest in Peace Sgt. Shachar Shalev http://t.co/rOyoAk4khK BDE #israel #idf #hero",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T09:47:34.215132",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Santiago",
+          "authorLocationName": "israel"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "P3EJemKPQxG9GqF60mY3HA",
+      "createdAt": "2014-09-01T09:45:56.735996"
+    },
+    {
+      "remoteID": "506368082693349376",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "DarrylMydat1",
+        "remoteID": "1024416474",
+        "image": "http://pbs.twimg.com/profile_images/433313615400407042/PS9ihEYU_normal.jpeg",
+        "name": "Darryl Mydat"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T09:08:53+00:00",
+      "summary": "RT @StandWithUs: Rest in Peace Sgt. Shachar Shalev http://t.co/rOyoAk4khK BDE #israel #idf #hero",
+      "content": "RT @StandWithUs: Rest in Peace Sgt. Shachar Shalev http://t.co/rOyoAk4khK BDE #israel #idf #hero",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T09:11:07.264240",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "London",
+          "authorLocationName": "UK"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "oObEZaAJSy--BaTDlvdP2Q",
+      "createdAt": "2014-09-01T09:09:21.913530"
+    },
+    {
+      "remoteID": "506361999501324289",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "believingbetter",
+        "remoteID": "2654783586",
+        "image": "http://pbs.twimg.com/profile_images/490053059192844288/l85E11ru_normal.jpeg",
+        "name": "kitti"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T08:44:43+00:00",
+      "summary": "RT @StandWithUs: Rest in Peace Sgt. Shachar Shalev http://t.co/rOyoAk4khK BDE #israel #idf #hero",
+      "content": "RT @StandWithUs: Rest in Peace Sgt. Shachar Shalev http://t.co/rOyoAk4khK BDE #israel #idf #hero",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T09:12:17.558164",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "ZEDnwqPgSq-QsQ0i4on9dg",
+      "createdAt": "2014-09-01T09:09:22.405692"
+    },
+    {
+      "remoteID": "506361189916364800",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "pinksliptv",
+        "remoteID": "88587962",
+        "image": "http://pbs.twimg.com/profile_images/422529808686256128/I4SNbBbn_normal.jpeg",
+        "name": "Suzie"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T08:41:30+00:00",
+      "summary": "RT @StandWithUs: Rest in Peace Sgt. Shachar Shalev http://t.co/rOyoAk4khK BDE #israel #idf #hero",
+      "content": "RT @StandWithUs: Rest in Peace Sgt. Shachar Shalev http://t.co/rOyoAk4khK BDE #israel #idf #hero",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T09:12:33.429530",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Alaska",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "01IXRmpHQfC9CPFLoKM4Mw",
+      "createdAt": "2014-09-01T09:09:22.505146"
+    },
+    {
+      "remoteID": "506358874253688832",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "FrMichaelTaylor",
+        "remoteID": "1940221358",
+        "image": "http://pbs.twimg.com/profile_images/378800000781222408/1e73e6be488236ab48adeaa80cf370d5_normal.jpeg",
+        "name": "Fr Michael Taylor"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T08:32:18+00:00",
+      "summary": "RT @StandWithUs: Rest in Peace Sgt. Shachar Shalev http://t.co/rOyoAk4khK BDE #israel #idf #hero",
+      "content": "RT @StandWithUs: Rest in Peace Sgt. Shachar Shalev http://t.co/rOyoAk4khK BDE #israel #idf #hero",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T09:13:10.147058",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Brisbane",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "SvUbwVzbQfirzGhZtqshyQ",
+      "createdAt": "2014-09-01T09:09:22.774375"
+    },
+    {
+      "remoteID": "506352941171617793",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "The13th_Ghost",
+        "remoteID": "2430963199",
+        "image": "http://pbs.twimg.com/profile_images/496502022464475137/vFx_DhFj_normal.jpeg",
+        "name": "Boondock Saint"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T08:08:43+00:00",
+      "summary": "RT @StandWithUs: Rest in Peace Sgt. Shachar Shalev http://t.co/rOyoAk4khK BDE #israel #idf #hero",
+      "content": "RT @StandWithUs: Rest in Peace Sgt. Shachar Shalev http://t.co/rOyoAk4khK BDE #israel #idf #hero",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T08:31:48.216966",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": "With Guinness & Jameson"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "_JBIHZl5RsqJu8UOIOyA0w",
+      "createdAt": "2014-09-01T08:30:39.652211"
+    },
+    {
+      "remoteID": "506351938040901632",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "StandWithUs",
+        "remoteID": "16314859",
+        "image": "http://pbs.twimg.com/profile_images/484044042930356224/S3wao7FL_normal.jpeg",
+        "name": "StandWithUs"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T08:04:44+00:00",
+      "summary": "Rest in Peace Sgt. Shachar Shalev http://t.co/rOyoAk4khK BDE #israel #idf #hero",
+      "content": "Rest in Peace Sgt. Shachar Shalev http://t.co/rOyoAk4khK BDE #israel #idf #hero",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T08:32:05.893819",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "bgsRgUJUSdaN2qnUydAalg",
+      "createdAt": "2014-09-01T08:30:39.758364"
+    },
+    {
+      "remoteID": "506254567638839296",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "CameronMcIntosh",
+        "remoteID": "19420973",
+        "image": "http://pbs.twimg.com/profile_images/436296930126094336/z9jq1PWm_normal.jpeg",
+        "name": "CameronMcIntosh"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T01:37:49+00:00",
+      "summary": "@gchrv  is yet another #IDF sponsored #Zionist troll! #Israel does not want #Peace! #FreePalestin...",
+      "content": "@gchrv  is yet another #IDF sponsored #Zionist troll! #Israel does not want #Peace! #FreePalestine #BoycottIsrael",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T02:05:54.088550",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Bogota",
+          "authorLocationName": "Les Pits (French Riviera)"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "QI5l-g7aQNiOGNqO-6OukA",
+      "createdAt": "2014-09-01T02:02:43.642503"
+    },
+    {
+      "remoteID": "506241102740221953",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "connectingdots2",
+        "remoteID": "547155121",
+        "image": "http://pbs.twimg.com/profile_images/481492808713265152/qXZlvN59_normal.png",
+        "name": "connectingdots1"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T00:44:19+00:00",
+      "summary": "VERY Mentally Sick #Israeli Defense Force Sniping #Palestinian #Kids Playing\nhttps://t.co/iwTYm4W...",
+      "content": "VERY Mentally Sick #Israeli Defense Force Sniping #Palestinian #Kids Playing\nhttps://t.co/iwTYm4Whh4\n#IDF #Israel #ISIS #peace #Palestine",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T00:52:06.632467",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Pacific Time (US & Canada)",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "gfMC5fNYQoSe_pAOuMfb8g",
+      "createdAt": "2014-09-01T00:50:09.957002"
+    },
+    {
+      "remoteID": "506229023916048384",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "DatRepDanDoe",
+        "remoteID": "15944530",
+        "image": "http://pbs.twimg.com/profile_images/500793157290688512/Dc5jck3g_normal.jpeg",
+        "name": "4Dan"
+      },
+      "tags": [],
+      "publishedAt": "2014-08-31T23:56:19+00:00",
+      "summary": "Killing is horrid, but if we don't stop the 'religion of peace', we are all at risk. #KillHamas #IDF",
+      "content": "Killing is horrid, but if we don't stop the 'religion of peace', we are all at risk. #KillHamas #IDF",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T00:16:28.575032",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": "Twiddter"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "iouzCuMjQ6qwJF0kGdDhjQ",
+      "createdAt": "2014-09-01T00:13:52.059026"
+    },
+    {
+      "remoteID": "506194602689179649",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "Mlle_Aida",
+        "remoteID": "958192038",
+        "image": "http://pbs.twimg.com/profile_images/493936285191376896/lhvwN0MV_normal.jpeg",
+        "name": "Aida"
+      },
+      "tags": [],
+      "publishedAt": "2014-08-31T21:39:32+00:00",
+      "summary": "Outrageous news! #IDF seized 1000 acres of Palestinian land near Bethlehem to build new settlemen...",
+      "content": "Outrageous news! #IDF seized 1000 acres of Palestinian land near Bethlehem to build new settlement.Another proof that #Israel seeks no peace",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T21:47:24.448417",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "M40ZSCy2R-6WJHeHXrWLWg",
+      "createdAt": "2014-08-31T21:45:44.985823"
+    },
+    {
+      "remoteID": "506191723702145025",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "luarfr",
+        "remoteID": "276207679",
+        "image": "http://pbs.twimg.com/profile_images/1581676302/ArmasmanuelI_normal.jpg",
+        "name": "luarfr "
+      },
+      "image": "http://pbs.twimg.com/media/BwZasLoCQAAkQrn.jpg",
+      "contentEnglish": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/MyEZqiOnFu",
+      "publishedAt": "2014-08-31T21:28:06+00:00",
+      "summary": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Pea...",
+      "content": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/MyEZqiOnFu",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T21:48:28.098878",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Paris",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "CWEDPVDASS6k9Lgp21eSGg",
+      "createdAt": "2014-08-31T21:45:45.409461"
+    },
+    {
+      "remoteID": "506190784727875585",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "luarfr",
+        "remoteID": "276207679",
+        "image": "http://pbs.twimg.com/profile_images/1581676302/ArmasmanuelI_normal.jpg",
+        "name": "luarfr "
+      },
+      "image": "http://pbs.twimg.com/media/BwZZ1hPIgAAhpD8.jpg",
+      "contentEnglish": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/0qYwJiZPWg",
+      "publishedAt": "2014-08-31T21:24:22+00:00",
+      "summary": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Pea...",
+      "content": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/0qYwJiZPWg",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T21:48:40.871904",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Paris",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "4UVWomIgTnq8rDW7TMKz7w",
+      "createdAt": "2014-08-31T21:45:45.478315"
+    },
+    {
+      "remoteID": "506189214615351297",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "luarfr",
+        "remoteID": "276207679",
+        "image": "http://pbs.twimg.com/profile_images/1581676302/ArmasmanuelI_normal.jpg",
+        "name": "luarfr "
+      },
+      "image": "http://pbs.twimg.com/media/BwZYaJRIgAEeDGo.jpg",
+      "tags": [
+        {
+          "confidence": 0.999697,
+          "name": "photo-person"
+        }
+      ],
+      "contentEnglish": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/elBjEHoaoZ",
+      "publishedAt": "2014-08-31T21:18:07+00:00",
+      "summary": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Pea...",
+      "content": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/elBjEHoaoZ",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T21:49:21.406304",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Paris",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "DYcbF0k_S62iP170v-RkGA",
+      "createdAt": "2014-08-31T21:45:45.696797"
+    },
+    {
+      "remoteID": "506187709816537089",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "luarfr",
+        "remoteID": "276207679",
+        "image": "http://pbs.twimg.com/profile_images/1581676302/ArmasmanuelI_normal.jpg",
+        "name": "luarfr "
+      },
+      "image": "http://pbs.twimg.com/media/BwZXChyIYAAefpe.jpg",
+      "contentEnglish": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/ZGZgaLT4mC",
+      "publishedAt": "2014-08-31T21:12:09+00:00",
+      "summary": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Pea...",
+      "content": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/ZGZgaLT4mC",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T21:50:27.400419",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Paris",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "hFEG38V6S_607uzSYQrDbg",
+      "createdAt": "2014-08-31T21:45:46.134412"
+    },
+    {
+      "remoteID": "506186998101860352",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "Jacqu528",
+        "remoteID": "32844275",
+        "image": "http://pbs.twimg.com/profile_images/505839361045561346/i7D3QQYY_normal.jpeg",
+        "name": "Jackie"
+      },
+      "image": "http://pbs.twimg.com/media/BwZWKtvIYAEm7vF.jpg",
+      "contentEnglish": "RT @luarfr: #Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/WNwW…",
+      "publishedAt": "2014-08-31T21:09:19+00:00",
+      "summary": "RT @luarfr: #Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine ...",
+      "content": "RT @luarfr: #Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/WNwW…",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T21:50:52.451751",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "_kjNPTwbSmiHXQPhycSk3g",
+      "createdAt": "2014-08-31T21:45:46.272172"
+    },
+    {
+      "remoteID": "506186750772150272",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "luarfr",
+        "remoteID": "276207679",
+        "image": "http://pbs.twimg.com/profile_images/1581676302/ArmasmanuelI_normal.jpg",
+        "name": "luarfr "
+      },
+      "image": "http://pbs.twimg.com/media/BwZWKtvIYAEm7vF.jpg",
+      "contentEnglish": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/WNwW9mIv8t",
+      "publishedAt": "2014-08-31T21:08:20+00:00",
+      "summary": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Pea...",
+      "content": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/WNwW9mIv8t",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T21:51:10.192282",
+      "entities": [
+        "Palestine"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Paris",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Palestine",
+          "formattedAddress": "Palestine"
+        }
+      },
+      "id": "SR8akfg8RhyF1CR5PCqcfQ",
+      "createdAt": "2014-08-31T21:45:46.389013"
+    },
+    {
+      "remoteID": "506185392241274880",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "luarfr",
+        "remoteID": "276207679",
+        "image": "http://pbs.twimg.com/profile_images/1581676302/ArmasmanuelI_normal.jpg",
+        "name": "luarfr "
+      },
+      "image": "http://pbs.twimg.com/media/BwZU7pIIMAEX17i.jpg",
+      "tags": [
+        {
+          "confidence": 0.995033,
+          "name": "photo-person"
+        }
+      ],
+      "contentEnglish": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/LE4jqEv7Lb",
+      "publishedAt": "2014-08-31T21:02:56+00:00",
+      "summary": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Pea...",
+      "content": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/LE4jqEv7Lb",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T21:07:47.848273",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Paris",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "WCGnUAmzQV25gQDU-TNK0g",
+      "createdAt": "2014-08-31T21:05:27.423965"
+    },
+    {
+      "remoteID": "506163796189405184",
+      "license": "twitter",
+      "language": {
+        "code": "fr"
+      },
+      "author": {
+        "username": "eliha7",
+        "remoteID": "113315137",
+        "image": "http://pbs.twimg.com/profile_images/3061376463/8cb1a5cbac49ba50ce82fe57a07b1011_normal.jpeg",
+        "name": "SITRUK"
+      },
+      "image": "http://pbs.twimg.com/media/BwYXokjIgAAkcJW.jpg",
+      "tags": [
+        {
+          "confidence": 0.998887,
+          "name": "photo-person"
+        }
+      ],
+      "contentEnglish": "RTGBernheim: RIP Sergeant Netanel Mom 21 years. Rest in peace to the righteous and the sages of Israel. GB\n#israel #tsahal #idf http: //t.c...",
+      "publishedAt": "2014-08-31T19:37:07+00:00",
+      "summary": "RT @GBernheim: RIP Sergent Netanel Maman 21 ans. Repose en paix auprès des justes et des sages d'...",
+      "content": "RT @GBernheim: RIP Sergent Netanel Maman 21 ans. Repose en paix auprès des justes et des sages d'Israël. GB\n#israel #tsahal #idf http://t.c…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T19:43:20.418936",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Hawaii",
+          "authorLocationName": "Lyon"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "hzWdwQHCRAO2i61vBv2DCw",
+      "createdAt": "2014-08-31T19:42:36.887388"
+    },
+    {
+      "remoteID": "506120807102574593",
+      "license": "twitter",
+      "language": {
+        "code": "fr"
+      },
+      "author": {
+        "username": "sarah75011",
+        "remoteID": "1749189512",
+        "image": "http://pbs.twimg.com/profile_images/505433332658622464/DEsgQLR8_normal.jpeg",
+        "name": "maya"
+      },
+      "image": "http://pbs.twimg.com/media/BwYXokjIgAAkcJW.jpg",
+      "tags": [
+        {
+          "confidence": 0.999089,
+          "name": "photo-person"
+        }
+      ],
+      "contentEnglish": "RTGBernheim: RIP Sergeant Netanel Mom 21 years. Rest in peace to the righteous and the sages of Israel. GB\n#israel #tsahal #idf http: //t.c...",
+      "publishedAt": "2014-08-31T16:46:18+00:00",
+      "summary": "RT @GBernheim: RIP Sergent Netanel Maman 21 ans. Repose en paix auprès des justes et des sages d'...",
+      "content": "RT @GBernheim: RIP Sergent Netanel Maman 21 ans. Repose en paix auprès des justes et des sages d'Israël. GB\n#israel #tsahal #idf http://t.c…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T17:00:48.370295",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Amsterdam",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "gjxyDD6CQYSPknYm5UvWSg",
+      "createdAt": "2014-08-31T16:58:04.775007"
+    },
+    {
+      "remoteID": "506119004751417344",
+      "license": "twitter",
+      "language": {
+        "code": "fr"
+      },
+      "author": {
+        "username": "stryjewskicosta",
+        "remoteID": "1251775778",
+        "image": "http://pbs.twimg.com/profile_images/3353315011/6596538505d5ddb9195707a1c207a9db_normal.jpeg",
+        "name": "stryjewski costaz"
+      },
+      "image": "http://pbs.twimg.com/media/BwYXokjIgAAkcJW.jpg",
+      "tags": [
+        {
+          "confidence": 0.998887,
+          "name": "photo-person"
+        }
+      ],
+      "contentEnglish": "RTGBernheim: RIP Sergeant Netanel Mom 21 years. Rest in peace to the righteous and the sages of Israel. GB\n#israel #tsahal #idf http: //t.c...",
+      "publishedAt": "2014-08-31T16:39:08+00:00",
+      "summary": "RT @GBernheim: RIP Sergent Netanel Maman 21 ans. Repose en paix auprès des justes et des sages d'...",
+      "content": "RT @GBernheim: RIP Sergent Netanel Maman 21 ans. Repose en paix auprès des justes et des sages d'Israël. GB\n#israel #tsahal #idf http://t.c…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T17:01:18.489989",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": "bordeaux"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "3BR7vP_dRhu9qw7tP_Cpsw",
+      "createdAt": "2014-08-31T16:58:04.911280"
+    },
+    {
+      "remoteID": "506117995195019266",
+      "license": "twitter",
+      "language": {
+        "code": "fr"
+      },
+      "author": {
+        "username": "GBernheim",
+        "remoteID": "1699930478",
+        "image": "http://pbs.twimg.com/profile_images/481143678807732225/UJ22-Gsa_normal.jpeg",
+        "name": "Gilles Bernheim"
+      },
+      "image": "http://pbs.twimg.com/media/BwYXokjIgAAkcJW.jpg",
+      "tags": [
+        {
+          "confidence": 0.998993,
+          "name": "photo-person"
+        }
+      ],
+      "contentEnglish": "RIP Sergeant Netanel Mom 21 years. Rest in peace to the righteous and the sages of Israel. GB\n#israel #tsahal #idf http://t.co/lHV0GJoPmG",
+      "publishedAt": "2014-08-31T16:35:07+00:00",
+      "summary": "RIP Sergent Netanel Maman 21 ans. Repose en paix auprès des justes et des sages d'Israël. GB\n#isr...",
+      "content": "RIP Sergent Netanel Maman 21 ans. Repose en paix auprès des justes et des sages d'Israël. GB\n#israel #tsahal #idf http://t.co/lHV0GJoPmG",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T17:01:49.327153",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Athens",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "JBxGLkgxR-SjGtYpawyz8w",
+      "createdAt": "2014-08-31T16:58:05.168338"
+    },
+    {
+      "remoteID": "506117620001546241",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "Rana_J01",
+        "remoteID": "430752604",
+        "image": "http://pbs.twimg.com/profile_images/2763378562/7c092d03856b083dc7c254c49f80add0_normal.jpeg",
+        "name": "Rana Jawad"
+      },
+      "image": "http://pbs.twimg.com/media/BwYXSjqCAAAOo9w.jpg",
+      "tags": [],
+      "publishedAt": "2014-08-31T16:33:38+00:00",
+      "summary": "Hello Istanbul for the evening and world as of tomorrow. Bye bye #libya - hope u keep semblance o...",
+      "content": "Hello Istanbul for the evening and world as of tomorrow. Bye bye #libya - hope u keep semblance of peace. Back soon. http://t.co/mQAEIr7JqV",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T16:58:00.777581",
+      "entities": [
+        "Libya"
+      ],
+      "geo": {
+        "coords": [
+          18.043556213378906,
+          27.23609733581543
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "London",
+          "authorLocationName": "Tripoli, Libya"
+        },
+        "addressComponents": {
+          "adminArea1": "Libya",
+          "formattedAddress": "Libya"
+        }
+      },
+      "id": "kJ4JqMsTTFSVMhjfkePVRg",
+      "createdAt": "2014-08-31T16:57:55.655977"
+    },
+    {
+      "remoteID": "506044979983433728",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "AlertNet",
+        "remoteID": "15762575",
+        "image": "http://pbs.twimg.com/profile_images/492572880966647808/vkfuoXEt_normal.jpeg",
+        "name": "AlertNet"
+      },
+      "tags": [],
+      "publishedAt": "2014-08-31T11:44:59+00:00",
+      "summary": "#Israel says it is appropriating  land in the #WestBank - the largest land seizure in 30 years sa...",
+      "content": "#Israel says it is appropriating  land in the #WestBank - the largest land seizure in 30 years says Peace Now http://t.co/YAuyWNPpUR",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T12:01:55.362387",
+      "entities": [
+        "General-conflict"
+      ],
+      "geo": {
+        "locationIdentifiers": {
+          "authorTimeZone": "London",
+          "authorLocationName": "Global"
+        },
+        "addressComponents": {
+          "adminArea1": "General-conflict",
+          "formattedAddress": "General-conflict"
+        }
+      },
+      "id": "Fd9c5YTcTI2UaY-_uefvgw",
+      "createdAt": "2014-08-31T12:01:50.651194"
+    },
+    {
+      "remoteID": "506003060892893185",
+      "license": "twitter",
+      "language": {
+        "code": "nl"
+      },
+      "author": {
+        "username": "rzbh",
+        "remoteID": "14996800",
+        "image": "http://pbs.twimg.com/profile_images/464704700328062976/g_5R8N1v_normal.jpeg",
+        "name": "Roozbeh Kaboly"
+      },
+      "contentEnglish": "RTCamforcedenhaag: The Hague beautiful city of peace and justice. Help us with the realization of the Sunflowers bouquet. GemeenteDenHaag @ DenH ...",
+      "publishedAt": "2014-08-31T08:58:25+00:00",
+      "summary": "RT @Camforcedenhaag: Den Haag mooie stad van vrede en recht. Help ons met de realisatie van het Z...",
+      "content": "RT @Camforcedenhaag: Den Haag mooie stad van vrede en recht. Help ons met de realisatie van het Zonnebloemen boeket. @GemeenteDenHaag @DenH…",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T09:27:45.054554",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Amsterdam",
+          "authorLocationName": "The Netherlands"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "8oenIK-pTamV6O_iCEDNhQ",
+      "createdAt": "2014-08-31T09:27:37.092113"
+    },
+    {
+      "remoteID": "505927606126903296",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "johnnyreb1864",
+        "remoteID": "583122991",
+        "image": "http://pbs.twimg.com/profile_images/344513261572034083/0ae7205d5db192086ffdd274a60f21a4_normal.jpeg",
+        "name": "Drew Hanson"
+      },
+      "tags": [],
+      "publishedAt": "2014-08-31T03:58:35+00:00",
+      "summary": "RT @RepMarkMeadows: For 6 hours, #IDF suspended strikes on Gaza, in hopes of a reaching a peace a...",
+      "content": "RT @RepMarkMeadows: For 6 hours, #IDF suspended strikes on Gaza, in hopes of a reaching a peace agreement. In that time, #Hamas fired 50 ro…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T04:05:30.970137",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "EqeMdouuShCrBgWeATj7PA",
+      "createdAt": "2014-08-31T04:05:01.884153"
+    },
+    {
+      "remoteID": "505851922486931456",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "degner",
+        "remoteID": "11784142",
+        "image": "http://pbs.twimg.com/profile_images/3083572466/b3df3d03ed88d393b8f8dc7a0fee1f71_normal.jpeg",
+        "name": "David Degner"
+      },
+      "tags": [],
+      "publishedAt": "2014-08-30T22:57:51+00:00",
+      "summary": "Is there no peace dove emoji? ",
+      "content": "Is there no peace dove emoji? ",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-30T23:17:24.549067",
+      "entities": [
+        "Egypt",
+        "Markaz El Wahat El Dakhla",
+        "Al Wadi al Jadid"
+      ],
+      "geo": {
+        "coords": [
+          29.86229705810547,
+          26.756103515625
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Cairo",
+          "authorLocationName": "Cairo, Egypt"
+        },
+        "addressComponents": {
+          "adminArea1": "Egypt",
+          "adminArea3": "Al Wadi al Jadid",
+          "formattedAddress": "Markaz El Wahat El Dakhla, Egypt",
+          "adminArea5": "Markaz El Wahat El Dakhla"
+        }
+      },
+      "id": "DzUEkEEDSAKK4nLGmDCJpA",
+      "createdAt": "2014-08-30T23:17:00.788165"
+    },
+    {
+      "remoteID": "505847579029291008",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "luarfr",
+        "remoteID": "276207679",
+        "image": "http://pbs.twimg.com/profile_images/1581676302/ArmasmanuelI_normal.jpg",
+        "name": "luarfr "
+      },
+      "image": "http://pbs.twimg.com/media/BwUhsUfIEAAXUec.jpg",
+      "tags": [
+        {
+          "confidence": 0.990987,
+          "name": "photo-person"
+        }
+      ],
+      "contentEnglish": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/zclZDQvEO0",
+      "publishedAt": "2014-08-30T22:40:35+00:00",
+      "summary": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Pea...",
+      "content": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/zclZDQvEO0",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-30T22:42:07.674462",
+      "entities": [
+        "Palestine"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Paris",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Palestine",
+          "formattedAddress": "Palestine"
+        }
+      },
+      "id": "JWCservXRReGwX3QRzW4zQ",
+      "createdAt": "2014-08-30T22:41:09.902708"
+    },
+    {
+      "remoteID": "505846568705331200",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "luarfr",
+        "remoteID": "276207679",
+        "image": "http://pbs.twimg.com/profile_images/1581676302/ArmasmanuelI_normal.jpg",
+        "name": "luarfr "
+      },
+      "image": "http://pbs.twimg.com/media/BwUgxhAIAAEZHsB.jpg",
+      "tags": [
+        {
+          "confidence": 0.994514,
+          "name": "photo-person"
+        }
+      ],
+      "contentEnglish": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/gCeFIJ0X39",
+      "publishedAt": "2014-08-30T22:36:34+00:00",
+      "summary": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Pea...",
+      "content": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/gCeFIJ0X39",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-30T22:42:35.573494",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Paris",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "eUxOV-tMR2a1VsM5t4vwyA",
+      "createdAt": "2014-08-30T22:41:10.039597"
+    },
+    {
+      "remoteID": "505845809129467904",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "luarfr",
+        "remoteID": "276207679",
+        "image": "http://pbs.twimg.com/profile_images/1581676302/ArmasmanuelI_normal.jpg",
+        "name": "luarfr "
+      },
+      "image": "http://pbs.twimg.com/media/BwUgFTwIYAERI-P.jpg",
+      "contentEnglish": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/rBRLm68CS9",
+      "publishedAt": "2014-08-30T22:33:33+00:00",
+      "summary": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Pea...",
+      "content": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/rBRLm68CS9",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-30T22:43:05.301829",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Paris",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "gcV42W5qTSqUDc4AoOcL1Q",
+      "createdAt": "2014-08-30T22:41:10.215532"
+    },
+    {
+      "remoteID": "505844754857590784",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "luarfr",
+        "remoteID": "276207679",
+        "image": "http://pbs.twimg.com/profile_images/1581676302/ArmasmanuelI_normal.jpg",
+        "name": "luarfr "
+      },
+      "image": "http://pbs.twimg.com/media/BwUfH77IYAAUmYG.jpg",
+      "tags": [
+        {
+          "confidence": 0.999447,
+          "name": "photo-person"
+        }
+      ],
+      "contentEnglish": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/eTCJMhy3hj",
+      "publishedAt": "2014-08-30T22:29:22+00:00",
+      "summary": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Pea...",
+      "content": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/eTCJMhy3hj",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-30T22:43:07.306923",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Paris",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "iTqysXE-ScSXGulJFWw9vQ",
+      "createdAt": "2014-08-30T22:41:10.313263"
+    },
+    {
+      "remoteID": "505843666817404929",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "luarfr",
+        "remoteID": "276207679",
+        "image": "http://pbs.twimg.com/profile_images/1581676302/ArmasmanuelI_normal.jpg",
+        "name": "luarfr "
+      },
+      "image": "http://pbs.twimg.com/media/BwUeImZIYAECw4B.jpg",
+      "tags": [
+        {
+          "confidence": 0.768525,
+          "name": "photo-person"
+        }
+      ],
+      "contentEnglish": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/cvlVZCGfl9",
+      "publishedAt": "2014-08-30T22:25:02+00:00",
+      "summary": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Pea...",
+      "content": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/cvlVZCGfl9",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-30T22:43:33.806422",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Paris",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "KSQYci8kS9qDAw6OGbGmrQ",
+      "createdAt": "2014-08-30T22:41:10.411529"
+    },
+    {
+      "remoteID": "505842778639982592",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "luarfr",
+        "remoteID": "276207679",
+        "image": "http://pbs.twimg.com/profile_images/1581676302/ArmasmanuelI_normal.jpg",
+        "name": "luarfr "
+      },
+      "image": "http://pbs.twimg.com/media/BwUdU6SIUAAJEGA.jpg",
+      "contentEnglish": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/N8TjcszsyM",
+      "publishedAt": "2014-08-30T22:21:31+00:00",
+      "summary": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Pea...",
+      "content": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/N8TjcszsyM",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-30T22:44:17.940141",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Paris",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "EFMLyZ-vTJiiORTZ9hUryQ",
+      "createdAt": "2014-08-30T22:41:10.655493"
+    },
+    {
+      "remoteID": "505841958934564864",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "luarfr",
+        "remoteID": "276207679",
+        "image": "http://pbs.twimg.com/profile_images/1581676302/ArmasmanuelI_normal.jpg",
+        "name": "luarfr "
+      },
+      "image": "http://pbs.twimg.com/media/BwUclMLIIAANZiL.jpg",
+      "contentEnglish": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/rwFHalJoq5",
+      "publishedAt": "2014-08-30T22:18:15+00:00",
+      "summary": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Pea...",
+      "content": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/rwFHalJoq5",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-30T22:44:42.970779",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Paris",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "r2GAlzKwSeu6XQ62XvNphg",
+      "createdAt": "2014-08-30T22:41:10.795422"
+    },
+    {
+      "remoteID": "505841059071807488",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "luarfr",
+        "remoteID": "276207679",
+        "image": "http://pbs.twimg.com/profile_images/1581676302/ArmasmanuelI_normal.jpg",
+        "name": "luarfr "
+      },
+      "image": "http://pbs.twimg.com/media/BwUbwz3IQAA8_WX.jpg",
+      "tags": [
+        {
+          "confidence": 0.998341,
+          "name": "photo-person"
+        }
+      ],
+      "contentEnglish": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/DlpxxNmCba",
+      "publishedAt": "2014-08-30T22:14:41+00:00",
+      "summary": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Pea...",
+      "content": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/DlpxxNmCba",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-30T22:44:46.652228",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Paris",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "tT_EZbckQN6cK9yii0eWSw",
+      "createdAt": "2014-08-30T22:41:10.842483"
+    },
+    {
+      "remoteID": "505840038568288256",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "luarfr",
+        "remoteID": "276207679",
+        "image": "http://pbs.twimg.com/profile_images/1581676302/ArmasmanuelI_normal.jpg",
+        "name": "luarfr "
+      },
+      "image": "http://pbs.twimg.com/media/BwUa1agIUAAODX2.jpg",
+      "tags": [
+        {
+          "confidence": 0.998887,
+          "name": "photo-person"
+        }
+      ],
+      "contentEnglish": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/zMngOQbByv",
+      "publishedAt": "2014-08-30T22:10:37+00:00",
+      "summary": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Pea...",
+      "content": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/zMngOQbByv",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-30T22:44:49.798571",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Paris",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "-WBMYTbARkSJOW0E0NSTag",
+      "createdAt": "2014-08-30T22:41:10.907310"
+    },
+    {
+      "remoteID": "505838930504462337",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "luarfr",
+        "remoteID": "276207679",
+        "image": "http://pbs.twimg.com/profile_images/1581676302/ArmasmanuelI_normal.jpg",
+        "name": "luarfr "
+      },
+      "image": "http://pbs.twimg.com/media/BwUZ06IIIAAoXrm.jpg",
+      "tags": [
+        {
+          "confidence": 0.986613,
+          "name": "photo-person"
+        }
+      ],
+      "contentEnglish": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/VxVsiOiqZa",
+      "publishedAt": "2014-08-30T22:06:13+00:00",
+      "summary": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Pea...",
+      "content": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/VxVsiOiqZa",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-30T22:45:42.509768",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Paris",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "7hbF7VSzQcu-uhk-OKM6sg",
+      "createdAt": "2014-08-30T22:41:11.179803"
+    },
+    {
+      "remoteID": "505833224388759552",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "luarfr",
+        "remoteID": "276207679",
+        "image": "http://pbs.twimg.com/profile_images/1581676302/ArmasmanuelI_normal.jpg",
+        "name": "luarfr "
+      },
+      "image": "http://pbs.twimg.com/media/BwUUoxgIIAA3r0B.jpg",
+      "contentEnglish": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/LMLMxgl7m2",
+      "publishedAt": "2014-08-30T21:43:33+00:00",
+      "summary": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Pea...",
+      "content": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/LMLMxgl7m2",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-30T22:08:32.611689",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Paris",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "W04GBRbIRRyhN6HBxzC_4g",
+      "createdAt": "2014-08-30T22:04:45.862789"
+    },
+    {
+      "remoteID": "505831906660073473",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "luarfr",
+        "remoteID": "276207679",
+        "image": "http://pbs.twimg.com/profile_images/1581676302/ArmasmanuelI_normal.jpg",
+        "name": "luarfr "
+      },
+      "image": "http://pbs.twimg.com/media/BwUTcEqIQAADWZd.jpg",
+      "tags": [
+        {
+          "confidence": 0.990987,
+          "name": "photo-person"
+        }
+      ],
+      "contentEnglish": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/9cYglHhRbQ",
+      "publishedAt": "2014-08-30T21:38:19+00:00",
+      "summary": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Pea...",
+      "content": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/9cYglHhRbQ",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-30T22:09:55.050178",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Paris",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "VgwUuOsjQsSp2zKIFVmx_w",
+      "createdAt": "2014-08-30T22:04:46.236659"
+    },
+    {
+      "remoteID": "505830138723176448",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "luarfr",
+        "remoteID": "276207679",
+        "image": "http://pbs.twimg.com/profile_images/1581676302/ArmasmanuelI_normal.jpg",
+        "name": "luarfr "
+      },
+      "image": "http://pbs.twimg.com/media/BwUR1K9IEAAs4PW.jpg",
+      "tags": [
+        {
+          "confidence": 0.924142,
+          "name": "photo-person"
+        }
+      ],
+      "contentEnglish": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/o2oHyE1E6X",
+      "publishedAt": "2014-08-30T21:31:17+00:00",
+      "summary": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Pea...",
+      "content": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/o2oHyE1E6X",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-30T22:10:24.585853",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Paris",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "TsInTxJ7RwKMKE3C1f_14A",
+      "createdAt": "2014-08-30T22:04:46.432416"
+    },
+    {
+      "remoteID": "505827127691083776",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "luarfr",
+        "remoteID": "276207679",
+        "image": "http://pbs.twimg.com/profile_images/1581676302/ArmasmanuelI_normal.jpg",
+        "name": "luarfr "
+      },
+      "image": "http://pbs.twimg.com/media/BwUPF5lIQAAt-v1.jpg",
+      "contentEnglish": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/MT4kM3AKe1",
+      "publishedAt": "2014-08-30T21:19:19+00:00",
+      "summary": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Pea...",
+      "content": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/MT4kM3AKe1",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-30T21:27:40.871773",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Paris",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "6H4LPUXzT7aHqhbqW-uRxw",
+      "createdAt": "2014-08-30T21:25:18.310452"
+    },
+    {
+      "remoteID": "505826278529069057",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "luarfr",
+        "remoteID": "276207679",
+        "image": "http://pbs.twimg.com/profile_images/1581676302/ArmasmanuelI_normal.jpg",
+        "name": "luarfr "
+      },
+      "image": "http://pbs.twimg.com/media/BwUOUcVIQAA_pcc.jpg",
+      "tags": [
+        {
+          "confidence": 0.731059,
+          "name": "photo-person"
+        }
+      ],
+      "contentEnglish": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/uMYzuoNNsP",
+      "publishedAt": "2014-08-30T21:15:57+00:00",
+      "summary": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Pea...",
+      "content": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/uMYzuoNNsP",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-30T21:28:28.100914",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Paris",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "hDIlCazPSdyglKpEukzEUQ",
+      "createdAt": "2014-08-30T21:25:18.641349"
+    },
+    {
+      "remoteID": "505825078979092480",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "luarfr",
+        "remoteID": "276207679",
+        "image": "http://pbs.twimg.com/profile_images/1581676302/ArmasmanuelI_normal.jpg",
+        "name": "luarfr "
+      },
+      "image": "http://pbs.twimg.com/media/BwUNOpIIQAAiD9E.jpg",
+      "contentEnglish": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/jFn4H4tZNI",
+      "publishedAt": "2014-08-30T21:11:11+00:00",
+      "summary": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Pea...",
+      "content": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/jFn4H4tZNI",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-30T21:29:29.526748",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Paris",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "DCJUw8g6TGCSa3F-gSm4vQ",
+      "createdAt": "2014-08-30T21:25:18.976539"
+    },
+    {
+      "remoteID": "505824348834643968",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "luarfr",
+        "remoteID": "276207679",
+        "image": "http://pbs.twimg.com/profile_images/1581676302/ArmasmanuelI_normal.jpg",
+        "name": "luarfr "
+      },
+      "image": "http://pbs.twimg.com/media/BwUMkJtIIAEBO-5.jpg",
+      "tags": [
+        {
+          "confidence": 0.992608,
+          "name": "photo-person"
+        }
+      ],
+      "contentEnglish": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/t0XC48ynSa",
+      "publishedAt": "2014-08-30T21:08:17+00:00",
+      "summary": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Pea...",
+      "content": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/t0XC48ynSa",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-30T21:30:59.302189",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Paris",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "B6P-uNAkTZ6vTvzDGULLpw",
+      "createdAt": "2014-08-30T21:25:19.353849"
+    },
+    {
+      "remoteID": "505823182977527808",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "luarfr",
+        "remoteID": "276207679",
+        "image": "http://pbs.twimg.com/profile_images/1581676302/ArmasmanuelI_normal.jpg",
+        "name": "luarfr "
+      },
+      "image": "http://pbs.twimg.com/media/BwULgSyIEAI9645.jpg",
+      "tags": [
+        {
+          "confidence": 0.997268,
+          "name": "photo-person"
+        }
+      ],
+      "contentEnglish": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/180gqCALq9",
+      "publishedAt": "2014-08-30T21:03:39+00:00",
+      "summary": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Pea...",
+      "content": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/180gqCALq9",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-30T21:32:01.603559",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Paris",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "y60n_UZvT0O35uw-36GqHA",
+      "createdAt": "2014-08-30T21:25:19.793969"
+    },
+    {
+      "remoteID": "505822277074976768",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "luarfr",
+        "remoteID": "276207679",
+        "image": "http://pbs.twimg.com/profile_images/1581676302/ArmasmanuelI_normal.jpg",
+        "name": "luarfr "
+      },
+      "image": "http://pbs.twimg.com/media/BwUKrjuIUAAxTtY.jpg",
+      "tags": [
+        {
+          "confidence": 0.924142,
+          "name": "photo-person"
+        }
+      ],
+      "contentEnglish": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/D7Fy8VvZpb",
+      "publishedAt": "2014-08-30T21:00:03+00:00",
+      "summary": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Pea...",
+      "content": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/D7Fy8VvZpb",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-30T21:32:45.826616",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Paris",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "ULE_PpFFRragi23yz7F-mg",
+      "createdAt": "2014-08-30T21:25:20.099256"
+    },
+    {
+      "remoteID": "505820861174407168",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "luarfr",
+        "remoteID": "276207679",
+        "image": "http://pbs.twimg.com/profile_images/1581676302/ArmasmanuelI_normal.jpg",
+        "name": "luarfr "
+      },
+      "image": "http://pbs.twimg.com/media/BwUJZJFIAAELF4y.jpg",
+      "contentEnglish": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/CWBvB7XaU7",
+      "publishedAt": "2014-08-30T20:54:25+00:00",
+      "summary": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Pea...",
+      "content": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/CWBvB7XaU7",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-30T21:33:39.924308",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Paris",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "DFv04M7HQECYVAb9GgP0fw",
+      "createdAt": "2014-08-30T21:25:20.414378"
+    },
+    {
+      "remoteID": "505819682184896512",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "luarfr",
+        "remoteID": "276207679",
+        "image": "http://pbs.twimg.com/profile_images/1581676302/ArmasmanuelI_normal.jpg",
+        "name": "luarfr "
+      },
+      "image": "http://pbs.twimg.com/media/BwUIUf8IYAA9H3K.jpg",
+      "tags": [
+        {
+          "confidence": 0.710949,
+          "name": "photo-person"
+        }
+      ],
+      "contentEnglish": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/IOKbLbuCU8",
+      "publishedAt": "2014-08-30T20:49:44+00:00",
+      "summary": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Pea...",
+      "content": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/IOKbLbuCU8",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-30T21:34:43.692502",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Paris",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "z69YeFdGThu-4jaG_MGr-g",
+      "createdAt": "2014-08-30T21:25:20.825872"
+    },
+    {
+      "remoteID": "505818662595751937",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "luarfr",
+        "remoteID": "276207679",
+        "image": "http://pbs.twimg.com/profile_images/1581676302/ArmasmanuelI_normal.jpg",
+        "name": "luarfr "
+      },
+      "image": "http://pbs.twimg.com/media/BwUHZKHIQAI5w9m.jpg",
+      "contentEnglish": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/4I1Rf3Wvfn",
+      "publishedAt": "2014-08-30T20:45:41+00:00",
+      "summary": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Pea...",
+      "content": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/4I1Rf3Wvfn",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-30T21:36:20.129534",
+      "entities": [
+        "Palestine"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Paris",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Palestine",
+          "formattedAddress": "Palestine"
+        }
+      },
+      "id": "_SvPfI0GRGuS4lf3guJ8cA",
+      "createdAt": "2014-08-30T21:25:21.410317"
+    },
+    {
+      "remoteID": "505817874725085184",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "luarfr",
+        "remoteID": "276207679",
+        "image": "http://pbs.twimg.com/profile_images/1581676302/ArmasmanuelI_normal.jpg",
+        "name": "luarfr "
+      },
+      "image": "http://pbs.twimg.com/media/BwUGrTsIcAAHhJA.jpg",
+      "contentEnglish": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/adio7FwpcP",
+      "publishedAt": "2014-08-30T20:42:33+00:00",
+      "summary": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Pea...",
+      "content": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/adio7FwpcP",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-30T20:46:46.304899",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Paris",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "EADa41ART9qNlJRNzA6hEg",
+      "createdAt": "2014-08-30T20:44:00.515609"
+    },
+    {
+      "remoteID": "505816742997012480",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "luarfr",
+        "remoteID": "276207679",
+        "image": "http://pbs.twimg.com/profile_images/1581676302/ArmasmanuelI_normal.jpg",
+        "name": "luarfr "
+      },
+      "image": "http://pbs.twimg.com/media/BwUFpa-IcAEX00v.jpg",
+      "tags": [
+        {
+          "confidence": 0.952574,
+          "name": "photo-person"
+        }
+      ],
+      "contentEnglish": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/EZGYdQqmDf",
+      "publishedAt": "2014-08-30T20:38:03+00:00",
+      "summary": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Pea...",
+      "content": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/EZGYdQqmDf",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-30T20:48:59.992603",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Paris",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "dZya6RFiQ3WWzTaCgYt7aQ",
+      "createdAt": "2014-08-30T20:44:01.138320"
+    },
+    {
+      "remoteID": "505815822997405696",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "luarfr",
+        "remoteID": "276207679",
+        "image": "http://pbs.twimg.com/profile_images/1581676302/ArmasmanuelI_normal.jpg",
+        "name": "luarfr "
+      },
+      "image": "http://pbs.twimg.com/media/BwUEz4ZIUAA1GW8.jpg",
+      "tags": [
+        {
+          "confidence": 0.930862,
+          "name": "photo-person"
+        }
+      ],
+      "contentEnglish": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/esS1J2zAN0",
+      "publishedAt": "2014-08-30T20:34:24+00:00",
+      "summary": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Pea...",
+      "content": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/esS1J2zAN0",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-30T20:49:18.548316",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Paris",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "NvoJSyrzQgiAaFkIEb-vsA",
+      "createdAt": "2014-08-30T20:44:01.259512"
+    },
+    {
+      "remoteID": "505814966407286786",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "luarfr",
+        "remoteID": "276207679",
+        "image": "http://pbs.twimg.com/profile_images/1581676302/ArmasmanuelI_normal.jpg",
+        "name": "luarfr "
+      },
+      "image": "http://pbs.twimg.com/media/BwUECBhIMAAf35L.jpg",
+      "contentEnglish": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/tD0TLcdsuV",
+      "publishedAt": "2014-08-30T20:31:00+00:00",
+      "summary": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Pea...",
+      "content": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/tD0TLcdsuV",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-30T20:50:41.361447",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Paris",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "KvsvJu69Twqbtkl2GTlvIQ",
+      "createdAt": "2014-08-30T20:44:01.611502"
+    },
+    {
+      "remoteID": "505814074752761856",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "luarfr",
+        "remoteID": "276207679",
+        "image": "http://pbs.twimg.com/profile_images/1581676302/ArmasmanuelI_normal.jpg",
+        "name": "luarfr "
+      },
+      "image": "http://pbs.twimg.com/media/BwUDOHxIYAArS2s.jpg",
+      "tags": [
+        {
+          "confidence": 0.987872,
+          "name": "photo-person"
+        }
+      ],
+      "contentEnglish": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/680RH0Rbbd",
+      "publishedAt": "2014-08-30T20:27:27+00:00",
+      "summary": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Pea...",
+      "content": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/680RH0Rbbd",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-30T20:51:18.512956",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Paris",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "Kzu2HqBIQhCSeX3BP8j14A",
+      "createdAt": "2014-08-30T20:44:01.845140"
+    },
+    {
+      "remoteID": "505811914984026114",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "luarfr",
+        "remoteID": "276207679",
+        "image": "http://pbs.twimg.com/profile_images/1581676302/ArmasmanuelI_normal.jpg",
+        "name": "luarfr "
+      },
+      "image": "http://pbs.twimg.com/media/BwUBQaGIYAAgoqd.jpg",
+      "tags": [
+        {
+          "confidence": 0.989013,
+          "name": "photo-person"
+        }
+      ],
+      "contentEnglish": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/sblUGmjmux",
+      "publishedAt": "2014-08-30T20:18:52+00:00",
+      "summary": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Pea...",
+      "content": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/sblUGmjmux",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-30T20:53:06.337745",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Paris",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "t-Tq0kFHSX-3Fi8PoX7_PA",
+      "createdAt": "2014-08-30T20:44:02.410277"
+    },
+    {
+      "remoteID": "505810589311328256",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "luarfr",
+        "remoteID": "276207679",
+        "image": "http://pbs.twimg.com/profile_images/1581676302/ArmasmanuelI_normal.jpg",
+        "name": "luarfr "
+      },
+      "image": "http://pbs.twimg.com/media/BwUADPGIgAADgX1.jpg",
+      "contentEnglish": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/VNRLSyqtCz",
+      "publishedAt": "2014-08-30T20:13:36+00:00",
+      "summary": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Pea...",
+      "content": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/VNRLSyqtCz",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-30T20:54:03.845574",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Paris",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "QM4_wzE3REGWD3neG4EUBw",
+      "createdAt": "2014-08-30T20:44:02.623907"
+    },
+    {
+      "remoteID": "505809816133304320",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "luarfr",
+        "remoteID": "276207679",
+        "image": "http://pbs.twimg.com/profile_images/1581676302/ArmasmanuelI_normal.jpg",
+        "name": "luarfr "
+      },
+      "image": "http://pbs.twimg.com/media/BwT_WPGIIAAdzaS.jpg",
+      "contentEnglish": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/ssBB0xPllt",
+      "publishedAt": "2014-08-30T20:10:32+00:00",
+      "summary": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Pea...",
+      "content": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/ssBB0xPllt",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-30T20:54:47.329290",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Paris",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "A9TUP0xMQbm0bHYL9nfRxg",
+      "createdAt": "2014-08-30T20:44:02.738866"
+    },
+    {
+      "remoteID": "505808992204230658",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "luarfr",
+        "remoteID": "276207679",
+        "image": "http://pbs.twimg.com/profile_images/1581676302/ArmasmanuelI_normal.jpg",
+        "name": "luarfr "
+      },
+      "image": "http://pbs.twimg.com/media/BwT-mRsIcAE7uxQ.jpg",
+      "contentEnglish": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/PAQyQS3o6R",
+      "publishedAt": "2014-08-30T20:07:15+00:00",
+      "summary": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Pea...",
+      "content": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/PAQyQS3o6R",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-30T20:55:09.518567",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Paris",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "3WZ50gAUTxK_7hY8w_dv7A",
+      "createdAt": "2014-08-30T20:44:02.846331"
+    },
+    {
+      "remoteID": "505807286871531520",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "luarfr",
+        "remoteID": "276207679",
+        "image": "http://pbs.twimg.com/profile_images/1581676302/ArmasmanuelI_normal.jpg",
+        "name": "luarfr "
+      },
+      "image": "http://pbs.twimg.com/media/BwT9DAtIUAETINZ.jpg",
+      "contentEnglish": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/a0d9lLFwtD",
+      "publishedAt": "2014-08-30T20:00:29+00:00",
+      "summary": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Pea...",
+      "content": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/a0d9lLFwtD",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-30T20:04:13.164240",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Paris",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "443EnxhMTReVHaEfpIBYQg",
+      "createdAt": "2014-08-30T20:03:16.607655"
+    },
+    {
+      "remoteID": "505805337518428160",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "luarfr",
+        "remoteID": "276207679",
+        "image": "http://pbs.twimg.com/profile_images/1581676302/ArmasmanuelI_normal.jpg",
+        "name": "luarfr "
+      },
+      "image": "http://pbs.twimg.com/media/BwT7Ri4IEAADX_T.jpg",
+      "tags": [
+        {
+          "confidence": 0.908877,
+          "name": "photo-person"
+        }
+      ],
+      "contentEnglish": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/CnVYTKWIYH",
+      "publishedAt": "2014-08-30T19:52:44+00:00",
+      "summary": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Pea...",
+      "content": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/CnVYTKWIYH",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-30T20:05:35.646806",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Paris",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "lm4Q8BD5QTG9l07aIhXAGA",
+      "createdAt": "2014-08-30T20:03:17.116324"
+    },
+    {
+      "remoteID": "505804216443883520",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "luarfr",
+        "remoteID": "276207679",
+        "image": "http://pbs.twimg.com/profile_images/1581676302/ArmasmanuelI_normal.jpg",
+        "name": "luarfr "
+      },
+      "image": "http://pbs.twimg.com/media/BwT6QSwIIAANNC6.jpg",
+      "contentEnglish": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/KHTyq5o45j",
+      "publishedAt": "2014-08-30T19:48:17+00:00",
+      "summary": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Pea...",
+      "content": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/KHTyq5o45j",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-30T20:05:57.515234",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Paris",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "fqMxQAY7T8GVpdzwks0DOg",
+      "createdAt": "2014-08-30T20:03:17.238126"
+    },
+    {
+      "remoteID": "505803048498003968",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "luarfr",
+        "remoteID": "276207679",
+        "image": "http://pbs.twimg.com/profile_images/1581676302/ArmasmanuelI_normal.jpg",
+        "name": "luarfr "
+      },
+      "image": "http://pbs.twimg.com/media/BwT5MTUIUAEqVw1.jpg",
+      "contentEnglish": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/5M5TVjdSO6",
+      "publishedAt": "2014-08-30T19:43:38+00:00",
+      "summary": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Pea...",
+      "content": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/5M5TVjdSO6",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-30T20:06:05.022807",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Paris",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "36BjpY55Sjmr5N4W-1vc-A",
+      "createdAt": "2014-08-30T20:03:17.340077"
+    },
+    {
+      "remoteID": "505801781692358656",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "luarfr",
+        "remoteID": "276207679",
+        "image": "http://pbs.twimg.com/profile_images/1581676302/ArmasmanuelI_normal.jpg",
+        "name": "luarfr "
+      },
+      "image": "http://pbs.twimg.com/media/BwT4CklIMAAfrJN.jpg",
+      "tags": [
+        {
+          "confidence": 0.986613,
+          "name": "photo-person"
+        }
+      ],
+      "contentEnglish": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/hLBQ6HSFdU",
+      "publishedAt": "2014-08-30T19:38:36+00:00",
+      "summary": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Pea...",
+      "content": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/hLBQ6HSFdU",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-30T20:06:27.864106",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Paris",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "VCnf23MhRAmJPobeUMXTPA",
+      "createdAt": "2014-08-30T20:03:17.410339"
+    },
+    {
+      "remoteID": "505800578182963201",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "luarfr",
+        "remoteID": "276207679",
+        "image": "http://pbs.twimg.com/profile_images/1581676302/ArmasmanuelI_normal.jpg",
+        "name": "luarfr "
+      },
+      "image": "http://pbs.twimg.com/media/BwT28gqIAAAx9G_.jpg",
+      "tags": [
+        {
+          "confidence": 0.998641,
+          "name": "photo-person"
+        }
+      ],
+      "contentEnglish": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/KfYEUXVMxL",
+      "publishedAt": "2014-08-30T19:33:49+00:00",
+      "summary": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Pea...",
+      "content": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/KfYEUXVMxL",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-30T20:07:06.765194",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Paris",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "zbvIGj3FRkurkDsIzs6aCg",
+      "createdAt": "2014-08-30T20:03:17.535258"
+    },
+    {
+      "remoteID": "505798065492873216",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "luarfr",
+        "remoteID": "276207679",
+        "image": "http://pbs.twimg.com/profile_images/1581676302/ArmasmanuelI_normal.jpg",
+        "name": "luarfr "
+      },
+      "image": "http://pbs.twimg.com/media/BwT0qQwIcAA2LQG.jpg",
+      "tags": [
+        {
+          "confidence": 0.9995,
+          "name": "photo-person"
+        }
+      ],
+      "contentEnglish": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/ou9bjPiely",
+      "publishedAt": "2014-08-30T19:23:50+00:00",
+      "summary": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Pea...",
+      "content": "#Gaza #ONU #IDF #crimesagainsthumanity #FreedomPalestine #Hamas #ResistancePalestine #Israel #Peace #Freedom ♡ http://t.co/ou9bjPiely",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-30T19:23:17.510660",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Paris",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "_emlXrjmR4muzNWsrm15XQ",
+      "createdAt": "2014-08-30T19:22:43.652371"
     }
   ]
 }

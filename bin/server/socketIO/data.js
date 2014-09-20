@@ -1,6 +1,7 @@
 var fs = require('fs');
 var path = require('path');
 var q = require('q');
+var _ = require('lodash');
 
 function getJson(filePath) {
   var deferred = q.defer();
@@ -22,11 +23,19 @@ function getJson(filePath) {
 }
 
 module.exports = function(root) {
-  var WAR_DATA_PATH = path.join(root, "/data/war.json");
-  var PEACE_DATA_PATH = path.join(root, "/data/peace.json");
+  // TODO: Duplicate of front end config
+  var dataFileNames = [
+    "war",
+    "peace",
+    "gaza",
+    "syria",
+    "london"
+  ];
 
-  return {
-    war: getJson(WAR_DATA_PATH),
-    peace: getJson(PEACE_DATA_PATH)
-  };
+  dataFilePromiseMappings = {};
+  var dataFilePromises = _.each(dataFileNames, function(name) {
+    dataFilePromiseMappings[name] = getJson(path.join(root, "/data/" + name + ".json"));
+  });
+
+  return dataFilePromiseMappings;
 };

@@ -58,6 +58,10 @@ angular.module('app')
 
   msgTypes: [
     'war',
-    'peace'
+    'peace',
+
+    'gaza',
+    'syria',
+    'london'
   ]
 });

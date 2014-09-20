@@ -62,22 +62,17 @@ module.exports = {
 
     var dataPromises = require('./data')(root);
 
-    dataPromises.war.then(function(resp) {
-      var data = resp.data;
-      console.log("war data:", data.length);
+    // Create a web socket stream for each data
+    // feed
+    _.each(dataPromises, function(dataPromise, key) {
+      dataPromises[key].then(function(resp) {
+        var data = resp.data;
+        console.log(key + " data:", data.length);
 
-      trickleData(io, data, "war");
-    }, function(e) {
-      server.log(["error", "data"], e);
-    });
-
-    dataPromises.peace.then(function(resp) {
-      var data = resp.data;
-      console.log("peace data:", data.length);
-
-      trickleData(io, data, "peace");
-    }, function(e) {
-      server.log(["error", "data"], e);
+        trickleData(io, data, key);
+      }, function(e) {
+        server.log(["error", "data", key], e);
+      });
     });
 
     return io;

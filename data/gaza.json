@@ -1,0 +1,4553 @@
+{
+  "total": 53671,
+  "data": [
+    {
+      "remoteID": "507093968736092160",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "gntlman",
+        "remoteID": "15363308",
+        "image": "http://pbs.twimg.com/profile_images/471459206298480640/scU_qh74_normal.jpeg",
+        "name": "Shawn Branch"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-03T09:13:18+00:00",
+      "summary": "Special Interview: How #IDF #UAVs Saved Lives in #Gaza http://t.co/rP6pR5lH3w",
+      "content": "Special Interview: How #IDF #UAVs Saved Lives in #Gaza http://t.co/rP6pR5lH3w",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T09:15:13.954418",
+      "entities": [
+        "Palestine"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Central Time (US & Canada)",
+          "authorLocationName": "Mesquite, Texas"
+        },
+        "addressComponents": {
+          "adminArea1": "Palestine",
+          "formattedAddress": "Palestine"
+        }
+      },
+      "id": "QCucMTV_RySspIBs1NmDxQ",
+      "createdAt": "2014-09-03T09:14:02.765129"
+    },
+    {
+      "remoteID": "507093709889232896",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "greenaldebaran",
+        "remoteID": "2717010544",
+        "image": "http://pbs.twimg.com/profile_images/495696295815020544/8PT7bUZa_normal.jpeg",
+        "name": "Aldebaran"
+      },
+      "tags": [
+        {
+          "confidence": 1,
+          "name": "fire"
+        },
+        {
+          "confidence": 1,
+          "name": "disaster"
+        }
+      ],
+      "publishedAt": "2014-09-03T09:12:16+00:00",
+      "summary": "#IDF Israel opened fire at fishermen south #Gaza violating ceasefire http://t.co/Ae9OledGxF #Free...",
+      "content": "#IDF Israel opened fire at fishermen south #Gaza violating ceasefire http://t.co/Ae9OledGxF #FreePalestine #FreeGaza #BoycottIsrael #BDS",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T09:15:25.413565",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "vaCpbotkRYyjNCsSJlYUmg",
+      "createdAt": "2014-09-03T09:14:02.932901"
+    },
+    {
+      "remoteID": "507093021293555712",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "Khadima313",
+        "remoteID": "1482803773",
+        "image": "http://pbs.twimg.com/profile_images/476910068622196737/MsP-r6vu_normal.jpeg",
+        "name": "#KayJumpsForGaza"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-03T09:09:32+00:00",
+      "summary": "RT @avirosenthal2: The Israeli navy is about to receive its fourth submarine from Germany http://...",
+      "content": "RT @avirosenthal2: The Israeli navy is about to receive its fourth submarine from Germany http://t.co/ESHEmiBOXF #Israel  #IDF",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T09:15:32.538706",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": "#NO2ISIS"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "7QueIHgrT4SqPkTouX5kVg",
+      "createdAt": "2014-09-03T09:14:03.106674"
+    },
+    {
+      "remoteID": "507092872420933632",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "markfox1950",
+        "remoteID": "1374532723",
+        "image": "http://pbs.twimg.com/profile_images/493738155606949889/Ggb_Gpuo_normal.jpeg",
+        "name": "Houdini Fox"
+      },
+      "image": "http://pbs.twimg.com/media/BwPvGAsCEAAVwxU.jpg",
+      "tags": [
+        {
+          "confidence": 0.998993,
+          "name": "photo-person"
+        }
+      ],
+      "publishedAt": "2014-09-03T09:08:56+00:00",
+      "summary": "RT @AdamMilstein: Female #IDF soldiers, the Hamas tried to Kill. Gaza border female soldiers risk...",
+      "content": "RT @AdamMilstein: Female #IDF soldiers, the Hamas tried to Kill. Gaza border female soldiers risked their lives http://t.co/rC4UbqObDq http…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T09:15:40.195715",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Amsterdam",
+          "authorLocationName": "Here and there "
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "Yv11wtjZRGKS6o61i-POjg",
+      "createdAt": "2014-09-03T09:14:03.295571"
+    },
+    {
+      "remoteID": "507092661749030912",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "cerebell",
+        "remoteID": "368132514",
+        "image": "http://pbs.twimg.com/profile_images/1545167048/lights_normal.jpg",
+        "name": "sarah bellum"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-03T09:08:06+00:00",
+      "summary": "RT @NaniOth: #IDF never stopped violation in #Jerusalem and the #WestBank, there's always land ra...",
+      "content": "RT @NaniOth: #IDF never stopped violation in #Jerusalem and the #WestBank, there's always land rape, arrests and assaults.\n#FreePalestine #…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T09:15:36.751049",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "BByci3z5Q5OXXVpShp_4MQ",
+      "createdAt": "2014-09-03T09:14:03.484130"
+    },
+    {
+      "remoteID": "507092177936072705",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "GuyAnalyst",
+        "remoteID": "2737080211",
+        "image": "http://pbs.twimg.com/profile_images/503268432221966336/fau5Uf_w_normal.jpeg",
+        "name": "Media Analyst"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-03T09:06:11+00:00",
+      "summary": "RT @avirosenthal2: The Israeli navy is about to receive its fourth submarine from Germany http://...",
+      "content": "RT @avirosenthal2: The Israeli navy is about to receive its fourth submarine from Germany http://t.co/ESHEmiBOXF #Israel  #IDF",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T09:15:48.095174",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "Ou7EyecQTXun6_Q-qJu_ew",
+      "createdAt": "2014-09-03T09:14:03.708162"
+    },
+    {
+      "remoteID": "507092082037915648",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "RafikBiff",
+        "remoteID": "282921586",
+        "image": "http://pbs.twimg.com/profile_images/506061363991429120/0S6qi4gP_normal.jpeg",
+        "name": "Rafik"
+      },
+      "image": "http://pbs.twimg.com/media/BuEndJhIEAIYjFs.jpg",
+      "tags": [
+        {
+          "confidence": 0.982014,
+          "name": "photo-person"
+        }
+      ],
+      "contentEnglish": "RT @ hamzayildirim11: IDF http://t.co/8M8LKCizmw",
+      "publishedAt": "2014-09-03T09:05:48+00:00",
+      "summary": "RT @hamzayildirim11: #IDF http://t.co/8M8LKCizmw",
+      "content": "RT @hamzayildirim11: #IDF http://t.co/8M8LKCizmw",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T09:15:57.940548",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Paris",
+          "authorLocationName": "France"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "5MSro9DDT1Wy1TPsC06vbQ",
+      "createdAt": "2014-09-03T09:14:03.810219"
+    },
+    {
+      "remoteID": "507091766697136129",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "mrsnuraza",
+        "remoteID": "2749794341",
+        "image": "http://pbs.twimg.com/profile_images/502621710940917760/5Oi0eHJ__normal.jpeg",
+        "name": " mrs عاطیف "
+      },
+      "tags": [],
+      "publishedAt": "2014-09-03T09:04:33+00:00",
+      "summary": "RT @NaniOth: #IDF never stopped violation in #Jerusalem and the #WestBank, there's always land ra...",
+      "content": "RT @NaniOth: #IDF never stopped violation in #Jerusalem and the #WestBank, there's always land rape, arrests and assaults.\n#FreePalestine #…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T09:15:58.680898",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": "Singapore"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "mCu3yGzeQNusOkoKn5vxbw",
+      "createdAt": "2014-09-03T09:14:03.855802"
+    },
+    {
+      "remoteID": "507091513567092736",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "YaakovShmuel",
+        "remoteID": "2611221822",
+        "image": "http://pbs.twimg.com/profile_images/505440562615304192/6_LoaNyp_normal.jpeg",
+        "name": "Yaakov Shmuel"
+      },
+      "image": "http://pbs.twimg.com/media/BwmKq0FIgAAx3hM.jpg",
+      "tags": [],
+      "publishedAt": "2014-09-03T09:03:32+00:00",
+      "summary": "#Israeli Nuclear Sub on the Way for #IDF Navy (Video) - http://t.co/QlHFARQSuz … http://t.co/V5QO...",
+      "content": "#Israeli Nuclear Sub on the Way for #IDF Navy (Video) - http://t.co/QlHFARQSuz … http://t.co/V5QOKLVdZ6",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T09:16:02.795560",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Jerusalem",
+          "authorLocationName": "Israel, NY, SEA"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "ogI1zTBFTPCqG0Mqmhj6VA",
+      "createdAt": "2014-09-03T09:14:03.887788"
+    },
+    {
+      "remoteID": "507090818960990208",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "AmishBallerina",
+        "remoteID": "1002563318",
+        "image": "http://pbs.twimg.com/profile_images/467772809544876033/3sA2RX7s_normal.jpeg",
+        "name": "Mascara Tears"
+      },
+      "image": "http://pbs.twimg.com/media/Bwk4PlFCQAAxEyk.jpg",
+      "tags": [
+        {
+          "confidence": 0.802184,
+          "name": "photo-person"
+        }
+      ],
+      "publishedAt": "2014-09-03T09:00:47+00:00",
+      "summary": "\"@LibertySlap:  @nytimes Your ad isn't complete, lacks this picture of glorious #IDF servicemen →...",
+      "content": "\"@LibertySlap:  @nytimes Your ad isn't complete, lacks this picture of glorious #IDF servicemen → http://t.co/we9tGh2rkn\" idf are scumbags",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T09:16:11.454395",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": "Pensacola ,Florida  "
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "wPNpxqh1T3CXCxW_VULDag",
+      "createdAt": "2014-09-03T09:14:03.924429"
+    },
+    {
+      "remoteID": "507090711263449088",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "avirosenthal2",
+        "remoteID": "2598425420",
+        "image": "http://pbs.twimg.com/profile_images/484056647753424896/V2OyN2MT_normal.jpeg",
+        "name": "Avi Rosenthal"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-03T09:00:21+00:00",
+      "summary": "The Israeli navy is about to receive its fourth submarine from Germany http://t.co/ESHEmiBOXF #Is...",
+      "content": "The Israeli navy is about to receive its fourth submarine from Germany http://t.co/ESHEmiBOXF #Israel  #IDF",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T09:16:20.827602",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Baghdad",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "WvAdbQ_rSDe7q1_k5KdXng",
+      "createdAt": "2014-09-03T09:14:03.958293"
+    },
+    {
+      "remoteID": "507090289748889600",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "rachidtiznit2",
+        "remoteID": "1856651612",
+        "image": "http://pbs.twimg.com/profile_images/453945492565942272/w11M6R_a_normal.jpeg",
+        "name": "tiznit555"
+      },
+      "image": "http://pbs.twimg.com/media/BwlwSHUCIAAF3BU.jpg",
+      "tags": [
+        {
+          "confidence": 0.924142,
+          "name": "photo-person"
+        }
+      ],
+      "publishedAt": "2014-09-03T08:58:41+00:00",
+      "summary": "RT @WClanSupport: “@momen_mubasher: #IDF Terrorist Army against the Palestinian children!! \n#Isra...",
+      "content": "RT @WClanSupport: “@momen_mubasher: #IDF Terrorist Army against the Palestinian children!! \n#IsraelNews \n#zionist \n#Palestine http://t.co/5…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T09:16:23.535655",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "id-Xu7GeR3W-PWe6ZwS1Aw",
+      "createdAt": "2014-09-03T09:14:03.993127"
+    },
+    {
+      "remoteID": "507089246982008832",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "Aranclayton",
+        "remoteID": "21677368",
+        "image": "http://pbs.twimg.com/profile_images/434710195734724609/2DnsouRT_normal.jpeg",
+        "name": "Aran Clayton"
+      },
+      "tags": [
+        {
+          "confidence": 1,
+          "name": "armed-conflict"
+        },
+        {
+          "confidence": 1,
+          "name": "conflict"
+        }
+      ],
+      "publishedAt": "2014-09-03T08:54:32+00:00",
+      "summary": "Aparently tzav rishon is boring #dancing #tzavrishon #fun #idf #army #tests #israel #aliyah #gari...",
+      "content": "Aparently tzav rishon is boring #dancing #tzavrishon #fun #idf #army #tests #israel #aliyah #garin… http://t.co/LqDgZFyfHc",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T09:16:26.240684",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Casablanca",
+          "authorLocationName": "Manchester"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "6mOxzRfoR2CZeshPI70eHQ",
+      "createdAt": "2014-09-03T09:14:04.065772"
+    },
+    {
+      "remoteID": "507089113485684736",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "Msosman7Osman",
+        "remoteID": "2545358062",
+        "image": "http://pbs.twimg.com/profile_images/502082771020689408/uMO_ubLj_normal.jpeg",
+        "name": "M.Salim Osman"
+      },
+      "image": "http://pbs.twimg.com/media/BwlwSHUCIAAF3BU.jpg",
+      "tags": [
+        {
+          "confidence": 0.924142,
+          "name": "photo-person"
+        }
+      ],
+      "publishedAt": "2014-09-03T08:54:00+00:00",
+      "summary": "RT @WClanSupport: “@momen_mubasher: #IDF Terrorist Army against the Palestinian children!! \n#Isra...",
+      "content": "RT @WClanSupport: “@momen_mubasher: #IDF Terrorist Army against the Palestinian children!! \n#IsraelNews \n#zionist \n#Palestine http://t.co/5…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T09:16:36.305350",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": " England"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "I-xho87BQHKjXlQdumw-JQ",
+      "createdAt": "2014-09-03T09:14:04.099289"
+    },
+    {
+      "remoteID": "507088591189991425",
+      "license": "twitter",
+      "language": {
+        "code": "fr"
+      },
+      "author": {
+        "username": "OEmploi",
+        "remoteID": "1955306840",
+        "image": "http://pbs.twimg.com/profile_images/419542937685348352/A1lhdPkv_normal.jpeg",
+        "name": "Emploi Twitter "
+      },
+      "contentEnglish": "RTAnnoncesEmplois: #Emploi 14-2AEG93 - Agent Female Male general maintenance /: http://t.co/tC2nMh6l9C #Idf",
+      "publishedAt": "2014-09-03T08:51:56+00:00",
+      "summary": "RT @AnnoncesEmplois: #Emploi 14-2AEG93 - Agent d'entretien général Homme/Femme:  http://t.co/tC2n...",
+      "content": "RT @AnnoncesEmplois: #Emploi 14-2AEG93 - Agent d'entretien général Homme/Femme:  http://t.co/tC2nMh6l9C #Idf",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T09:16:48.331925",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": "France"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "_4-5CnrASbGja_67jTmhrg",
+      "createdAt": "2014-09-03T09:14:04.170187"
+    },
+    {
+      "remoteID": "507088592280498176",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "LutherBlake",
+        "remoteID": "272707617",
+        "image": "http://pbs.twimg.com/profile_images/502944242344689665/AKcfD2Ht_normal.jpeg",
+        "name": "Robert e Luther Jr."
+      },
+      "image": "http://pbs.twimg.com/media/BwZYRvbCcAA3I-x.jpg",
+      "contentEnglish": "RT @AnonymousLiberi: \"@defiant_infidel: http://t.co/pwWmWuulyp\" #Anonymous #tcot #PJNET #ccot #tlot #Gaza #newsnight #Israel #IDF #BDS #Blo…",
+      "publishedAt": "2014-09-03T08:51:56+00:00",
+      "summary": "RT @AnonymousLiberi: \"@defiant_infidel: http://t.co/pwWmWuulyp\" #Anonymous #tcot #PJNET #ccot #tl...",
+      "content": "RT @AnonymousLiberi: \"@defiant_infidel: http://t.co/pwWmWuulyp\" #Anonymous #tcot #PJNET #ccot #tlot #Gaza #newsnight #Israel #IDF #BDS #Blo…",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T09:16:46.914844",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": "Vermont"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "6RxyupAlRVKjQ9UgmlRMzw",
+      "createdAt": "2014-09-03T09:14:04.132207"
+    },
+    {
+      "remoteID": "507088488886304770",
+      "license": "twitter",
+      "language": {
+        "code": "fr"
+      },
+      "author": {
+        "username": "AnnoncesEmplois",
+        "remoteID": "126579635",
+        "image": "http://pbs.twimg.com/profile_images/967988060/emploi-interneet_normal.jpg",
+        "name": "#Emploi #Job"
+      },
+      "contentEnglish": "#Emploi 14-2AEG93 - Agent Female Male general maintenance /: http://t.co/tC2nMh6l9C #Idf",
+      "publishedAt": "2014-09-03T08:51:31+00:00",
+      "summary": "#Emploi 14-2AEG93 - Agent d'entretien général Homme/Femme:  http://t.co/tC2nMh6l9C #Idf",
+      "content": "#Emploi 14-2AEG93 - Agent d'entretien général Homme/Femme:  http://t.co/tC2nMh6l9C #Idf",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T09:16:49.645579",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Paris",
+          "authorLocationName": "France"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "VoUHE76uQZqVjnWgFTMZQA",
+      "createdAt": "2014-09-03T09:14:04.213815"
+    },
+    {
+      "remoteID": "507087092573171713",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "Blind_West",
+        "remoteID": "2711746098",
+        "image": "http://pbs.twimg.com/profile_images/498468082038218753/ks68a9H2_normal.jpeg",
+        "name": "Blind West"
+      },
+      "image": "http://pbs.twimg.com/media/BwmDgyBIcAAOrX0.jpg",
+      "tags": [],
+      "publishedAt": "2014-09-03T08:45:58+00:00",
+      "summary": "RT @data_samurai: Remember that #drone that #IDF shot down few days ago? \nSo - #Iran:\nhttp://t.co...",
+      "content": "RT @data_samurai: Remember that #drone that #IDF shot down few days ago? \nSo - #Iran:\nhttp://t.co/CNZAaFmN13 http://t.co/7liY9friJE",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T09:16:58.952859",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Jerusalem",
+          "authorLocationName": "Israel & Europe"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "vZCtFo0DRK62XUm7DYc4qA",
+      "createdAt": "2014-09-03T09:14:04.261982"
+    },
+    {
+      "remoteID": "507087054363439105",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "agk5703",
+        "remoteID": "2333581582",
+        "image": "http://pbs.twimg.com/profile_images/499295842843762688/p5mtw5lW_normal.jpeg",
+        "name": "Abdul gaffar"
+      },
+      "image": "http://pbs.twimg.com/media/BwlwSHUCIAAF3BU.jpg",
+      "tags": [
+        {
+          "confidence": 0.930862,
+          "name": "photo-person"
+        }
+      ],
+      "publishedAt": "2014-09-03T08:45:49+00:00",
+      "summary": "RT @WClanSupport: “@momen_mubasher: #IDF Terrorist Army against the Palestinian children!! \n#Isra...",
+      "content": "RT @WClanSupport: “@momen_mubasher: #IDF Terrorist Army against the Palestinian children!! \n#IsraelNews \n#zionist \n#Palestine http://t.co/5…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T09:17:11.077986",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "9zVwsqSlRkmZrgnRw6dEBA",
+      "createdAt": "2014-09-03T09:14:04.298702"
+    },
+    {
+      "remoteID": "507086704667140096",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "MrDeejayBenz",
+        "remoteID": "273733412",
+        "image": "http://pbs.twimg.com/profile_images/473306589416665088/mMx_RQYf_normal.jpeg",
+        "name": "Midnight ENT."
+      },
+      "tags": [],
+      "publishedAt": "2014-09-03T08:44:26+00:00",
+      "summary": "Army base mornings!!  #IDF",
+      "content": "Army base mornings!!  #IDF",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T09:17:10.430083",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": "LIZA❤️"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "QRIG6nJCQAKfgbTUgPDrmg",
+      "createdAt": "2014-09-03T09:14:04.333393"
+    },
+    {
+      "remoteID": "507086346079313920",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "bbveg",
+        "remoteID": "940770350",
+        "image": "http://pbs.twimg.com/profile_images/496159148891852800/sPyCiKlh_normal.jpeg",
+        "name": "Simone ★★★★★"
+      },
+      "image": "http://pbs.twimg.com/media/BwlwSHUCIAAF3BU.jpg",
+      "tags": [
+        {
+          "confidence": 0.924142,
+          "name": "photo-person"
+        }
+      ],
+      "publishedAt": "2014-09-03T08:43:00+00:00",
+      "summary": "RT @WClanSupport: “@momen_mubasher: #IDF Terrorist Army against the Palestinian children!! \n#Isra...",
+      "content": "RT @WClanSupport: “@momen_mubasher: #IDF Terrorist Army against the Palestinian children!! \n#IsraelNews \n#zionist \n#Palestine http://t.co/5…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T09:17:13.844558",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Singapore",
+          "authorLocationName": "Non Pervenuta"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "55dnYVTpT4KuitfOAXb6qA",
+      "createdAt": "2014-09-03T09:14:04.372375"
+    },
+    {
+      "remoteID": "507085868193284096",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "martitze",
+        "remoteID": "108317765",
+        "image": "http://pbs.twimg.com/profile_images/2951574982/564d8a053e147372d3200075d6779d91_normal.jpeg",
+        "name": "Marta"
+      },
+      "image": "http://pbs.twimg.com/media/BwlwSHUCIAAF3BU.jpg",
+      "tags": [
+        {
+          "confidence": 0.930862,
+          "name": "photo-person"
+        }
+      ],
+      "publishedAt": "2014-09-03T08:41:06+00:00",
+      "summary": "RT @WClanSupport: “@momen_mubasher: #IDF Terrorist Army against the Palestinian children!! \n#Isra...",
+      "content": "RT @WClanSupport: “@momen_mubasher: #IDF Terrorist Army against the Palestinian children!! \n#IsraelNews \n#zionist \n#Palestine http://t.co/5…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T09:17:25.471725",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Madrid",
+          "authorLocationName": "EHko gune GORRIA-Zona ROJA"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "B2tmDC0XRI27EsTrgOyV_Q",
+      "createdAt": "2014-09-03T09:14:04.404844"
+    },
+    {
+      "remoteID": "507085546611834881",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "tpel78",
+        "remoteID": "1023649345",
+        "image": "http://pbs.twimg.com/profile_images/493896167730999297/iwXZxjsS_normal.jpeg",
+        "name": "T.J. Pelletier"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-03T08:39:50+00:00",
+      "summary": "RT @joelleyden: If you have been defamed or harassed by #JIDF, report him @twitter. \nDon't be a v...",
+      "content": "RT @joelleyden: If you have been defamed or harassed by #JIDF, report him @twitter. \nDon't be a victim!\nhttp://t.co/0VinO9MdGO \n#israel #id…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T09:17:34.937874",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": "fall river ma"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "3MDoh53LSeKxtlrzkPknfg",
+      "createdAt": "2014-09-03T09:14:04.445852"
+    },
+    {
+      "remoteID": "507085000383414272",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "SanduKanKanack",
+        "remoteID": "327326028",
+        "image": "http://pbs.twimg.com/profile_images/413225676440080384/3Kd_2Q0M_normal.jpeg",
+        "name": "SanduKanKanack"
+      },
+      "image": "http://pbs.twimg.com/media/BwlwSHUCIAAF3BU.jpg",
+      "tags": [
+        {
+          "confidence": 0.930862,
+          "name": "photo-person"
+        }
+      ],
+      "publishedAt": "2014-09-03T08:37:39+00:00",
+      "summary": "RT @WClanSupport: “@momen_mubasher: #IDF Terrorist Army against the Palestinian children!! \n#Isra...",
+      "content": "RT @WClanSupport: “@momen_mubasher: #IDF Terrorist Army against the Palestinian children!! \n#IsraelNews \n#zionist \n#Palestine http://t.co/5…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T09:17:39.001419",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "-HRpTtZwRkeerIZ-7Uc0tw",
+      "createdAt": "2014-09-03T09:14:04.485713"
+    },
+    {
+      "remoteID": "507084846003281920",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "zackkatowitz",
+        "remoteID": "50944040",
+        "image": "http://pbs.twimg.com/profile_images/283268591/n626873638_816633_9004_normal.jpg",
+        "name": "Zack Katowitz"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-03T08:37:03+00:00",
+      "summary": "@naftalibennett reportedly uses information from active duty #idf officers against Benny gantz an...",
+      "content": "@naftalibennett reportedly uses information from active duty #idf officers against Benny gantz and @bogie_yaalon  and @netanyahu",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T09:17:39.590493",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Jerusalem",
+          "authorLocationName": "Twin Peaks, Israel"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "AO-OH83EQu651Y9n_pqy_Q",
+      "createdAt": "2014-09-03T09:14:04.526023"
+    },
+    {
+      "remoteID": "507083817371578368",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "kamelhawwash",
+        "remoteID": "232683248",
+        "image": "http://pbs.twimg.com/profile_images/500644194604445696/solqrnia_normal.jpeg",
+        "name": "Kamel Hawwash"
+      },
+      "image": "http://pbs.twimg.com/media/BwmGC4iIAAECvUW.jpg",
+      "tags": [],
+      "publishedAt": "2014-09-03T08:32:57+00:00",
+      "summary": "@haaretzcom #IDF sets up new unit 2fight legal onslaught over #Gaza war\nhttp://t.co/BsRYwhiMMS #I...",
+      "content": "@haaretzcom #IDF sets up new unit 2fight legal onslaught over #Gaza war\nhttp://t.co/BsRYwhiMMS #ICC4Israel #warcrimes http://t.co/1sBZNeDYpo",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T08:33:14.538299",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "London",
+          "authorLocationName": "UK"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "Ux9gLdhdSG6bjPNhQKkhnQ",
+      "createdAt": "2014-09-03T08:31:54.365757"
+    },
+    {
+      "remoteID": "507083631853309952",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "TJArchive",
+        "remoteID": "2196336342",
+        "image": "http://pbs.twimg.com/profile_images/378800000824270618/47e1b4a9193350b112a2f88a42c72cf1_normal.jpeg",
+        "name": "TJ Archive"
+      },
+      "tags": [
+        {
+          "confidence": 1,
+          "name": "military"
+        }
+      ],
+      "publishedAt": "2014-09-03T08:32:13+00:00",
+      "summary": "Israeli military... http://t.co/ejF5faUyHO #AlthoughIsrael #DavidTrimble #IDF #IsraeliTurkish #Mi...",
+      "content": "Israeli military... http://t.co/ejF5faUyHO #AlthoughIsrael #DavidTrimble #IDF #IsraeliTurkish #MiddleEast #NorthernIrish #Syria #Turkey",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T08:33:13.821845",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "London",
+          "authorLocationName": "London"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "WJ4K8-CITnikr-zI6fasUg",
+      "createdAt": "2014-09-03T08:31:54.402266"
+    },
+    {
+      "remoteID": "507083623385018368",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "TJArchive",
+        "remoteID": "2196336342",
+        "image": "http://pbs.twimg.com/profile_images/378800000824270618/47e1b4a9193350b112a2f88a42c72cf1_normal.jpeg",
+        "name": "TJ Archive"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-03T08:32:11+00:00",
+      "summary": "Government Under Fire Over Handling Of War http://t.co/0MwSqc4zyZ #EhudOlmert #IDF #Israel #Italy...",
+      "content": "Government Under Fire Over Handling Of War http://t.co/0MwSqc4zyZ #EhudOlmert #IDF #Israel #Italy #LastFriday #Lebanon #UN",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T08:33:15.901136",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "London",
+          "authorLocationName": "London"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "-w9UjeDQRLqATpqFZaurxA",
+      "createdAt": "2014-09-03T08:31:54.435421"
+    },
+    {
+      "remoteID": "507081207570788352",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "YaakovShmuel",
+        "remoteID": "2611221822",
+        "image": "http://pbs.twimg.com/profile_images/505440562615304192/6_LoaNyp_normal.jpeg",
+        "name": "Yaakov Shmuel"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-03T08:22:35+00:00",
+      "summary": "#Arab League chief: #Abbas asked #Egypt's #Morsi to destroy #Gaza tunnels - http://t.co/5ITuW53B5...",
+      "content": "#Arab League chief: #Abbas asked #Egypt's #Morsi to destroy #Gaza tunnels - http://t.co/5ITuW53B5W #Hamas #tcot #IDF",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T08:33:17.805185",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Jerusalem",
+          "authorLocationName": "Israel, NY, SEA"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "4RamDmRhTZGpWtcHEBaBsA",
+      "createdAt": "2014-09-03T08:31:54.480929"
+    },
+    {
+      "remoteID": "507081174590574592",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "SirEdwardHunt",
+        "remoteID": "2726339299",
+        "image": "http://pbs.twimg.com/profile_images/504556618420219906/9_tTPlo6_normal.jpeg",
+        "name": "Sir Edward Hunt"
+      },
+      "image": "http://pbs.twimg.com/media/BwZYRvbCcAA3I-x.jpg",
+      "contentEnglish": "RT @AnonymousLiberi: \"@defiant_infidel: http://t.co/pwWmWuulyp\" #Anonymous #tcot #PJNET #ccot #tlot #Gaza #newsnight #Israel #IDF #BDS #Blo…",
+      "publishedAt": "2014-09-03T08:22:27+00:00",
+      "summary": "RT @AnonymousLiberi: \"@defiant_infidel: http://t.co/pwWmWuulyp\" #Anonymous #tcot #PJNET #ccot #tl...",
+      "content": "RT @AnonymousLiberi: \"@defiant_infidel: http://t.co/pwWmWuulyp\" #Anonymous #tcot #PJNET #ccot #tlot #Gaza #newsnight #Israel #IDF #BDS #Blo…",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T08:33:53.839025",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Sydney",
+          "authorLocationName": "Australia"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "Pn-Vl0u6SVWIKPyZj1wE7w",
+      "createdAt": "2014-09-03T08:31:54.565068"
+    },
+    {
+      "remoteID": "507081034664407040",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "data_samurai",
+        "remoteID": "200078163",
+        "image": "http://pbs.twimg.com/profile_images/499956834191429632/AzAcazA0_normal.jpeg",
+        "name": "Data Samurai"
+      },
+      "image": "http://pbs.twimg.com/media/BwmDgyBIcAAOrX0.jpg",
+      "tags": [],
+      "publishedAt": "2014-09-03T08:21:54+00:00",
+      "summary": "Remember that #drone that #IDF shot down few days ago? \nSo - #Iran:\nhttp://t.co/CNZAaFmN13 http:/...",
+      "content": "Remember that #drone that #IDF shot down few days ago? \nSo - #Iran:\nhttp://t.co/CNZAaFmN13 http://t.co/7liY9friJE",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T08:33:54.423272",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Jerusalem",
+          "authorLocationName": "Israel"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "82zBkl__QLGiO8CmeBaQLg",
+      "createdAt": "2014-09-03T08:31:54.603503"
+    },
+    {
+      "remoteID": "507079771793420288",
+      "license": "twitter",
+      "language": {
+        "code": "fr"
+      },
+      "author": {
+        "username": "oeildelynx2",
+        "remoteID": "2249273165",
+        "image": "http://pbs.twimg.com/profile_images/464738850171277312/CGbdvqzE_normal.jpeg",
+        "name": "œildelynx ن ✡"
+      },
+      "contentEnglish": "RT @ NotreIDF2020: New disavowaljphuchon andhzoughebi: President #PCF of 94 denounced the mismanagement of schools in #IdF htt ...",
+      "publishedAt": "2014-09-03T08:16:53+00:00",
+      "summary": "RT @NotreIDF2020: Nouveau désaveu pour @jphuchon et @hzoughebi : le président #PCF du 94 dénonce ...",
+      "content": "RT @NotreIDF2020: Nouveau désaveu pour @jphuchon et @hzoughebi : le président #PCF du 94 dénonce la mauvaise gestion des lycées en #IdF htt…",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T08:33:53.829387",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Ljubljana",
+          "authorLocationName": "Paris"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "IMhcGS6AR7a-Z6_mcBMdMQ",
+      "createdAt": "2014-09-03T08:31:54.637059"
+    },
+    {
+      "remoteID": "507079325641113600",
+      "license": "twitter",
+      "language": {
+        "code": "fr"
+      },
+      "author": {
+        "username": "oeildelynx2",
+        "remoteID": "2249273165",
+        "image": "http://pbs.twimg.com/profile_images/464738850171277312/CGbdvqzE_normal.jpeg",
+        "name": "œildelynx ن ✡"
+      },
+      "image": "http://pbs.twimg.com/media/BweETerIcAA255X.jpg",
+      "contentEnglish": "RT @ NotreIDF2020: Spending by the #IdF schoolboy region increased from € 1,330 to € 875 in 6 years! http://t.co/yihAq7BPkU # Rentree_2014 htt ...",
+      "publishedAt": "2014-09-03T08:15:06+00:00",
+      "summary": "RT @NotreIDF2020: La dépense de la région #IdF par lycéen est passée de 1 330 € à 875 € en 6 ans ...",
+      "content": "RT @NotreIDF2020: La dépense de la région #IdF par lycéen est passée de 1 330 € à 875 € en 6 ans ! http://t.co/yihAq7BPkU #Rentree_2014 htt…",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T08:33:56.506223",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Ljubljana",
+          "authorLocationName": "Paris"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "I8MPX3Q3Tduf_FP1egmWvQ",
+      "createdAt": "2014-09-03T08:31:54.672570"
+    },
+    {
+      "remoteID": "507079163757723648",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "ipadpatriot",
+        "remoteID": "598510548",
+        "image": "http://pbs.twimg.com/profile_images/2974025685/0d59c4eee71df184f7ab85894f83ac4d_normal.jpeg",
+        "name": "Stalwart"
+      },
+      "image": "http://pbs.twimg.com/media/BwmBz1WCAAABMjY.jpg",
+      "tags": [],
+      "publishedAt": "2014-09-03T08:14:28+00:00",
+      "summary": "#IDF release dramatic images of their latest wolf pack victory sinking a\nGaza fishing boat in cas...",
+      "content": "#IDF release dramatic images of their latest wolf pack victory sinking a\nGaza fishing boat in case fish go to Hamas http://t.co/gyTe9DuY0X",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T08:34:26.864754",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": "This Sceptered Isle"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "c22FdfFUTR-R_iFfhkiqKQ",
+      "createdAt": "2014-09-03T08:31:54.706268"
+    },
+    {
+      "remoteID": "507079131519938561",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "AceJam13",
+        "remoteID": "250095693",
+        "image": "http://pbs.twimg.com/profile_images/1838106302/374343_10150559309614612_632529611_10789927_1110060391_n_normal.jpg",
+        "name": "Acer Jamal "
+      },
+      "tags": [],
+      "publishedAt": "2014-09-03T08:14:20+00:00",
+      "summary": "@AriPincess so you are basically calling the ones who SERVED in the #IDF all liars? @_Palestine_1...",
+      "content": "@AriPincess so you are basically calling the ones who SERVED in the #IDF all liars? @_Palestine_1 @GalilJ @them",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T08:34:23.509277",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Abu Dhabi",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "_swGLgxzSzWLH8c9zIow3g",
+      "createdAt": "2014-09-03T08:31:54.738675"
+    },
+    {
+      "remoteID": "507078902842671104",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "naomidarag",
+        "remoteID": "136916968",
+        "image": "http://pbs.twimg.com/profile_images/494190985635561472/OKL99YHs_normal.jpeg",
+        "name": "Naomi D "
+      },
+      "tags": [],
+      "publishedAt": "2014-09-03T08:13:26+00:00",
+      "summary": "#IDF Takes You On a Guided Tour of a #Hamas Terror Tunnel - http://t.co/RXyLw09HN1 …",
+      "content": "#IDF Takes You On a Guided Tour of a #Hamas Terror Tunnel - http://t.co/RXyLw09HN1 …",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T08:34:23.511779",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "London",
+          "authorLocationName": "Ireland"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "SQkoxKKbQgCPBCDW2wFi5w",
+      "createdAt": "2014-09-03T08:31:54.790997"
+    },
+    {
+      "remoteID": "507077298537766915",
+      "license": "twitter",
+      "language": {
+        "code": "fr"
+      },
+      "author": {
+        "username": "Hyper_Event_idf",
+        "remoteID": "2507264683",
+        "image": "http://pbs.twimg.com/profile_images/468794569128431618/MKLlPJca_normal.jpeg",
+        "name": "Karlito Cossadrass"
+      },
+      "contentEnglish": "BOOK / Morrissey concert in Paris and Lyon this fall! # http://t.co/gs40tjqUAx #dobp evening #IDF",
+      "publishedAt": "2014-09-03T08:07:03+00:00",
+      "summary": "RESERVEZ / Morrissey en concert à Paris et Lyon cet automne ! http://t.co/gs40tjqUAx #dobp #soiré...",
+      "content": "RESERVEZ / Morrissey en concert à Paris et Lyon cet automne ! http://t.co/gs40tjqUAx #dobp #soirée #IDF",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T08:34:26.852737",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "8xpgOQ8iQECO1VO6ltrmMw",
+      "createdAt": "2014-09-03T08:31:54.824549"
+    },
+    {
+      "remoteID": "507075522153938944",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "NumberMonkey69",
+        "remoteID": "1343704328",
+        "image": "http://pbs.twimg.com/profile_images/416437033301590016/VKM7h0jc_normal.jpeg",
+        "name": "Number Monkey"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-03T08:00:00+00:00",
+      "summary": "@OnePoundOne &lt;&lt;&lt;&lt; #IDF Training video https://t.co/I4m85gcV6y \n #IronThumb @islamicfr...",
+      "content": "@OnePoundOne &lt;&lt;&lt;&lt; #IDF Training video https://t.co/I4m85gcV6y \n #IronThumb @islamicfreedom",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T08:34:49.533373",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Amsterdam",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "SK0m_vBHQx6QrgtIZHbn_Q",
+      "createdAt": "2014-09-03T08:31:54.856254"
+    },
+    {
+      "remoteID": "507075054849781760",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "carole_awebb",
+        "remoteID": "2730510683",
+        "image": "http://pbs.twimg.com/profile_images/495097474848407552/O5NiXkrP_normal.jpeg",
+        "name": "Carole"
+      },
+      "image": "http://pbs.twimg.com/media/BwZYRvbCcAA3I-x.jpg",
+      "contentEnglish": "RT @AnonymousLiberi: \"@defiant_infidel: http://t.co/pwWmWuulyp\" #Anonymous #tcot #PJNET #ccot #tlot #Gaza #newsnight #Israel #IDF #BDS #Blo…",
+      "publishedAt": "2014-09-03T07:58:08+00:00",
+      "summary": "RT @AnonymousLiberi: \"@defiant_infidel: http://t.co/pwWmWuulyp\" #Anonymous #tcot #PJNET #ccot #tl...",
+      "content": "RT @AnonymousLiberi: \"@defiant_infidel: http://t.co/pwWmWuulyp\" #Anonymous #tcot #PJNET #ccot #tlot #Gaza #newsnight #Israel #IDF #BDS #Blo…",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T08:34:50.210012",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "o8C9TAB4Tkyj2UZrEMR8WA",
+      "createdAt": "2014-09-03T08:31:54.894536"
+    },
+    {
+      "remoteID": "507075004098699264",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "PalausR",
+        "remoteID": "2169762827",
+        "image": "http://pbs.twimg.com/profile_images/448874920463073282/P2pbZfrG_normal.jpeg",
+        "name": "Rosa"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-03T07:57:56+00:00",
+      "summary": "RT @JIDF: #IDF: Lt. @Libby_weiss gives an exclusive look into one of Hamas' terror tunnels, near ...",
+      "content": "RT @JIDF: #IDF: Lt. @Libby_weiss gives an exclusive look into one of Hamas' terror tunnels, near Kibbutz Ein HaShlosha. http://t.co/CuyaJO0…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T08:34:52.324338",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "nlydzqf-QCuwlsdIfW7XVQ",
+      "createdAt": "2014-09-03T08:31:54.933510"
+    },
+    {
+      "remoteID": "507074879368486913",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "elpinflo",
+        "remoteID": "905788122",
+        "image": "http://pbs.twimg.com/profile_images/454750400818597888/_XczJKqs_normal.jpeg",
+        "name": "Josemari"
+      },
+      "image": "http://pbs.twimg.com/media/BuEndJhIEAIYjFs.jpg",
+      "tags": [
+        {
+          "confidence": 0.983697,
+          "name": "photo-person"
+        }
+      ],
+      "contentEnglish": "RT @ hamzayildirim11: IDF http://t.co/8M8LKCizmw",
+      "publishedAt": "2014-09-03T07:57:26+00:00",
+      "summary": "RT @hamzayildirim11: #IDF http://t.co/8M8LKCizmw",
+      "content": "RT @hamzayildirim11: #IDF http://t.co/8M8LKCizmw",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T08:34:52.888775",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Athens",
+          "authorLocationName": "Badajoz"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "PLdRZ7IZRxm-ZFCeiYkCbA",
+      "createdAt": "2014-09-03T08:31:54.967247"
+    },
+    {
+      "remoteID": "507073592967036929",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "Lord_Humongous_",
+        "remoteID": "2723387112",
+        "image": "http://pbs.twimg.com/profile_images/498736802379730945/qTKklQCb_normal.png",
+        "name": "Lord_Humongous"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-03T07:52:20+00:00",
+      "summary": "RT @ISISStudyGroup: Egyptian Army and IDF Take On ISIS Supporters in Sinai http://t.co/VXiTdtQgZn...",
+      "content": "RT @ISISStudyGroup: Egyptian Army and IDF Take On ISIS Supporters in Sinai http://t.co/VXiTdtQgZn #Egypt #IDF #Sanai #Gaza #Libya",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:53:03.556051",
+      "entities": [
+        "Palestine"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Palestine",
+          "formattedAddress": "Palestine"
+        }
+      },
+      "id": "XUyN-nI1Q32vHj5NKqSCfg",
+      "createdAt": "2014-09-03T07:53:09.579384"
+    },
+    {
+      "remoteID": "507072894430887936",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "BonnMaggie",
+        "remoteID": "1113570300",
+        "image": "http://pbs.twimg.com/profile_images/443493291775242240/XY5mCj2y_normal.jpeg",
+        "name": "makbule"
+      },
+      "image": "http://pbs.twimg.com/media/BwlwSHUCIAAF3BU.jpg",
+      "tags": [
+        {
+          "confidence": 0.924142,
+          "name": "photo-person"
+        }
+      ],
+      "publishedAt": "2014-09-03T07:49:33+00:00",
+      "summary": "RT @WClanSupport: “@momen_mubasher: #IDF Terrorist Army against the Palestinian children!! \n#Isra...",
+      "content": "RT @WClanSupport: “@momen_mubasher: #IDF Terrorist Army against the Palestinian children!! \n#IsraelNews \n#zionist \n#Palestine http://t.co/5…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:53:24.977317",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": "TR"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "qWQPPXurR3GKqmaR6LxrTA",
+      "createdAt": "2014-09-03T07:53:09.769853"
+    },
+    {
+      "remoteID": "507072522555113472",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "dawouda",
+        "remoteID": "123218583",
+        "image": "http://pbs.twimg.com/profile_images/2495022093/gqhsv5n4b5txsstahrln_normal.jpeg",
+        "name": "Dawoud Al-Massri"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-03T07:48:04+00:00",
+      "summary": "((#Netanyahu: #UN should investigate #Hamas' war crimes, not #IDF actions)) WELL-ARTICULATED :)",
+      "content": "((#Netanyahu: #UN should investigate #Hamas' war crimes, not #IDF actions)) WELL-ARTICULATED :)",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:53:21.539675",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": "Gaza Strip"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "CWKqtzmQRAGx6JyTkKC1TQ",
+      "createdAt": "2014-09-03T07:53:09.846153"
+    },
+    {
+      "remoteID": "507072301242671104",
+      "license": "twitter",
+      "language": {
+        "code": "fr"
+      },
+      "author": {
+        "username": "BadawAhmad",
+        "remoteID": "2783626260",
+        "image": "http://pbs.twimg.com/profile_images/506340076301725696/kj1e0DzV_normal.jpeg",
+        "name": "Ahmad Badaw"
+      },
+      "contentEnglish": "RT @ Guigabriel92: Please follow me good luckActuIDF #IDF #iledefrance",
+      "publishedAt": "2014-09-03T07:47:12+00:00",
+      "summary": "RT @Guigabriel92: Merci de me suivre bonne continuation @ActuIDF #IDF #iledefrance",
+      "content": "RT @Guigabriel92: Merci de me suivre bonne continuation @ActuIDF #IDF #iledefrance",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:53:24.233266",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "jdFtkVDDRtK57E8DWc8hdw",
+      "createdAt": "2014-09-03T07:53:09.909170"
+    },
+    {
+      "remoteID": "507071162044915712",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "salamerush",
+        "remoteID": "1378256402",
+        "image": "http://pbs.twimg.com/profile_images/496390206644178944/DwEbAadu_normal.jpeg",
+        "name": "salame rush"
+      },
+      "image": "http://pbs.twimg.com/media/Bwl2eC9CMAAgubY.jpg",
+      "tags": [
+        {
+          "confidence": 0.998499,
+          "name": "photo-person"
+        }
+      ],
+      "publishedAt": "2014-09-03T07:42:40+00:00",
+      "summary": "RT @santafeez: Grandmother and grandchildren - Beit Hanoun - #Gaza - outside a home that was dest...",
+      "content": "RT @santafeez: Grandmother and grandchildren - Beit Hanoun - #Gaza - outside a home that was destroyed by the #IDF - #israel http://t.co/a9…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:53:27.671129",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": "Arizona"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "n1WCH6XJT5urLzhS_uNCNg",
+      "createdAt": "2014-09-03T07:53:09.954859"
+    },
+    {
+      "remoteID": "507070727833804800",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "ANAUSEUM",
+        "remoteID": "805105478",
+        "image": "http://abs.twimg.com/sticky/default_profile_images/default_profile_2_normal.png",
+        "name": "AD NAUSEUM"
+      },
+      "image": "http://pbs.twimg.com/media/BuU3YFNCQAAgpte.jpg",
+      "tags": [],
+      "publishedAt": "2014-09-03T07:40:57+00:00",
+      "summary": "RT @LesBasterds: @Tsahal_IDF #Tsahal #IDF : merci, thank you, תודה . http://t.co/ctVr7IkK0Q",
+      "content": "RT @LesBasterds: @Tsahal_IDF #Tsahal #IDF : merci, thank you, תודה . http://t.co/ctVr7IkK0Q",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:53:40.494362",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "9-nZAhN_RLSeEeVSUdVFbA",
+      "createdAt": "2014-09-03T07:53:10.190279"
+    },
+    {
+      "remoteID": "507070721055805440",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "AULAUCV",
+        "remoteID": "593944030",
+        "image": "http://pbs.twimg.com/profile_images/378800000397254413/fa73d157d1fe644bb6ba525d5a08c6b5_normal.png",
+        "name": " Antonio Gramsci"
+      },
+      "image": "http://pbs.twimg.com/media/BuEndJhIEAIYjFs.jpg",
+      "tags": [
+        {
+          "confidence": 0.983697,
+          "name": "photo-person"
+        }
+      ],
+      "contentEnglish": "RT @ hamzayildirim11: IDF http://t.co/8M8LKCizmw",
+      "publishedAt": "2014-09-03T07:40:55+00:00",
+      "summary": "RT @hamzayildirim11: #IDF http://t.co/8M8LKCizmw",
+      "content": "RT @hamzayildirim11: #IDF http://t.co/8M8LKCizmw",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:53:50.326973",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": "Patria es humanidad"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "yLgAJU9qQEu6NEAFaDs9eg",
+      "createdAt": "2014-09-03T07:53:10.412072"
+    },
+    {
+      "remoteID": "507070590914924544",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "RedFunMachine1",
+        "remoteID": "247724036",
+        "image": "http://pbs.twimg.com/profile_images/467251834743042048/MzSeAWez_normal.jpeg",
+        "name": "John Hillegas"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-03T07:40:24+00:00",
+      "summary": "RT @joelleyden: @NuritLiat Please dont prove anything to #JIDF. He is a psycho who hacks Israeli ...",
+      "content": "RT @joelleyden: @NuritLiat Please dont prove anything to #JIDF. He is a psycho who hacks Israeli govt sites, attacks ADL. Read: http://t.co…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:53:44.788855",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Pacific Time (US & Canada)",
+          "authorLocationName": " USA"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "uQMGzw_gTm-E1UKpKSEvag",
+      "createdAt": "2014-09-03T07:53:10.450664"
+    },
+    {
+      "remoteID": "507070566894161920",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "MrMordechai",
+        "remoteID": "220712902",
+        "image": "http://pbs.twimg.com/profile_images/423669051823775744/S1vUkBoE_normal.jpeg",
+        "name": "Mr. RTE "
+      },
+      "image": "http://pbs.twimg.com/media/BwlwSHUCIAAF3BU.jpg",
+      "tags": [
+        {
+          "confidence": 0.908877,
+          "name": "photo-person"
+        }
+      ],
+      "publishedAt": "2014-09-03T07:40:18+00:00",
+      "summary": "RT @WClanSupport: “@momen_mubasher: #IDF Terrorist Army against the Palestinian children!! \n#Isra...",
+      "content": "RT @WClanSupport: “@momen_mubasher: #IDF Terrorist Army against the Palestinian children!! \n#IsraelNews \n#zionist \n#Palestine http://t.co/5…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:53:51.579722",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Berlin",
+          "authorLocationName": "Türkiye / Deutschland"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "UZCVWZJvQuu0Aik6wzSWtA",
+      "createdAt": "2014-09-03T07:53:10.699425"
+    },
+    {
+      "remoteID": "507070081839267840",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "RebeccaElbaz",
+        "remoteID": "391949902",
+        "image": "http://pbs.twimg.com/profile_images/501368806376079361/kBCRD2H8_normal.jpeg",
+        "name": "רבקה"
+      },
+      "image": "http://pbs.twimg.com/media/BwlT8X8CMAAspxP.jpg",
+      "tags": [],
+      "publishedAt": "2014-09-03T07:38:23+00:00",
+      "summary": "RT @eytanhalon: Tzav Rishon. Officially enlisting. Here we go. #IDF #Israel http://t.co/B6a709id85",
+      "content": "RT @eytanhalon: Tzav Rishon. Officially enlisting. Here we go. #IDF #Israel http://t.co/B6a709id85",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:54:03.146006",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Athens",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "F-3UYzYzQ0K2R-s0E2lxWw",
+      "createdAt": "2014-09-03T07:53:10.797776"
+    },
+    {
+      "remoteID": "507069596579672064",
+      "license": "twitter",
+      "language": {
+        "code": "fr"
+      },
+      "author": {
+        "username": "LouUKinFrance",
+        "remoteID": "2357515025",
+        "image": "http://pbs.twimg.com/profile_images/448109317745422336/l7qKn1JF_normal.jpeg",
+        "name": "Louise Hoffman"
+      },
+      "image": "http://pbs.twimg.com/media/BwluWx-IYAAXAde.jpg",
+      "contentEnglish": "cdetourne RT: Session #recrutement to #Paris #garedunord today / 7 offers #commercial on the # IDFLyrecorecrute to be filled! http: ... //",
+      "publishedAt": "2014-09-03T07:36:27+00:00",
+      "summary": "RT @cdetourne: Session de #recrutement  à #Paris #garedunord today / 7 offres de #commercial sur ...",
+      "content": "RT @cdetourne: Session de #recrutement  à #Paris #garedunord today / 7 offres de #commercial sur l'#IDF à pourvoir @Lyrecorecrute ! http://…",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:54:07.376147",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Paris",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "WPQGkHWoRiGMb6KTWuGEDg",
+      "createdAt": "2014-09-03T07:53:10.831360"
+    },
+    {
+      "remoteID": "507069424730640384",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "Elimelech_Ring",
+        "remoteID": "19025138",
+        "image": "http://pbs.twimg.com/profile_images/484187680528273409/NHvOjlb9_normal.jpeg",
+        "name": "Eli Ringringoeloe"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-03T07:35:46+00:00",
+      "summary": "RT @joelleyden: @NuritLiat Please dont prove anything to #JIDF. He is a psycho who hacks Israeli ...",
+      "content": "RT @joelleyden: @NuritLiat Please dont prove anything to #JIDF. He is a psycho who hacks Israeli govt sites, attacks ADL. Read: http://t.co…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:54:12.997298",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Amsterdam",
+          "authorLocationName": "Messiah Jesus!Go 2 Hell Devil!"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "YRXYAZu4Tsi5GzYna9heyg",
+      "createdAt": "2014-09-03T07:53:10.880084"
+    },
+    {
+      "remoteID": "507069353159049217",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "K_Marx91",
+        "remoteID": "486445481",
+        "image": "http://pbs.twimg.com/profile_images/490597351216525312/dYjmLpmd_normal.jpeg",
+        "name": "Carlos Marx"
+      },
+      "image": "http://pbs.twimg.com/media/BuEndJhIEAIYjFs.jpg",
+      "tags": [
+        {
+          "confidence": 0.982014,
+          "name": "photo-person"
+        }
+      ],
+      "contentEnglish": "RT @ hamzayildirim11: IDF http://t.co/8M8LKCizmw",
+      "publishedAt": "2014-09-03T07:35:29+00:00",
+      "summary": "RT @hamzayildirim11: #IDF http://t.co/8M8LKCizmw",
+      "content": "RT @hamzayildirim11: #IDF http://t.co/8M8LKCizmw",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:54:17.959048",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Amsterdam",
+          "authorLocationName": "La Habana, Cuba"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "ZHECkv3XTZO1iUjvxe-K4A",
+      "createdAt": "2014-09-03T07:53:10.923548"
+    },
+    {
+      "remoteID": "507069138012209152",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "AndrewGatward",
+        "remoteID": "43662736",
+        "image": "http://pbs.twimg.com/profile_images/488993177152397312/_Jb42_WC_normal.jpeg",
+        "name": "IDF GOLANI SNIPER192"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-03T07:34:38+00:00",
+      "summary": "RT @joelleyden: @NuritLiat Please dont prove anything to #JIDF. He is a psycho who hacks Israeli ...",
+      "content": "RT @joelleyden: @NuritLiat Please dont prove anything to #JIDF. He is a psycho who hacks Israeli govt sites, attacks ADL. Read: http://t.co…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:54:27.257634",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": "ISRAEL/JacksonvilleUSA"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "zg366Sj6S7mElCjb853ouA",
+      "createdAt": "2014-09-03T07:53:10.969726"
+    },
+    {
+      "remoteID": "507068997213253632",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "ip_and_tw",
+        "remoteID": "835271408",
+        "image": "http://pbs.twimg.com/profile_images/2629775946/80a20ee3f2a02410b84c1b779660ce3e_normal.jpeg",
+        "name": "Israel and the World"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-03T07:34:04+00:00",
+      "summary": "RT @joelleyden: If you have been defamed or harassed by #JIDF, report him @twitter. \nDon't be a v...",
+      "content": "RT @joelleyden: If you have been defamed or harassed by #JIDF, report him @twitter. \nDon't be a victim!\nhttp://t.co/0VinO9MdGO \n#israel #id…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:54:30.066812",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Jerusalem",
+          "authorLocationName": "Israel"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "CTE5WG7vQf-IZkg6aCqY4w",
+      "createdAt": "2014-09-03T07:53:11.010268"
+    },
+    {
+      "remoteID": "507068681223159809",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "EeinsLov",
+        "remoteID": "537867757",
+        "image": "http://pbs.twimg.com/profile_images/2334275214/684h9hvj7ost708dbvue_normal.jpeg",
+        "name": "Joseph Nellenbach"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-03T07:32:49+00:00",
+      "summary": "@RT_com this is #idf genius master plan steal all #gaza land till #palestine live in ocean with s...",
+      "content": "@RT_com this is #idf genius master plan steal all #gaza land till #palestine live in ocean with sharks to keep #israel safe #russia #china",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:54:34.927675",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Atlantic Time (Canada)",
+          "authorLocationName": "Greece  N.Y."
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "_QIqoSe_SNyV-hAo10ZldA",
+      "createdAt": "2014-09-03T07:53:11.052862"
+    },
+    {
+      "remoteID": "507068442776592384",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "Silhouette007",
+        "remoteID": "2475975918",
+        "image": "http://pbs.twimg.com/profile_images/504696049227669504/osItXlrA_normal.jpeg",
+        "name": "Silhouette"
+      },
+      "image": "http://pbs.twimg.com/media/Bwl3LbnCEAAA9JZ.jpg",
+      "tags": [
+        {
+          "confidence": 0.999389,
+          "name": "photo-person"
+        }
+      ],
+      "publishedAt": "2014-09-03T07:31:52+00:00",
+      "summary": "RT @santafeez: Young boy we met outside his home that was damaged by the #IDF - Beit Hanoun - #Ga...",
+      "content": "RT @santafeez: Young boy we met outside his home that was damaged by the #IDF - Beit Hanoun - #Gaza #israel http://t.co/oXvjn9OCHF",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:54:43.489327",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "P9yxgcNUR-ulKEF7iGnKIw",
+      "createdAt": "2014-09-03T07:53:11.111916"
+    },
+    {
+      "remoteID": "507068292365049856",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "AndrewGatward",
+        "remoteID": "43662736",
+        "image": "http://pbs.twimg.com/profile_images/488993177152397312/_Jb42_WC_normal.jpeg",
+        "name": "IDF GOLANI SNIPER192"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-03T07:31:16+00:00",
+      "summary": "RT @joelleyden: If you have been defamed or harassed by #JIDF, report him @twitter. \nDon't be a v...",
+      "content": "RT @joelleyden: If you have been defamed or harassed by #JIDF, report him @twitter. \nDon't be a victim!\nhttp://t.co/0VinO9MdGO \n#israel #id…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:54:49.830392",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": "ISRAEL/JacksonvilleUSA"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "yb5HWXbzSxuzJSD9naTT3A",
+      "createdAt": "2014-09-03T07:53:11.162835"
+    },
+    {
+      "remoteID": "507068172034637824",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "Markw4mms",
+        "remoteID": "25590335",
+        "image": "http://pbs.twimg.com/profile_images/2309454606/xvz10iy6vfjrtwxuinvx_normal.jpeg",
+        "name": "Mark Smith"
+      },
+      "image": "http://pbs.twimg.com/media/BwZYRvbCcAA3I-x.jpg",
+      "contentEnglish": "RT @AnonymousLiberi: \"@defiant_infidel: http://t.co/pwWmWuulyp\" #Anonymous #tcot #PJNET #ccot #tlot #Gaza #newsnight #Israel #IDF #BDS #Blo…",
+      "publishedAt": "2014-09-03T07:30:47+00:00",
+      "summary": "RT @AnonymousLiberi: \"@defiant_infidel: http://t.co/pwWmWuulyp\" #Anonymous #tcot #PJNET #ccot #tl...",
+      "content": "RT @AnonymousLiberi: \"@defiant_infidel: http://t.co/pwWmWuulyp\" #Anonymous #tcot #PJNET #ccot #tlot #Gaza #newsnight #Israel #IDF #BDS #Blo…",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:54:54.571213",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": "Bremen, GA"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "irlmffxGQCy4KFECDHQcKQ",
+      "createdAt": "2014-09-03T07:53:11.207599"
+    },
+    {
+      "remoteID": "507067900419522560",
+      "license": "twitter",
+      "language": {
+        "code": "fr"
+      },
+      "author": {
+        "username": "METEOetROUTE",
+        "remoteID": "1101612698",
+        "image": "http://pbs.twimg.com/profile_images/468246187137437698/CbHa23Rv_normal.png",
+        "name": "météo routière"
+      },
+      "contentEnglish": "#IDF Wednesday. A day in the sun. No effect on traffic. http://t.co/jBi7dKGPbT",
+      "publishedAt": "2014-09-03T07:29:42+00:00",
+      "summary": "#IDF mercredi. Une journée au soleil. Pas d'effet sur la circulation. http://t.co/jBi7dKGPbT",
+      "content": "#IDF mercredi. Une journée au soleil. Pas d'effet sur la circulation. http://t.co/jBi7dKGPbT",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:54:56.644850",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": "versailles, france"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "BIebeSKMTPuAvVaK2LI_Dg",
+      "createdAt": "2014-09-03T07:53:11.285547"
+    },
+    {
+      "remoteID": "507067474227900416",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "santafeez",
+        "remoteID": "22236071",
+        "image": "http://pbs.twimg.com/profile_images/465780877394325504/8jNugC6v_normal.jpeg",
+        "name": "Denny Cormier"
+      },
+      "image": "http://pbs.twimg.com/media/Bwl3LbnCEAAA9JZ.jpg",
+      "tags": [
+        {
+          "confidence": 0.999254,
+          "name": "photo-person"
+        }
+      ],
+      "publishedAt": "2014-09-03T07:28:01+00:00",
+      "summary": "Young boy we met outside his home that was damaged by the #IDF - Beit Hanoun - #Gaza #israel http...",
+      "content": "Young boy we met outside his home that was damaged by the #IDF - Beit Hanoun - #Gaza #israel http://t.co/oXvjn9OCHF",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:55:51.559373",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Mountain Time (US & Canada)",
+          "authorLocationName": "Gaza City, Palestine"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "mutYl_QpR2mE5oUexFrCxg",
+      "createdAt": "2014-09-03T07:53:11.363770"
+    },
+    {
+      "remoteID": "507067186486444032",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "1924_AEK",
+        "remoteID": "49299182",
+        "image": "http://pbs.twimg.com/profile_images/497741027097055232/fhhwLr74_normal.png",
+        "name": "1924"
+      },
+      "image": "http://pbs.twimg.com/media/Bwl2eC9CMAAgubY.jpg",
+      "tags": [
+        {
+          "confidence": 0.998499,
+          "name": "photo-person"
+        }
+      ],
+      "publishedAt": "2014-09-03T07:26:52+00:00",
+      "summary": "RT @santafeez: Grandmother and grandchildren - Beit Hanoun - #Gaza - outside a home that was dest...",
+      "content": "RT @santafeez: Grandmother and grandchildren - Beit Hanoun - #Gaza - outside a home that was destroyed by the #IDF - #israel http://t.co/a9…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:55:15.112408",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Athens",
+          "authorLocationName": " Greece"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "RFaHSznqQeuC_NoNoUoaEQ",
+      "createdAt": "2014-09-03T07:53:11.417238"
+    },
+    {
+      "remoteID": "507066949919309824",
+      "license": "twitter",
+      "language": {
+        "code": "fr"
+      },
+      "author": {
+        "username": "gadyle",
+        "remoteID": "572583297",
+        "image": "http://pbs.twimg.com/profile_images/430488643762159616/9fdubkFi_normal.jpeg",
+        "name": "Gady"
+      },
+      "image": "http://pbs.twimg.com/media/BweEhkiIYAAYwdb.jpg",
+      "contentEnglish": "RTsdeschiens: Back in #IdF is two thirds of schools renovations late! What does the Minister? http://t.co/QfU3RjcUnL http: ... //",
+      "publishedAt": "2014-09-03T07:25:56+00:00",
+      "summary": "RT @sdeschiens: La rentrée en #IdF c'est 2/3 des rénovations de lycées en retard ! Qu'en pense la...",
+      "content": "RT @sdeschiens: La rentrée en #IdF c'est 2/3 des rénovations de lycées en retard ! Qu'en pense la Ministre ? http://t.co/QfU3RjcUnL http://…",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:55:20.042901",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Paris",
+          "authorLocationName": "Nice, France"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "eoAvP8uQSHalE15eByeuxQ",
+      "createdAt": "2014-09-03T07:53:11.482398"
+    },
+    {
+      "remoteID": "507066875495579648",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "lukecharles10",
+        "remoteID": "1675196299",
+        "image": "http://abs.twimg.com/sticky/default_profile_images/default_profile_0_normal.png",
+        "name": "luke charles"
+      },
+      "image": "http://pbs.twimg.com/media/Bwl2eC9CMAAgubY.jpg",
+      "tags": [
+        {
+          "confidence": 0.998499,
+          "name": "photo-person"
+        }
+      ],
+      "publishedAt": "2014-09-03T07:25:38+00:00",
+      "summary": "RT @santafeez: Grandmother and grandchildren - Beit Hanoun - #Gaza - outside a home that was dest...",
+      "content": "RT @santafeez: Grandmother and grandchildren - Beit Hanoun - #Gaza - outside a home that was destroyed by the #IDF - #israel http://t.co/a9…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:55:24.994374",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "UlCzS4x9QX6LtJY8fmG4bg",
+      "createdAt": "2014-09-03T07:53:11.546029"
+    },
+    {
+      "remoteID": "507066695525990400",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "santafeez",
+        "remoteID": "22236071",
+        "image": "http://pbs.twimg.com/profile_images/465780877394325504/8jNugC6v_normal.jpeg",
+        "name": "Denny Cormier"
+      },
+      "image": "http://pbs.twimg.com/media/Bwl2eC9CMAAgubY.jpg",
+      "tags": [
+        {
+          "confidence": 0.998167,
+          "name": "photo-person"
+        }
+      ],
+      "publishedAt": "2014-09-03T07:24:55+00:00",
+      "summary": "Grandmother and grandchildren - Beit Hanoun - #Gaza - outside a home that was destroyed by the #I...",
+      "content": "Grandmother and grandchildren - Beit Hanoun - #Gaza - outside a home that was destroyed by the #IDF - #israel http://t.co/a9z9pEzhdr",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:55:41.320402",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Mountain Time (US & Canada)",
+          "authorLocationName": "Gaza City, Palestine"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "wH-isHbbRwqDRvbwfkyM9w",
+      "createdAt": "2014-09-03T07:53:11.589934"
+    },
+    {
+      "remoteID": "507065585147330560",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "dryheat115",
+        "remoteID": "38589890",
+        "image": "http://pbs.twimg.com/profile_images/488963253976854529/9trojGwf_normal.jpeg",
+        "name": "Rampant #Illegals"
+      },
+      "image": "http://pbs.twimg.com/media/BwZYRvbCcAA3I-x.jpg",
+      "contentEnglish": "RT @AnonymousLiberi: \"@defiant_infidel: http://t.co/pwWmWuulyp\" #Anonymous #tcot #PJNET #ccot #tlot #Gaza #newsnight #Israel #IDF #BDS #Blo…",
+      "publishedAt": "2014-09-03T07:20:31+00:00",
+      "summary": "RT @AnonymousLiberi: \"@defiant_infidel: http://t.co/pwWmWuulyp\" #Anonymous #tcot #PJNET #ccot #tl...",
+      "content": "RT @AnonymousLiberi: \"@defiant_infidel: http://t.co/pwWmWuulyp\" #Anonymous #tcot #PJNET #ccot #tlot #Gaza #newsnight #Israel #IDF #BDS #Blo…",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:55:45.357721",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Arizona",
+          "authorLocationName": "E. Mesa AZ"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "9YxJoNGtT6is3gmf80ZRAQ",
+      "createdAt": "2014-09-03T07:53:11.645953"
+    },
+    {
+      "remoteID": "507065456113778688",
+      "license": "twitter",
+      "language": {
+        "code": "fr"
+      },
+      "author": {
+        "username": "OliaBis",
+        "remoteID": "2382013668",
+        "image": "http://abs.twimg.com/sticky/default_profile_images/default_profile_6_normal.png",
+        "name": "gegelulu"
+      },
+      "image": "http://pbs.twimg.com/media/BweEhkiIYAAYwdb.jpg",
+      "contentEnglish": "RTsdeschiens: Back in #IdF is two thirds of schools renovations late! What does the Minister? http://t.co/QfU3RjcUnL http: ... //",
+      "publishedAt": "2014-09-03T07:20:00+00:00",
+      "summary": "RT @sdeschiens: La rentrée en #IdF c'est 2/3 des rénovations de lycées en retard ! Qu'en pense la...",
+      "content": "RT @sdeschiens: La rentrée en #IdF c'est 2/3 des rénovations de lycées en retard ! Qu'en pense la Ministre ? http://t.co/QfU3RjcUnL http://…",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:55:50.175163",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Paris",
+          "authorLocationName": "78/22"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "wX8IJ_cARHGxZXhy6vJCWQ",
+      "createdAt": "2014-09-03T07:53:11.693346"
+    },
+    {
+      "remoteID": "507065003590299649",
+      "license": "twitter",
+      "language": {
+        "code": "fr"
+      },
+      "author": {
+        "username": "mpbadre",
+        "remoteID": "271367166",
+        "image": "http://pbs.twimg.com/profile_images/429282955161518081/Pw_iumw4_normal.jpeg",
+        "name": "Marie-Pierre Badre"
+      },
+      "image": "http://pbs.twimg.com/media/BweETerIcAA255X.jpg",
+      "contentEnglish": "RT @ NotreIDF2020: Spending by the #IdF schoolboy region increased from € 1,330 to € 875 in 6 years! http://t.co/yihAq7BPkU # Rentree_2014 htt ...",
+      "publishedAt": "2014-09-03T07:18:12+00:00",
+      "summary": "RT @NotreIDF2020: La dépense de la région #IdF par lycéen est passée de 1 330 € à 875 € en 6 ans ...",
+      "content": "RT @NotreIDF2020: La dépense de la région #IdF par lycéen est passée de 1 330 € à 875 € en 6 ans ! http://t.co/yihAq7BPkU #Rentree_2014 htt…",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:55:59.417740",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "IGUA-mJpTVexO2xWq7zk1A",
+      "createdAt": "2014-09-03T07:53:11.751373"
+    },
+    {
+      "remoteID": "507064851068641281",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "theeleanordavis",
+        "remoteID": "512327871",
+        "image": "http://pbs.twimg.com/profile_images/2018688114/image_normal.jpg",
+        "name": "Eleanor Davis"
+      },
+      "image": "http://pbs.twimg.com/media/BwZYRvbCcAA3I-x.jpg",
+      "contentEnglish": "RT @AnonymousLiberi: \"@defiant_infidel: http://t.co/pwWmWuulyp\" #Anonymous #tcot #PJNET #ccot #tlot #Gaza #newsnight #Israel #IDF #BDS #Blo…",
+      "publishedAt": "2014-09-03T07:17:36+00:00",
+      "summary": "RT @AnonymousLiberi: \"@defiant_infidel: http://t.co/pwWmWuulyp\" #Anonymous #tcot #PJNET #ccot #tl...",
+      "content": "RT @AnonymousLiberi: \"@defiant_infidel: http://t.co/pwWmWuulyp\" #Anonymous #tcot #PJNET #ccot #tlot #Gaza #newsnight #Israel #IDF #BDS #Blo…",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:56:03.627651",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "qJ7XAAsWQGSYx8kRkOC16w",
+      "createdAt": "2014-09-03T07:53:11.827198"
+    },
+    {
+      "remoteID": "507064525838098432",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "PASTORMARTYOAS",
+        "remoteID": "2704996866",
+        "image": "http://pbs.twimg.com/profile_images/506607181039681537/mTSe8e7e_normal.jpeg",
+        "name": "Prophet Marty Oas"
+      },
+      "image": "http://pbs.twimg.com/media/BwZYRvbCcAA3I-x.jpg",
+      "contentEnglish": "RT @AnonymousLiberi: \"@defiant_infidel: http://t.co/pwWmWuulyp\" #Anonymous #tcot #PJNET #ccot #tlot #Gaza #newsnight #Israel #IDF #BDS #Blo…",
+      "publishedAt": "2014-09-03T07:16:18+00:00",
+      "summary": "RT @AnonymousLiberi: \"@defiant_infidel: http://t.co/pwWmWuulyp\" #Anonymous #tcot #PJNET #ccot #tl...",
+      "content": "RT @AnonymousLiberi: \"@defiant_infidel: http://t.co/pwWmWuulyp\" #Anonymous #tcot #PJNET #ccot #tlot #Gaza #newsnight #Israel #IDF #BDS #Blo…",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:56:14.349947",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "_KYB7yAsSe24uFHzf2X1uA",
+      "createdAt": "2014-09-03T07:53:11.866839"
+    },
+    {
+      "remoteID": "507063924622381056",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "Alykhan12",
+        "remoteID": "289217513",
+        "image": "http://pbs.twimg.com/profile_images/501257052447330304/qBqaPcor_normal.jpeg",
+        "name": "Aly"
+      },
+      "image": "http://pbs.twimg.com/media/BvwBuEWCcAEcGZP.jpg",
+      "tags": [],
+      "publishedAt": "2014-09-03T07:13:55+00:00",
+      "summary": "RT @NaniOth: Not far from #Gaza where in #Jerusalem demolition happens on a regular basis. \"#IDF ...",
+      "content": "RT @NaniOth: Not far from #Gaza where in #Jerusalem demolition happens on a regular basis. \"#IDF are protecting Pal. from #Hamas\"! http://t…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:56:18.542840",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Nairobi",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "h91shjQxTkakiFaDQav9YA",
+      "createdAt": "2014-09-03T07:53:11.904077"
+    },
+    {
+      "remoteID": "507063484669235201",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "redfrank1879",
+        "remoteID": "1390004707",
+        "image": "http://pbs.twimg.com/profile_images/487123084953280513/j7mF6CRL_normal.jpeg",
+        "name": "Pray for Gaza"
+      },
+      "image": "http://pbs.twimg.com/media/BwlwSHUCIAAF3BU.jpg",
+      "tags": [
+        {
+          "confidence": 0.924142,
+          "name": "photo-person"
+        }
+      ],
+      "publishedAt": "2014-09-03T07:12:10+00:00",
+      "summary": "RT @WClanSupport: “@momen_mubasher: #IDF Terrorist Army against the Palestinian children!! \n#Isra...",
+      "content": "RT @WClanSupport: “@momen_mubasher: #IDF Terrorist Army against the Palestinian children!! \n#IsraelNews \n#zionist \n#Palestine http://t.co/5…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:56:24.257323",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": "North Belfast "
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "xre9EywoSTCk4h3DH6FfJQ",
+      "createdAt": "2014-09-03T07:53:11.938190"
+    },
+    {
+      "remoteID": "507063482655989760",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "Elimelech_Ring",
+        "remoteID": "19025138",
+        "image": "http://pbs.twimg.com/profile_images/484187680528273409/NHvOjlb9_normal.jpeg",
+        "name": "Eli Ringringoeloe"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-03T07:12:09+00:00",
+      "summary": "#IN #THE #IDF R #MUSLIMS #ARABS #SOLDIERS 2 #I #SEE THAT'S #GOOD, BUT MUSLIMS MUST #PROTEST AGAIN...",
+      "content": "#IN #THE #IDF R #MUSLIMS #ARABS #SOLDIERS 2 #I #SEE THAT'S #GOOD, BUT MUSLIMS MUST #PROTEST AGAINST ISIS BUT U ALMOST NEVER C THEY DO THIS!!",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:56:26.108272",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Amsterdam",
+          "authorLocationName": "Messiah Jesus!Go 2 Hell Devil!"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "zLHMQx5zSj28WLdIltOLUQ",
+      "createdAt": "2014-09-03T07:53:11.976121"
+    },
+    {
+      "remoteID": "507063444781432832",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "terryschriber1",
+        "remoteID": "2729514736",
+        "image": "http://abs.twimg.com/sticky/default_profile_images/default_profile_4_normal.png",
+        "name": "TERRYSCHRIBER"
+      },
+      "image": "http://pbs.twimg.com/media/BwZYRvbCcAA3I-x.jpg",
+      "contentEnglish": "RT @AnonymousLiberi: \"@defiant_infidel: http://t.co/pwWmWuulyp\" #Anonymous #tcot #PJNET #ccot #tlot #Gaza #newsnight #Israel #IDF #BDS #Blo…",
+      "publishedAt": "2014-09-03T07:12:00+00:00",
+      "summary": "RT @AnonymousLiberi: \"@defiant_infidel: http://t.co/pwWmWuulyp\" #Anonymous #tcot #PJNET #ccot #tl...",
+      "content": "RT @AnonymousLiberi: \"@defiant_infidel: http://t.co/pwWmWuulyp\" #Anonymous #tcot #PJNET #ccot #tlot #Gaza #newsnight #Israel #IDF #BDS #Blo…",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:56:32.482086",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "WjScXp7zSUOn6TpGpTAiRQ",
+      "createdAt": "2014-09-03T07:53:12.008495"
+    },
+    {
+      "remoteID": "507062892903301120",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "marypatriott",
+        "remoteID": "933693476",
+        "image": "http://pbs.twimg.com/profile_images/482080503080579072/W9OmUzWi_normal.jpeg",
+        "name": "MIDTERMMSSS!Patriott"
+      },
+      "image": "http://pbs.twimg.com/media/BwZYRvbCcAA3I-x.jpg",
+      "contentEnglish": "RT @AnonymousLiberi: \"@defiant_infidel: http://t.co/pwWmWuulyp\" #Anonymous #tcot #PJNET #ccot #tlot #Gaza #newsnight #Israel #IDF #BDS #Blo…",
+      "publishedAt": "2014-09-03T07:09:49+00:00",
+      "summary": "RT @AnonymousLiberi: \"@defiant_infidel: http://t.co/pwWmWuulyp\" #Anonymous #tcot #PJNET #ccot #tl...",
+      "content": "RT @AnonymousLiberi: \"@defiant_infidel: http://t.co/pwWmWuulyp\" #Anonymous #tcot #PJNET #ccot #tlot #Gaza #newsnight #Israel #IDF #BDS #Blo…",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:56:34.551911",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Central Time (US & Canada)",
+          "authorLocationName": "Occupied Minneapolis"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "xqrm8SvDRuasDN857lfg3Q",
+      "createdAt": "2014-09-03T07:53:12.047953"
+    },
+    {
+      "remoteID": "507062104743247872",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "ipadpatriot",
+        "remoteID": "598510548",
+        "image": "http://pbs.twimg.com/profile_images/2974025685/0d59c4eee71df184f7ab85894f83ac4d_normal.jpeg",
+        "name": "Stalwart"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-03T07:06:41+00:00",
+      "summary": "#Israel has enough submarines to operate as Wolf Packs,  prowling the Mediterranean &amp; sinking...",
+      "content": "#Israel has enough submarines to operate as Wolf Packs,  prowling the Mediterranean &amp; sinking any shipping bound for #Gaza\n#IDF with subs!!",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:08:36.071094",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": "This Sceptered Isle"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "UM6IqQynTzuq2NW2wF0yHg",
+      "createdAt": "2014-09-03T07:08:20.989541"
+    },
+    {
+      "remoteID": "507061892360445952",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "NumberMonkey69",
+        "remoteID": "1343704328",
+        "image": "http://pbs.twimg.com/profile_images/416437033301590016/VKM7h0jc_normal.jpeg",
+        "name": "Number Monkey"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-03T07:05:50+00:00",
+      "summary": "@LadyRebelAFI @CherryStBoxer @makiwa @cossa68 http://t.co/yOeZu1nNoA\nhave a look at this for use ...",
+      "content": "@LadyRebelAFI @CherryStBoxer @makiwa @cossa68 http://t.co/yOeZu1nNoA\nhave a look at this for use of human shield by #IDF via @BSfromPS",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:08:36.097668",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Amsterdam",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "OB9U8L-MTRqmsSAFvQuREg",
+      "createdAt": "2014-09-03T07:08:21.055481"
+    },
+    {
+      "remoteID": "507061848617668609",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "PeaceKeeper_117",
+        "remoteID": "384733959",
+        "image": "http://pbs.twimg.com/profile_images/506080563975835648/VL_qkGY9_normal.jpeg",
+        "name": "Evan"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-03T07:05:40+00:00",
+      "summary": "RT @NaniOth: #IDF never stopped violation in #Jerusalem and the #WestBank, there's always land ra...",
+      "content": "RT @NaniOth: #IDF never stopped violation in #Jerusalem and the #WestBank, there's always land rape, arrests and assaults.\n#FreePalestine #…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:08:48.362807",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "London",
+          "authorLocationName": "Earth"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "yRTAofwFQoKJvtabkZfMJQ",
+      "createdAt": "2014-09-03T07:08:21.090316"
+    },
+    {
+      "remoteID": "507061746948141056",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "dortrompeter",
+        "remoteID": "1030148054",
+        "image": "http://pbs.twimg.com/profile_images/3009697040/b2d523160514004368fd41c01c8fe417_normal.png",
+        "name": " Dor Trompeter "
+      },
+      "image": "http://pbs.twimg.com/media/Bwejwd9CIAAPIKg.jpg",
+      "tags": [],
+      "publishedAt": "2014-09-03T07:05:15+00:00",
+      "summary": "RT @Blind_West: Just for a Change, not post about #Israel but just as #Amazing ! Actually, why no...",
+      "content": "RT @Blind_West: Just for a Change, not post about #Israel but just as #Amazing ! Actually, why not combine both.... #IDF #soldier http://t.…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:09:02.120540",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Baghdad",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "k6bI8r4XSb-TNFS46auxdQ",
+      "createdAt": "2014-09-03T07:08:21.143101"
+    },
+    {
+      "remoteID": "507061745416806400",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "McLoughlinPost",
+        "remoteID": "19961267",
+        "image": "http://pbs.twimg.com/profile_images/77845718/CL_20T_20KD_20Peace_normal.jpg",
+        "name": "Diane V. McLoughlin"
+      },
+      "tags": [
+        {
+          "confidence": 1,
+          "name": "military"
+        }
+      ],
+      "publishedAt": "2014-09-03T07:05:15+00:00",
+      "summary": "#Israel - how we grew up - an #IDF veteran on the dehumanising power of military control http://t...",
+      "content": "#Israel - how we grew up - an #IDF veteran on the dehumanising power of military control http://t.co/brb25awXGH #tcot #auspol #cdnpoli #Gaza",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:09:00.701303",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Central Time (US & Canada)",
+          "authorLocationName": "The McLoughlin Post"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "ji5LtIi5QwmJVZlwlOSu4g",
+      "createdAt": "2014-09-03T07:08:21.180579"
+    },
+    {
+      "remoteID": "507061565393477632",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "MillenniumWilma",
+        "remoteID": "38418394",
+        "image": "http://pbs.twimg.com/profile_images/503499438158270464/EnyJPO5d_normal.jpeg",
+        "name": "Wilma Ariza"
+      },
+      "image": "http://pbs.twimg.com/media/BvwBuEWCcAEcGZP.jpg",
+      "tags": [],
+      "publishedAt": "2014-09-03T07:04:32+00:00",
+      "summary": "RT @NaniOth: Not far from #Gaza where in #Jerusalem demolition happens on a regular basis. \"#IDF ...",
+      "content": "RT @NaniOth: Not far from #Gaza where in #Jerusalem demolition happens on a regular basis. \"#IDF are protecting Pal. from #Hamas\"! http://t…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:09:04.830883",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "yG803eGaQFmG6OC77JmccA",
+      "createdAt": "2014-09-03T07:08:21.214942"
+    },
+    {
+      "remoteID": "507061332353761280",
+      "license": "twitter",
+      "language": {
+        "code": "fr"
+      },
+      "author": {
+        "username": "CofelyGDFSUEZ",
+        "remoteID": "611764717",
+        "image": "http://pbs.twimg.com/profile_images/378800000760749140/0e789add209b6606a10f3273b58220f8_normal.jpeg",
+        "name": "Cofely GDF SUEZ"
+      },
+      "contentEnglish": "RTGDFSUEZ_Careers: #GDFSUEZ offers #CDI Team Leader Operating M / F http://t.co/K9Sq3tkcy2 #Cofely #Europe #France # ...",
+      "publishedAt": "2014-09-03T07:03:37+00:00",
+      "summary": "RT @GDFSUEZ_Careers: #GDFSUEZ vous propose un #CDI Responsable d'Equipe d'Exploitation H/F http:/...",
+      "content": "RT @GDFSUEZ_Careers: #GDFSUEZ vous propose un #CDI Responsable d'Equipe d'Exploitation H/F http://t.co/K9Sq3tkcy2 #Cofely #Europe #France #…",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:09:09.597493",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Paris",
+          "authorLocationName": "Présent dans près de 40 pays"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "6iPOyFHNTW-lsEmfaNEvgA",
+      "createdAt": "2014-09-03T07:08:21.248465"
+    },
+    {
+      "remoteID": "507060925091053568",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "MillenniumWilma",
+        "remoteID": "38418394",
+        "image": "http://pbs.twimg.com/profile_images/503499438158270464/EnyJPO5d_normal.jpeg",
+        "name": "Wilma Ariza"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-03T07:01:59+00:00",
+      "summary": "RT @NaniOth: #IDF never stopped violation in #Jerusalem and the #WestBank, there's always land ra...",
+      "content": "RT @NaniOth: #IDF never stopped violation in #Jerusalem and the #WestBank, there's always land rape, arrests and assaults.\n#FreePalestine #…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:09:22.018296",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "TMpEIGdDTHOMz6vxOQspNg",
+      "createdAt": "2014-09-03T07:08:21.283939"
+    },
+    {
+      "remoteID": "507060517400481793",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "WClanSupport",
+        "remoteID": "1494243667",
+        "image": "http://pbs.twimg.com/profile_images/505786000363520000/-D-P3EEi_normal.jpeg",
+        "name": "FantaLimette"
+      },
+      "image": "http://pbs.twimg.com/media/BwlwSHUCIAAF3BU.jpg",
+      "tags": [
+        {
+          "confidence": 0.908877,
+          "name": "photo-person"
+        }
+      ],
+      "publishedAt": "2014-09-03T07:00:22+00:00",
+      "summary": "“@momen_mubasher: #IDF Terrorist Army against the Palestinian children!! \n#IsraelNews \n#zionist \n...",
+      "content": "“@momen_mubasher: #IDF Terrorist Army against the Palestinian children!! \n#IsraelNews \n#zionist \n#Palestine http://t.co/5gj2pRPjpu” \n@UNICEF",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:09:30.532203",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Berlin",
+          "authorLocationName": "West"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "Ni0XBxMJQr--1qrb31edSg",
+      "createdAt": "2014-09-03T07:08:21.329112"
+    },
+    {
+      "remoteID": "507060296863584257",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "marehman",
+        "remoteID": "16820751",
+        "image": "http://pbs.twimg.com/profile_images/506873172377878528/0LJqJJdR_normal.jpeg",
+        "name": "Aqeel Rehman"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-03T06:59:30+00:00",
+      "summary": "RT @NaniOth: #IDF never stopped violation in #Jerusalem and the #WestBank, there's always land ra...",
+      "content": "RT @NaniOth: #IDF never stopped violation in #Jerusalem and the #WestBank, there's always land rape, arrests and assaults.\n#FreePalestine #…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:09:30.476453",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Pacific Time (US & Canada)",
+          "authorLocationName": "California,  USA"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "qKJRuV1NTM2ytQbtbBvlwQ",
+      "createdAt": "2014-09-03T07:08:21.364891"
+    },
+    {
+      "remoteID": "507060225946697728",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "ElidhM",
+        "remoteID": "708598225",
+        "image": "http://pbs.twimg.com/profile_images/500383941321588736/fDfe1k3r_normal.jpeg",
+        "name": " غزة لن تستسلم ابدا"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-03T06:59:13+00:00",
+      "summary": "RT @NaniOth: #IDF never stopped violation in #Jerusalem and the #WestBank, there's always land ra...",
+      "content": "RT @NaniOth: #IDF never stopped violation in #Jerusalem and the #WestBank, there's always land rape, arrests and assaults.\n#FreePalestine #…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:09:33.849799",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Riyadh",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "4Habyrj0T9mKKsGTi1WZ9w",
+      "createdAt": "2014-09-03T07:08:21.400602"
+    },
+    {
+      "remoteID": "507059935222697984",
+      "license": "twitter",
+      "language": {
+        "code": "fr"
+      },
+      "author": {
+        "username": "NotreIDF2020",
+        "remoteID": "2431005014",
+        "image": "http://pbs.twimg.com/profile_images/459680050812436480/iABA8hhY_normal.jpeg",
+        "name": "Notre IDF 2020"
+      },
+      "image": "http://pbs.twimg.com/media/BweETerIcAA255X.jpg",
+      "contentEnglish": "The expense of the region #IdF high school increased from € 1,330 to € 875 in 6 years! http://t.co/yihAq7BPkU # Rentree_2014 http://t.co/2JpLBdjuFP",
+      "publishedAt": "2014-09-03T06:58:03+00:00",
+      "summary": "La dépense de la région #IdF par lycéen est passée de 1 330 € à 875 € en 6 ans ! http://t.co/yihA...",
+      "content": "La dépense de la région #IdF par lycéen est passée de 1 330 € à 875 € en 6 ans ! http://t.co/yihAq7BPkU #Rentree_2014 http://t.co/2JpLBdjuFP",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:09:53.757558",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Athens",
+          "authorLocationName": "Ile-de-France"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "k1utTZ4DQUa4SICkdFJpwg",
+      "createdAt": "2014-09-03T07:08:21.464913"
+    },
+    {
+      "remoteID": "507059664677535744",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "InstagramMV",
+        "remoteID": "920169361",
+        "image": "http://pbs.twimg.com/profile_images/418739472801341440/K6qnx-nj_normal.png",
+        "name": "Instagram MV"
+      },
+      "tags": [
+        {
+          "confidence": 1,
+          "name": "armed-conflict"
+        },
+        {
+          "confidence": 1,
+          "name": "conflict"
+        }
+      ],
+      "publishedAt": "2014-09-03T06:56:59+00:00",
+      "summary": "A brave boy vs a coward evil army #idf #endtheseige #crimesofisrael #icc4israel #istandwithgaza.....",
+      "content": "A brave boy vs a coward evil army #idf #endtheseige #crimesofisrael #icc4israel #istandwithgaza... http://t.co/u9JmOOCqo0",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:09:58.498765",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "YIWRzMc9QZ-gu3ytinWNng",
+      "createdAt": "2014-09-03T07:08:21.502848"
+    },
+    {
+      "remoteID": "507059612634202112",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "NaniOth",
+        "remoteID": "1050290209",
+        "image": "http://pbs.twimg.com/profile_images/500060598684491776/Y-rHrTcC_normal.jpeg",
+        "name": "Ghufran Oth"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-03T06:56:47+00:00",
+      "summary": "#IDF never stopped violation in #Jerusalem and the #WestBank, there's always land rape, arrests a...",
+      "content": "#IDF never stopped violation in #Jerusalem and the #WestBank, there's always land rape, arrests and assaults.\n#FreePalestine #ICC4Israel",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:09:58.514052",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Baghdad",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "SJl0wARoSmqBOyKidmYAxA",
+      "createdAt": "2014-09-03T07:08:21.549992"
+    },
+    {
+      "remoteID": "507059607332597760",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "InstagramMV",
+        "remoteID": "920169361",
+        "image": "http://pbs.twimg.com/profile_images/418739472801341440/K6qnx-nj_normal.png",
+        "name": "Instagram MV"
+      },
+      "tags": [
+        {
+          "confidence": 1,
+          "name": "armed-conflict"
+        },
+        {
+          "confidence": 1,
+          "name": "conflict"
+        }
+      ],
+      "publishedAt": "2014-09-03T06:56:45+00:00",
+      "summary": "A brave boy vs a coward evil army #idf #endtheseige #crimesofisrael #icc4israel #istandwithgaza.....",
+      "content": "A brave boy vs a coward evil army #idf #endtheseige #crimesofisrael #icc4israel #istandwithgaza... http://t.co/ZbXgpQftvz",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:10:00.668029",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "W81QcFILQDOJrojUOqa05g",
+      "createdAt": "2014-09-03T07:08:21.594080"
+    },
+    {
+      "remoteID": "507059416664117249",
+      "license": "twitter",
+      "language": {
+        "code": "fr"
+      },
+      "author": {
+        "username": "GDFSUEZ_Careers",
+        "remoteID": "90076598",
+        "image": "http://pbs.twimg.com/profile_images/429397528132329472/dY7F5toQ_normal.png",
+        "name": "GDF SUEZ Careers"
+      },
+      "contentEnglish": "#GDFSUEZ Offers #CDI Team Leader Operating M / F http://t.co/K9Sq3tkcy2 #Cofely #Europe #France #IDF #EnergyJobs",
+      "publishedAt": "2014-09-03T06:56:00+00:00",
+      "summary": "#GDFSUEZ vous propose un #CDI Responsable d'Equipe d'Exploitation H/F http://t.co/K9Sq3tkcy2 #Cof...",
+      "content": "#GDFSUEZ vous propose un #CDI Responsable d'Equipe d'Exploitation H/F http://t.co/K9Sq3tkcy2 #Cofely #Europe #France #IDF #EnergyJobs",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:10:09.116160",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Paris",
+          "authorLocationName": "Worldwide"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "7y_i_6doQDydPzYFzJgtQg",
+      "createdAt": "2014-09-03T07:08:21.628700"
+    },
+    {
+      "remoteID": "507059116771000320",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "poramics",
+        "remoteID": "2302890619",
+        "image": "http://pbs.twimg.com/profile_images/506989609859833856/3-DrlpkW_normal.jpeg",
+        "name": "Panoramics!"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-03T06:54:48+00:00",
+      "summary": "The Nobel Peace Prize is useless. It awards Western imperialism. In that vain, #Harper, the #IDF,...",
+      "content": "The Nobel Peace Prize is useless. It awards Western imperialism. In that vain, #Harper, the #IDF, or #Netanyahu are all contenders. #cdnpoli",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:10:13.935805",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Arizona",
+          "authorLocationName": "Alberta/Newfoundland"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "u29irOhoSc--6BeG3dnh-w",
+      "createdAt": "2014-09-03T07:08:21.661713"
+    },
+    {
+      "remoteID": "507058385100222464",
+      "license": "twitter",
+      "language": {
+        "code": "fr"
+      },
+      "author": {
+        "username": "OEmploi",
+        "remoteID": "1955306840",
+        "image": "http://pbs.twimg.com/profile_images/419542937685348352/A1lhdPkv_normal.jpeg",
+        "name": "Emploi Twitter "
+      },
+      "image": "http://pbs.twimg.com/media/BwluWx-IYAAXAde.jpg",
+      "contentEnglish": "cdetourne RT: Session #recrutement to #Paris #garedunord today / 7 offers #commercial on the # IDFLyrecorecrute to be filled! http: ... //",
+      "publishedAt": "2014-09-03T06:51:54+00:00",
+      "summary": "RT @cdetourne: Session de #recrutement  à #Paris #garedunord today / 7 offres de #commercial sur ...",
+      "content": "RT @cdetourne: Session de #recrutement  à #Paris #garedunord today / 7 offres de #commercial sur l'#IDF à pourvoir @Lyrecorecrute ! http://…",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:10:22.957594",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": "France"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "SuHrBtAoT12ZanI7wa62Dw",
+      "createdAt": "2014-09-03T07:08:21.703885"
+    },
+    {
+      "remoteID": "507058185090650112",
+      "license": "twitter",
+      "language": {
+        "code": "fr"
+      },
+      "author": {
+        "username": "Lyrecorecrute",
+        "remoteID": "1343957833",
+        "image": "http://pbs.twimg.com/profile_images/378800000788608541/b3ac4ac18d9beb845d23620569ef2418_normal.jpeg",
+        "name": "Lyreco recrute"
+      },
+      "image": "http://pbs.twimg.com/media/BwluWx-IYAAXAde.jpg",
+      "contentEnglish": "cdetourne RT: Session #recrutement to #Paris #garedunord today / 7 offers #commercial on the # IDFLyrecorecrute to be filled! http: ... //",
+      "publishedAt": "2014-09-03T06:51:06+00:00",
+      "summary": "RT @cdetourne: Session de #recrutement  à #Paris #garedunord today / 7 offres de #commercial sur ...",
+      "content": "RT @cdetourne: Session de #recrutement  à #Paris #garedunord today / 7 offres de #commercial sur l'#IDF à pourvoir @Lyrecorecrute ! http://…",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:10:23.660063",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Athens",
+          "authorLocationName": "France"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "kMVChrBBRJ-kk0AKCPAJpg",
+      "createdAt": "2014-09-03T07:08:21.863693"
+    },
+    {
+      "remoteID": "507057900674887680",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "AmelCherrys",
+        "remoteID": "2725082500",
+        "image": "http://pbs.twimg.com/profile_images/502544929835737090/qTYIBaM2_normal.jpeg",
+        "name": "Marah Shaker, 2ans "
+      },
+      "image": "http://pbs.twimg.com/media/BuEndJhIEAIYjFs.jpg",
+      "tags": [
+        {
+          "confidence": 0.982014,
+          "name": "photo-person"
+        }
+      ],
+      "contentEnglish": "RT @ hamzayildirim11: IDF http://t.co/8M8LKCizmw",
+      "publishedAt": "2014-09-03T06:49:58+00:00",
+      "summary": "RT @hamzayildirim11: #IDF http://t.co/8M8LKCizmw",
+      "content": "RT @hamzayildirim11: #IDF http://t.co/8M8LKCizmw",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:10:27.848934",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": "paris  "
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "uchC4_VQSKGjDxDetoAXpA",
+      "createdAt": "2014-09-03T07:08:21.898252"
+    },
+    {
+      "remoteID": "507057770894745600",
+      "license": "twitter",
+      "language": {
+        "code": "fr"
+      },
+      "author": {
+        "username": "cdetourne",
+        "remoteID": "1162989654",
+        "image": "http://pbs.twimg.com/profile_images/484949670943158273/fB0aSIX2_normal.jpeg",
+        "name": "clotaire detourne"
+      },
+      "image": "http://pbs.twimg.com/media/BwluWx-IYAAXAde.jpg",
+      "contentEnglish": "#recrutement Session today to #Paris #garedunord / 7 offers #commercial on the # IDF to provideLyrecorecrute! http://t.co/WuyXAPzDNX",
+      "publishedAt": "2014-09-03T06:49:27+00:00",
+      "summary": "Session de #recrutement  à #Paris #garedunord today / 7 offres de #commercial sur l'#IDF à pourvo...",
+      "content": "Session de #recrutement  à #Paris #garedunord today / 7 offres de #commercial sur l'#IDF à pourvoir @Lyrecorecrute ! http://t.co/WuyXAPzDNX",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:10:32.601420",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": "CROIX"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "8Hf2_KZ4QriVFG-9fPhJZQ",
+      "createdAt": "2014-09-03T07:08:21.931476"
+    },
+    {
+      "remoteID": "507057474432946176",
+      "license": "twitter",
+      "language": {
+        "code": "und"
+      },
+      "author": {
+        "username": "palestinagr",
+        "remoteID": "1716623048",
+        "image": "http://pbs.twimg.com/profile_images/492962629477228544/yT4-mO9C_normal.jpeg",
+        "name": "justicia"
+      },
+      "image": "http://pbs.twimg.com/media/BuEndJhIEAIYjFs.jpg",
+      "tags": [
+        {
+          "confidence": 0.983697,
+          "name": "photo-person"
+        }
+      ],
+      "contentEnglish": "RT @ hamzayildirim11: IDF http://t.co/8M8LKCizmw",
+      "publishedAt": "2014-09-03T06:48:17+00:00",
+      "summary": "RT @hamzayildirim11: #IDF http://t.co/8M8LKCizmw",
+      "content": "RT @hamzayildirim11: #IDF http://t.co/8M8LKCizmw",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:10:52.936031",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Caracas",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "LQuQPtI6QKSUKiwnK4uvIA",
+      "createdAt": "2014-09-03T07:08:21.969238"
+    },
+    {
+      "remoteID": "507057302944223232",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "jmcor24",
+        "remoteID": "1155365508",
+        "image": "http://pbs.twimg.com/profile_images/506390537264300032/Qeizn39t_normal.jpeg",
+        "name": "MakeItCount"
+      },
+      "image": "http://pbs.twimg.com/media/BwLb6BoCcAAMgT-.jpg",
+      "tags": [
+        {
+          "confidence": 0.978119,
+          "name": "photo-person"
+        }
+      ],
+      "publishedAt": "2014-09-03T06:47:36+00:00",
+      "summary": "RT @pwf2150: Obama calls them ISIL because that repudiates the right of Israel to exist. #IStandW...",
+      "content": "RT @pwf2150: Obama calls them ISIL because that repudiates the right of Israel to exist. #IStandWithIsrael #IDF http://t.co/EtVspSN1pf",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:10:53.549340",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": "#LongLiveIsrael"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "873IC9SUTjuKaQHt5vB0yg",
+      "createdAt": "2014-09-03T07:08:22.007508"
+    },
+    {
+      "remoteID": "507056239688155136",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "TheSrujanRaJ",
+        "remoteID": "148414552",
+        "image": "http://pbs.twimg.com/profile_images/378800000127534554/3331cd2a04a359e8aaa978404e44d542_normal.jpeg",
+        "name": "✡SrujanRaj ن "
+      },
+      "tags": [],
+      "publishedAt": "2014-09-03T06:43:22+00:00",
+      "summary": "RT @JIDF: #IDF: Lt. @Libby_weiss gives an exclusive look into one of Hamas' terror tunnels, near ...",
+      "content": "RT @JIDF: #IDF: Lt. @Libby_weiss gives an exclusive look into one of Hamas' terror tunnels, near Kibbutz Ein HaShlosha. http://t.co/CuyaJO0…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-03T07:10:55.532002",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "New Delhi",
+          "authorLocationName": "Pro-israel ≠أقف مع إسرائيل"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "zO3uH0qwS8SCWnWQ4zO_hQ",
+      "createdAt": "2014-09-03T07:08:22.041585"
+    }
+  ]
+}

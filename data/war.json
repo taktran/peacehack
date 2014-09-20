@@ -1086,6 +1086,3293 @@
       },
       "id": "nprZCP0mTH-_q46f3lqKcA",
       "createdAt": "2014-09-02T12:26:54.448937"
+    },
+    {
+      "remoteID": "506774489611665408",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "FranklyQuite",
+        "remoteID": "1508040134",
+        "image": "http://pbs.twimg.com/profile_images/378800000831927849/8c1eb67519eb5a86a68bba5baeee1dc5_normal.jpeg",
+        "name": "Frank Bunyip "
+      },
+      "tags": [],
+      "publishedAt": "2014-09-02T12:03:48+00:00",
+      "summary": "@greenwoodls @elf212 U can shove ur Nazi #IDF WAR PROPAGANDA up ur arse #fuckIsrael #ICC4israel #...",
+      "content": "@greenwoodls @elf212 U can shove ur Nazi #IDF WAR PROPAGANDA up ur arse #fuckIsrael #ICC4israel #NaziIsrael #BDS",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T12:31:47.427742",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Istanbul",
+          "authorLocationName": "ABC Sheltered workshop Ultimo "
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "14iKtK41TH-i1ekDS-hF7A",
+      "createdAt": "2014-09-02T12:26:59.853627"
+    },
+    {
+      "remoteID": "506771201235374080",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "DrSlicer",
+        "remoteID": "222482383",
+        "image": "http://pbs.twimg.com/profile_images/1181671125/Slicer_normal.jpg",
+        "name": "Dr Aristotle Slicer"
+      },
+      "tags": [
+        {
+          "confidence": 1,
+          "name": "armed-conflict"
+        },
+        {
+          "confidence": 1,
+          "name": "conflict"
+        }
+      ],
+      "publishedAt": "2014-09-02T11:50:44+00:00",
+      "summary": "@Judheim #IDF \"#Islam prohibits destroying trees,crop,innocents at war\". So firing rockets from G...",
+      "content": "@Judheim #IDF \"#Islam prohibits destroying trees,crop,innocents at war\". So firing rockets from Gaza is against Islam! They hit trees etc!",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T12:34:32.237516",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Hawaii",
+          "authorLocationName": "Mumbai, Santander, London"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "r7jk4k9CSqa-QDucdqBX0A",
+      "createdAt": "2014-09-02T12:27:00.786413"
+    },
+    {
+      "remoteID": "506770220451909632",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "Judheim",
+        "remoteID": "244165367",
+        "image": "http://pbs.twimg.com/profile_images/442265751815069696/x4NlaCxN_normal.jpeg",
+        "name": " Judheim"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-02T11:46:50+00:00",
+      "summary": "@chezkig #Islam prohibits destroying trees,crop,innocents at war, #judaism makes no distinction #...",
+      "content": "@chezkig #Islam prohibits destroying trees,crop,innocents at war, #judaism makes no distinction #israel #idf bombing kids, schools hospitals",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T12:35:31.446213",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Baghdad",
+          "authorLocationName": "Proud Tanzanian"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "O_JACXUxSs6BWpXbZEkYgA",
+      "createdAt": "2014-09-02T12:27:01.227488"
+    },
+    {
+      "remoteID": "506757079663935488",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "ILPADRINO0",
+        "remoteID": "69761144",
+        "image": "http://pbs.twimg.com/profile_images/438425153236922369/jdYV_voO_normal.jpeg",
+        "name": "Suliman Ali Zway"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-02T10:54:37+00:00",
+      "summary": "RT @ChemistRunner: When war mental health issues are ignored. #PTSD #Libya",
+      "content": "RT @ChemistRunner: When war mental health issues are ignored. #PTSD #Libya",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T11:02:53.181345",
+      "entities": [
+        "Libya"
+      ],
+      "geo": {
+        "coords": [
+          18.043556213378906,
+          27.23609733581543
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Athens",
+          "authorLocationName": "Benghazi-Tripoli Libya"
+        },
+        "addressComponents": {
+          "adminArea1": "Libya",
+          "formattedAddress": "Libya"
+        }
+      },
+      "id": "Hck8bSviSnqPzx48_RQ-pQ",
+      "createdAt": "2014-09-02T11:03:07.961831"
+    },
+    {
+      "remoteID": "506744316820471809",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "diaahadid",
+        "remoteID": "14933370",
+        "image": "http://pbs.twimg.com/profile_images/506497853514985472/er-pueXA_normal.jpeg",
+        "name": "Diaa Hadid ضياء حديد"
+      },
+      "tags": [
+        {
+          "confidence": 1,
+          "name": "armed-conflict"
+        },
+        {
+          "confidence": 1,
+          "name": "conflict"
+        },
+        {
+          "confidence": 1,
+          "name": "death"
+        }
+      ],
+      "publishedAt": "2014-09-02T10:03:54+00:00",
+      "summary": "RT @TamerFakahany: Amnesty accuses Islamic State militants of war crimes in Iraq: mass killings, ...",
+      "content": "RT @TamerFakahany: Amnesty accuses Islamic State militants of war crimes in Iraq: mass killings, abductions &amp; expulsions.  http://t.co/k5k6…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T10:26:23.267708",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Santiago",
+          "authorLocationName": "Beirut, Lebanon"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "Sf6B4vWKQu6rhMLlIpxDew",
+      "createdAt": "2014-09-02T10:26:43.802584"
+    },
+    {
+      "remoteID": "506742501525315585",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "aleksiskander",
+        "remoteID": "1459485661",
+        "image": "http://pbs.twimg.com/profile_images/496680043423088640/s97n5UNV_normal.png",
+        "name": "Aleksandr Kalinin"
+      },
+      "tags": [
+        {
+          "confidence": 1,
+          "name": "armed-conflict"
+        },
+        {
+          "confidence": 1,
+          "name": "conflict"
+        },
+        {
+          "confidence": 1,
+          "name": "death"
+        }
+      ],
+      "publishedAt": "2014-09-02T09:56:41+00:00",
+      "summary": "Hannibal Directive Focus of War Crimes Inquiry - indiscriminate killing of civilians and even #ID...",
+      "content": "Hannibal Directive Focus of War Crimes Inquiry - indiscriminate killing of civilians and even #IDF's own soldiers http://t.co/quZswIGaVN",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T10:29:45.502824",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Stockholm",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "XPjefXVoTcmjBtRQO0qMag",
+      "createdAt": "2014-09-02T10:26:48.751380"
+    },
+    {
+      "remoteID": "506708432817500160",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "DCOSMAN",
+        "remoteID": "123677392",
+        "image": "http://pbs.twimg.com/profile_images/488570601326788608/zTFLil4S_normal.jpeg",
+        "name": "Mohamed Othman"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-02T07:41:19+00:00",
+      "summary": "It's funny 2me UN s investigating war crimes committed by #ISIS  gangs,bt won't even consider the...",
+      "content": "It's funny 2me UN s investigating war crimes committed by #ISIS  gangs,bt won't even consider the same against #IDF #Israel UN member state",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T07:55:42.228944",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": "South Carolina, U.S.A"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "MHAWeofqRG-YYzpxelPkTQ",
+      "createdAt": "2014-09-02T07:53:09.774487"
+    },
+    {
+      "remoteID": "506659240258572288",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "CultofNewMedia",
+        "remoteID": "73700944",
+        "image": "http://pbs.twimg.com/profile_images/475831798178390016/vT4M0iGK_normal.jpeg",
+        "name": "Cult Leader"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-02T04:25:50+00:00",
+      "summary": "@KenRoth @hrw Okay, but good luck capturing the perpetrators. Why not prosecute multiple war crim...",
+      "content": "@KenRoth @hrw Okay, but good luck capturing the perpetrators. Why not prosecute multiple war crimes in #Gaza instead? #IDF not hard to find.",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T04:43:29.730645",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Mountain Time (US & Canada)",
+          "authorLocationName": "Look Behind You. "
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "Y7tdv_gqRFGjxFtt0ZicjA",
+      "createdAt": "2014-09-02T04:43:04.478277"
+    },
+    {
+      "remoteID": "506645171250167808",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "Sam_Schulman",
+        "remoteID": "60313540",
+        "image": "http://pbs.twimg.com/profile_images/3579475674/719ff70c3a7a97baa540394c3de33521_normal.jpeg",
+        "name": "Sam Schulman ن"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-02T03:29:56+00:00",
+      "summary": "#IDF general staff determined to lose the war it just won, says @CarolineGlick.   http://t.co/Rxe...",
+      "content": "#IDF general staff determined to lose the war it just won, says @CarolineGlick.   http://t.co/Rxek85LpoI",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T03:31:24.479594",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": "Sils-Maria, Virginia, USA"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "ToLj30YYRjmvcLSWc-zPjg",
+      "createdAt": "2014-09-02T03:31:03.297316"
+    },
+    {
+      "remoteID": "506620710978977792",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "pubsubs",
+        "remoteID": "723090685",
+        "image": "http://pbs.twimg.com/profile_images/503025241291882498/ShucmCJz_normal.jpeg",
+        "name": "j"
+      },
+      "image": "http://pbs.twimg.com/media/Bwfg2gKIAAEgqF_.jpg",
+      "tags": [],
+      "publishedAt": "2014-09-02T01:52:44+00:00",
+      "summary": "@LouiseMensch @HeathShowman @AbalkhailKhalid @CoffeePunks That said, try UK Bomber cmd 4 war crim...",
+      "content": "@LouiseMensch @HeathShowman @AbalkhailKhalid @CoffeePunks That said, try UK Bomber cmd 4 war crimes, THEN talk #IDF. http://t.co/aw2S25qqvx",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-02T02:18:22.713623",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "10nYrK-CQymoh0R1XYG36w",
+      "createdAt": "2014-09-02T02:17:10.578847"
+    },
+    {
+      "remoteID": "506575408624861184",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "junayd_g",
+        "remoteID": "2494076090",
+        "image": "http://pbs.twimg.com/profile_images/502157703561883648/NaU5P0bV_normal.jpeg",
+        "name": "Junayd"
+      },
+      "image": "http://pbs.twimg.com/media/Bv0LCfJCEAAP7n3.jpg",
+      "tags": [
+        {
+          "confidence": 0.997762,
+          "name": "photo-person"
+        },
+        {
+          "confidence": 1,
+          "name": "criminal"
+        }
+      ],
+      "publishedAt": "2014-09-01T22:52:43+00:00",
+      "summary": "RT @daviddovadia: War criminal @netanyahu is wrong. #ISIS, #HAMAS and #IDF are the same. http://t...",
+      "content": "RT @daviddovadia: War criminal @netanyahu is wrong. #ISIS, #HAMAS and #IDF are the same. http://t.co/zLOAxgw1fT",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T23:14:54.118029",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": "Kharastan"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "gw1vPHpEQuKeCpIAMognfQ",
+      "createdAt": "2014-09-01T23:13:10.458908"
+    },
+    {
+      "remoteID": "506566196503011328",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "LIBYA_WIN",
+        "remoteID": "274132729",
+        "image": "http://pbs.twimg.com/profile_images/1291853570/bravelibyanchicken_normal.JPG",
+        "name": "Hayat Libya"
+      },
+      "tags": [
+        {
+          "confidence": 1,
+          "name": "armed-conflict"
+        },
+        {
+          "confidence": 1,
+          "name": "conflict"
+        }
+      ],
+      "publishedAt": "2014-09-01T22:16:07+00:00",
+      "summary": "RT @AJStream: Abdelmonem Al-Yaser: \"When there are militias and people willing to fight, that's a...",
+      "content": "RT @AJStream: Abdelmonem Al-Yaser: \"When there are militias and people willing to fight, that's a cocktail for a civil war.\" #AJStream",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T22:34:05.121191",
+      "entities": [
+        "Libya"
+      ],
+      "geo": {
+        "coords": [
+          18.043556213378906,
+          27.23609733581543
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Greenland",
+          "authorLocationName": "Europe"
+        },
+        "addressComponents": {
+          "adminArea1": "Libya",
+          "formattedAddress": "Libya"
+        }
+      },
+      "id": "9ZzR1mqKRHqvfuqmTAomFA",
+      "createdAt": "2014-09-01T22:33:47.851801"
+    },
+    {
+      "remoteID": "506565555403644928",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "takingthepease",
+        "remoteID": "254559139",
+        "image": "http://pbs.twimg.com/profile_images/3177054690/29daebf9acbc99fcb7193e7df945a8c6_normal.jpeg",
+        "name": "terry thomas"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T22:13:34+00:00",
+      "summary": "RT @JOYOURPAPARAZZI: #wato British citizens fighting in the #IDF are war criminals what happens t...",
+      "content": "RT @JOYOURPAPARAZZI: #wato British citizens fighting in the #IDF are war criminals what happens to them on their return to UK?",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T22:37:38.905691",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Rome",
+          "authorLocationName": "VIA REGGIO"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "eSSFsZWkRi22mfHyeYarKA",
+      "createdAt": "2014-09-01T22:33:51.923018"
+    },
+    {
+      "remoteID": "506565041026760705",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "fs_ealing",
+        "remoteID": "1638951108",
+        "image": "http://pbs.twimg.com/profile_images/378800000406467944/8677da3ffdb297962dc311e59cc78aca_normal.jpeg",
+        "name": "Fred"
+      },
+      "tags": [
+        {
+          "confidence": 1,
+          "name": "arrest"
+        }
+      ],
+      "publishedAt": "2014-09-01T22:11:31+00:00",
+      "summary": "@BBCNewsnight @lordcarlile should we not also arrest those fighting with the #IDF committing #War...",
+      "content": "@BBCNewsnight @lordcarlile should we not also arrest those fighting with the #IDF committing #WarCrimesInGaza ??",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T22:37:41.660564",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "London",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "nNsW65cRQaCQv2SLukP6VQ",
+      "createdAt": "2014-09-01T22:33:51.981712"
+    },
+    {
+      "remoteID": "506544685188657152",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "RisingRedStorm",
+        "remoteID": "48389713",
+        "image": "http://pbs.twimg.com/profile_images/2508021574/VgujRzN5_normal",
+        "name": "Ben Rothenberg"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T20:50:38+00:00",
+      "summary": "@BooAzizi @BruceNV @natashkazimina @iminthegulag @ChrisLoesch if U R gonna start a war, finish it...",
+      "content": "@BooAzizi @BruceNV @natashkazimina @iminthegulag @ChrisLoesch if U R gonna start a war, finish it.  #IDF heart attack http://t.co/q0l37MUVsU",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T21:12:51.536689",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Quito",
+          "authorLocationName": "Potomac MD"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "KiAvqfYaRpiWZz_J1QO4hw",
+      "createdAt": "2014-09-01T21:11:02.383178"
+    },
+    {
+      "remoteID": "506527025947893762",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "mukhtarkarim",
+        "remoteID": "48115692",
+        "image": "http://pbs.twimg.com/profile_images/378800000440331202/55ce4486ba69306db9d4ea01cd4867da_normal.jpeg",
+        "name": "Mukhtar Karim"
+      },
+      "tags": [
+        {
+          "confidence": 1,
+          "name": "armed-conflict"
+        },
+        {
+          "confidence": 1,
+          "name": "conflict"
+        },
+        {
+          "confidence": 1,
+          "name": "death"
+        }
+      ],
+      "publishedAt": "2014-09-01T19:40:28+00:00",
+      "summary": "@HamadaAlNafar @Farah_Gazan #school #Gaza #killed #war Psychological impact of #IDF #WarCrimes ca...",
+      "content": "@HamadaAlNafar @Farah_Gazan #school #Gaza #killed #war Psychological impact of #IDF #WarCrimes can't  be ignored for survivors of #genocide.",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T19:48:44.177055",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "London",
+          "authorLocationName": "United Kingdom"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "mEI-EC8PTS6HGYfs5vR2EA",
+      "createdAt": "2014-09-01T19:47:32.894204"
+    },
+    {
+      "remoteID": "506520761251946496",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "Namaa0009",
+        "remoteID": "177572935",
+        "image": "http://pbs.twimg.com/profile_images/479041905930412032/nNiNF1md_normal.jpeg",
+        "name": "Namaa Al-Mahdi نعماء"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T19:15:34+00:00",
+      "summary": "RT @JOYOURPAPARAZZI: #wato British citizens fighting in the #IDF are war criminals what happens t...",
+      "content": "RT @JOYOURPAPARAZZI: #wato British citizens fighting in the #IDF are war criminals what happens to them on their return to UK?",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T19:50:43.555358",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "London",
+          "authorLocationName": "London"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "wERDvY8xRf2gEUaFVoMr9g",
+      "createdAt": "2014-09-01T19:47:33.831523"
+    },
+    {
+      "remoteID": "506506136905056256",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "YaakovShmuel",
+        "remoteID": "2611221822",
+        "image": "http://pbs.twimg.com/profile_images/505440562615304192/6_LoaNyp_normal.jpeg",
+        "name": "Yaakov Shmuel"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T18:17:28+00:00",
+      "summary": "Final #Gaza war casualty laid to rest http://t.co/JOQywcA2Ay #IDF #tcot",
+      "content": "Final #Gaza war casualty laid to rest http://t.co/JOQywcA2Ay #IDF #tcot",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T18:27:50.950327",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Jerusalem",
+          "authorLocationName": "Israel, NY, SEA"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "0AK7df6sQcmMhdfliJwzCQ",
+      "createdAt": "2014-09-01T18:24:20.913854"
+    },
+    {
+      "remoteID": "506505051901530112",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "m1my4",
+        "remoteID": "2653777346",
+        "image": "http://pbs.twimg.com/profile_images/492645010446102529/2pkfilhz_normal.jpeg",
+        "name": "m1my"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T18:13:09+00:00",
+      "summary": "@RRTheProf Must be a popular 'joke' among #zionists #IDF? \n\"Richard Rammmm @RRTheProf\n@m1my4 Gaza...",
+      "content": "@RRTheProf Must be a popular 'joke' among #zionists #IDF? \n\"Richard Rammmm @RRTheProf\n@m1my4 Gaza practices birth control by war\"",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T18:28:18.218486",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Athens",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "ouAGgBiATdSsCIzUP3bzVQ",
+      "createdAt": "2014-09-01T18:24:20.980200"
+    },
+    {
+      "remoteID": "506495757500022784",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "cognitoergosum1",
+        "remoteID": "2625781828",
+        "image": "http://pbs.twimg.com/profile_images/502077644243206144/-sT77Fn-_normal.jpeg",
+        "name": "Svm"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T17:36:13+00:00",
+      "summary": "RT @Abbie_019: \"@Ben_Maloney: Will @David_Cameron's anti-terror measures cover British citizens w...",
+      "content": "RT @Abbie_019: \"@Ben_Maloney: Will @David_Cameron's anti-terror measures cover British citizens who travel to #Israel &amp; commit war crimes w…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T17:48:48.194659",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "JEWjusDQSCuavCorssby4Q",
+      "createdAt": "2014-09-01T17:45:59.476512"
+    },
+    {
+      "remoteID": "506494856449884160",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "MuslimWorldNet",
+        "remoteID": "1366098632",
+        "image": "http://pbs.twimg.com/profile_images/3550546834/3900998fcd69a687d058592da8f923cd_normal.png",
+        "name": "UmmahLink.org"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T17:32:38+00:00",
+      "summary": "RT @Abbie_019: \"@Ben_Maloney: Will @David_Cameron's anti-terror measures cover British citizens w...",
+      "content": "RT @Abbie_019: \"@Ben_Maloney: Will @David_Cameron's anti-terror measures cover British citizens who travel to #Israel &amp; commit war crimes w…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T17:48:48.889896",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": "@MuslimWorldNet"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "7kOxW7bNRIale_YSpaEYoQ",
+      "createdAt": "2014-09-01T17:45:59.519390"
+    },
+    {
+      "remoteID": "506494099705593856",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "ikhlaq_hussain",
+        "remoteID": "412630114",
+        "image": "http://pbs.twimg.com/profile_images/3210965690/ece7e0750368f1398ded5623539bcf06_normal.jpeg",
+        "name": "Ikhlaq Hussain"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T17:29:38+00:00",
+      "summary": "RT @JOYOURPAPARAZZI: #wato British citizens fighting in the #IDF are war criminals what happens t...",
+      "content": "RT @JOYOURPAPARAZZI: #wato British citizens fighting in the #IDF are war criminals what happens to them on their return to UK?",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T17:49:14.393449",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Casablanca",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "Wu35Iy3IShauk2pnuiTyNQ",
+      "createdAt": "2014-09-01T17:45:59.590517"
+    },
+    {
+      "remoteID": "506493325122478080",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "Abbie_019",
+        "remoteID": "320889494",
+        "image": "http://pbs.twimg.com/profile_images/505873653310169088/FwbFbVbP_normal.jpeg",
+        "name": "Abbie"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T17:26:33+00:00",
+      "summary": "\"@Ben_Maloney: Will @David_Cameron's anti-terror measures cover British citizens who travel to #I...",
+      "content": "\"@Ben_Maloney: Will @David_Cameron's anti-terror measures cover British citizens who travel to #Israel &amp; commit war crimes with the #IDF?\"",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T17:49:16.574271",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": "England"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "Uzddx2ZgS_Csn_1yi9b2vQ",
+      "createdAt": "2014-09-01T17:45:59.635609"
+    },
+    {
+      "remoteID": "506488827603468288",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "numanelbakri",
+        "remoteID": "965062788",
+        "image": "http://pbs.twimg.com/profile_images/452485843848933376/USegEWjW_normal.jpeg",
+        "name": "Nu'man El-Bakri"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T17:08:41+00:00",
+      "summary": "@AviMayer @LahavHarkov So grateful to  @pchrgaza @RaniaKhalek @jncatron @MaxBlumenthal @AliAbunim...",
+      "content": "@AviMayer @LahavHarkov So grateful to  @pchrgaza @RaniaKhalek @jncatron @MaxBlumenthal @AliAbunimah for documenting #IDF war crimes in #Gaza",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T17:50:02.341711",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Jerusalem",
+          "authorLocationName": "Pale Blue Dot "
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "yzIYxrdyRQycbOq4HNvKiA",
+      "createdAt": "2014-09-01T17:45:59.990944"
+    },
+    {
+      "remoteID": "506488485713559552",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "joelleyden",
+        "remoteID": "14383128",
+        "image": "http://pbs.twimg.com/profile_images/494510656792453120/IQ3X_1qP_normal.jpeg",
+        "name": "Joel Leyden"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T17:07:19+00:00",
+      "summary": "Why does #BlockTheBoat ignore war crimes of #ISIS? http://t.co/9Y29Nf1sO1\nBecause #BlockTheBoat i...",
+      "content": "Why does #BlockTheBoat ignore war crimes of #ISIS? http://t.co/9Y29Nf1sO1\nBecause #BlockTheBoat is #ISIS!\n#Hamas #Jihad #BDS #bdsfail #idf",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T17:07:59.218243",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": "Israel New York"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "8bry_wZES6ygXAwiLYD-GQ",
+      "createdAt": "2014-09-01T17:07:06.246407"
+    },
+    {
+      "remoteID": "506486720461021184",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "WorldAnonLegion",
+        "remoteID": "1561777309",
+        "image": "http://pbs.twimg.com/profile_images/505778132989644800/M5T0z7b-_normal.png",
+        "name": "Anonymous Legion"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T17:00:18+00:00",
+      "summary": "#Israel #zionism #zionist #illuminati #war #criminals\n\n#data: — #Reports on #IDF using Palestinia...",
+      "content": "#Israel #zionism #zionist #illuminati #war #criminals\n\n#data: — #Reports on #IDF using Palestinians as #human... http://t.co/aIWjGLDS0m",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T17:08:28.535971",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "London",
+          "authorLocationName": "Whole Universe"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "e7OUdQ0oQ4KzDV-dc5S06w",
+      "createdAt": "2014-09-01T17:07:06.543081"
+    },
+    {
+      "remoteID": "506451153694228480",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "diaahadid",
+        "remoteID": "14933370",
+        "image": "http://pbs.twimg.com/profile_images/378800000751059300/0886e1d443b3c5a56f9b3ab2874b39b1_normal.jpeg",
+        "name": "Diaa Hadid ضياء حديد"
+      },
+      "image": "http://pbs.twimg.com/media/BwO16EJIAAA8Qfi.jpg",
+      "tags": [],
+      "publishedAt": "2014-09-01T14:38:59+00:00",
+      "summary": "RT @NYTArchives: 75 years ago today, The Times reported Germany’s invasion of Poland—the start of...",
+      "content": "RT @NYTArchives: 75 years ago today, The Times reported Germany’s invasion of Poland—the start of World War II. http://t.co/Y9oeTiqJcT http…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T15:07:14.227826",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Santiago",
+          "authorLocationName": "Beirut, Lebanon"
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "IgTITZtFT8aupG8hAljlOQ",
+      "createdAt": "2014-09-01T15:07:35.668382"
+    },
+    {
+      "remoteID": "506442317398409216",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "Panteralandia",
+        "remoteID": "352739189",
+        "image": "http://pbs.twimg.com/profile_images/445426222818811904/CznzsDQD_normal.png",
+        "name": "Panteralandia"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T14:03:52+00:00",
+      "summary": "#Zionism #Israel #Zionist #illuminati #war #criminals #censorship\n\n#Video Shows #IDF #Snipers #Sh...",
+      "content": "#Zionism #Israel #Zionist #illuminati #war #criminals #censorship\n\n#Video Shows #IDF #Snipers #Shooting... http://t.co/Jb8dTnir30",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T14:32:51.383916",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Atlantic Time (Canada)",
+          "authorLocationName": "Puerto Rico"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "l6XuwdNaQRy7Om5fu50T5g",
+      "createdAt": "2014-09-01T14:22:53.755157"
+    },
+    {
+      "remoteID": "506441472309477376",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "ikwan_01",
+        "remoteID": "1585970245",
+        "image": "http://pbs.twimg.com/profile_images/378800000119359656/fea6c64de3a66ddc3c022b807d3759ba_normal.jpeg",
+        "name": "Free2SaySo"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T14:00:30+00:00",
+      "summary": ".@stscholasticas @benabyad  Jewish Zionist #IDF Kill #GAZA Children in @UN Safe Havens = WAR CRIM...",
+      "content": ".@stscholasticas @benabyad  Jewish Zionist #IDF Kill #GAZA Children in @UN Safe Havens = WAR CRIMES Says UN @SecGen Ban Ki-Moon @Number10gov",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T14:32:55.612869",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Amsterdam",
+          "authorLocationName": "Nemo_omeN"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "F_3qf7V1R4GXz29vggK0oQ",
+      "createdAt": "2014-09-01T14:22:53.784593"
+    },
+    {
+      "remoteID": "506440336458412032",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "SajidHashmi",
+        "remoteID": "92007530",
+        "image": "http://pbs.twimg.com/profile_images/497870651827699712/OPjKoj5C_normal.jpeg",
+        "name": "Sajid Hashmi MBE"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T13:56:00+00:00",
+      "summary": "RT @JOYOURPAPARAZZI: #wato British citizens fighting in the #IDF are war criminals what happens t...",
+      "content": "RT @JOYOURPAPARAZZI: #wato British citizens fighting in the #IDF are war criminals what happens to them on their return to UK?",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T14:33:14.890446",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "London",
+          "authorLocationName": "Manchester"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "xI6h2sL5TyOLQRz1aXsBzw",
+      "createdAt": "2014-09-01T14:22:53.879085"
+    },
+    {
+      "remoteID": "506425676350889984",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "TopMarksIT",
+        "remoteID": "76585241",
+        "image": "http://pbs.twimg.com/profile_images/3545294268/967753021d5f0eeae2f8993e55e45888_normal.jpeg",
+        "name": "Baffled Ape"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T12:57:44+00:00",
+      "summary": "RT @JOYOURPAPARAZZI: #wato British citizens fighting in the #IDF are war criminals what happens t...",
+      "content": "RT @JOYOURPAPARAZZI: #wato British citizens fighting in the #IDF are war criminals what happens to them on their return to UK?",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T14:37:48.371354",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "International Date Line West",
+          "authorLocationName": "UK Sussex - Near Here"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "KUpUyY9aSuCxAYR62uH4aw",
+      "createdAt": "2014-09-01T14:22:55.577500"
+    },
+    {
+      "remoteID": "506423761068105728",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "SketchBlog",
+        "remoteID": "28113401",
+        "image": "http://pbs.twimg.com/profile_images/464711045072683008/1TQsWQLO_normal.png",
+        "name": "David Sketchley"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T12:50:08+00:00",
+      "summary": "RT @JOYOURPAPARAZZI: #wato British citizens fighting in the #IDF are war criminals what happens t...",
+      "content": "RT @JOYOURPAPARAZZI: #wato British citizens fighting in the #IDF are war criminals what happens to them on their return to UK?",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T14:38:11.059899",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Madrid",
+          "authorLocationName": "Spain"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "6Q9Psz1aTh-tUY1PBvQacg",
+      "createdAt": "2014-09-01T14:22:55.684381"
+    },
+    {
+      "remoteID": "506423655442567169",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "FlatEarthGang",
+        "remoteID": "636186580",
+        "image": "http://pbs.twimg.com/profile_images/448547872984670208/S9eePEo0_normal.jpeg",
+        "name": "Sir CumVentDeMocracy"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T12:49:43+00:00",
+      "summary": "RT @JOYOURPAPARAZZI: #wato British citizens fighting in the #IDF are war criminals what happens t...",
+      "content": "RT @JOYOURPAPARAZZI: #wato British citizens fighting in the #IDF are war criminals what happens to them on their return to UK?",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T14:38:15.276600",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": "Paradise Lost, Australia "
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "7NmY9rePTxSmoxmt5NT-MA",
+      "createdAt": "2014-09-01T14:22:55.725853"
+    },
+    {
+      "remoteID": "506422612395065344",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "whedonworship",
+        "remoteID": "19395472",
+        "image": "http://pbs.twimg.com/profile_images/490657429655658496/dAh1L1Dv_normal.jpeg",
+        "name": "Fighty McGirldude"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T12:45:34+00:00",
+      "summary": "RT @JOYOURPAPARAZZI: #wato British citizens fighting in the #IDF are war criminals what happens t...",
+      "content": "RT @JOYOURPAPARAZZI: #wato British citizens fighting in the #IDF are war criminals what happens to them on their return to UK?",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T14:38:26.021736",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "London",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "NJrtqE5MT-y0W5LYaxW2eg",
+      "createdAt": "2014-09-01T14:22:55.768668"
+    },
+    {
+      "remoteID": "506421251595063296",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "DagmarNoble",
+        "remoteID": "488561271",
+        "image": "http://pbs.twimg.com/profile_images/2676851822/498f601001478f94615216c8716f1075_normal.jpeg",
+        "name": "Dagmar Noble"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T12:40:09+00:00",
+      "summary": "RT @JOYOURPAPARAZZI: #wato British citizens fighting in the #IDF are war criminals what happens t...",
+      "content": "RT @JOYOURPAPARAZZI: #wato British citizens fighting in the #IDF are war criminals what happens to them on their return to UK?",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T14:38:49.354611",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Hawaii",
+          "authorLocationName": "North Somerset UK"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "sz3zM9WmT3Cy2_VYx3UtsQ",
+      "createdAt": "2014-09-01T14:22:56.138622"
+    },
+    {
+      "remoteID": "506420417289285632",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "con_news",
+        "remoteID": "430245429",
+        "image": "http://pbs.twimg.com/profile_images/1872307755/cnnews_normal.jpg",
+        "name": "Contrast News"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T12:36:51+00:00",
+      "summary": "RT @KrustyAllslopp: #wato when is the issue of British Citizens fighting for #IDF committing pote...",
+      "content": "RT @KrustyAllslopp: #wato when is the issue of British Citizens fighting for #IDF committing potential war crimes going to be aired ?",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T14:39:32.458519",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "London",
+          "authorLocationName": "Rydych Chi Yma"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "EC_gLLhASKqdQmnupvZjlw",
+      "createdAt": "2014-09-01T14:22:56.398089"
+    },
+    {
+      "remoteID": "506419803809382400",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "mevdoc",
+        "remoteID": "315790350",
+        "image": "http://pbs.twimg.com/profile_images/458198157785309184/3f03ustv_normal.jpeg",
+        "name": "freedom35"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T12:34:24+00:00",
+      "summary": "RT @JOYOURPAPARAZZI: #wato British citizens fighting in the #IDF are war criminals what happens t...",
+      "content": "RT @JOYOURPAPARAZZI: #wato British citizens fighting in the #IDF are war criminals what happens to them on their return to UK?",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T14:40:02.819006",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Edinburgh",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "nMQWlI7FSoSf9-DYSHJsXg",
+      "createdAt": "2014-09-01T14:22:56.514724"
+    },
+    {
+      "remoteID": "506419695684431872",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "whedonworship",
+        "remoteID": "19395472",
+        "image": "http://pbs.twimg.com/profile_images/490657429655658496/dAh1L1Dv_normal.jpeg",
+        "name": "Fighty McGirldude"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T12:33:58+00:00",
+      "summary": "RT @KrustyAllslopp: #wato when is the issue of British Citizens fighting for #IDF committing pote...",
+      "content": "RT @KrustyAllslopp: #wato when is the issue of British Citizens fighting for #IDF committing potential war crimes going to be aired ?",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T14:40:10.063745",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "London",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "RYAOw1vkTvuuBPLZQ-gpIA",
+      "createdAt": "2014-09-01T14:22:56.544816"
+    },
+    {
+      "remoteID": "506419510031552512",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "tradiesplace",
+        "remoteID": "191058806",
+        "image": "http://pbs.twimg.com/profile_images/497196878593662976/aZPt2lD9_normal.jpeg",
+        "name": "_sidetracked"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T12:33:14+00:00",
+      "summary": "RT @JOYOURPAPARAZZI: #wato British citizens fighting in the #IDF are war criminals what happens t...",
+      "content": "RT @JOYOURPAPARAZZI: #wato British citizens fighting in the #IDF are war criminals what happens to them on their return to UK?",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T14:40:20.784026",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Melbourne",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "beysBHq8Q-GzdFaOZUVjtg",
+      "createdAt": "2014-09-01T14:22:56.575127"
+    },
+    {
+      "remoteID": "506419246839390209",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "Ennor1",
+        "remoteID": "56682485",
+        "image": "http://pbs.twimg.com/profile_images/3749634923/cc359fbf84cd6bcc63aad9fe1d30bb1e_normal.jpeg",
+        "name": "Barry Hodges"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T12:32:11+00:00",
+      "summary": "RT @JOYOURPAPARAZZI: #wato British citizens fighting in the #IDF are war criminals what happens t...",
+      "content": "RT @JOYOURPAPARAZZI: #wato British citizens fighting in the #IDF are war criminals what happens to them on their return to UK?",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T14:40:34.102828",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "London",
+          "authorLocationName": "Cornwall"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "d4FATXFBTPKGk91AOIrkUw",
+      "createdAt": "2014-09-01T14:22:56.638511"
+    },
+    {
+      "remoteID": "506419024046329857",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "DJSiri",
+        "remoteID": "55260264",
+        "image": "http://pbs.twimg.com/profile_images/2541246457/vdh3562hquzdq9d42aa6_normal.jpeg",
+        "name": "DJS"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T12:31:18+00:00",
+      "summary": "RT @JOYOURPAPARAZZI: #wato British citizens fighting in the #IDF are war criminals what happens t...",
+      "content": "RT @JOYOURPAPARAZZI: #wato British citizens fighting in the #IDF are war criminals what happens to them on their return to UK?",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T14:40:45.533807",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "London",
+          "authorLocationName": "Cambridge"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "0hdnJQjyQnWrf9bk6UQHfQ",
+      "createdAt": "2014-09-01T14:22:56.679064"
+    },
+    {
+      "remoteID": "506418899270008832",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "Ennor1",
+        "remoteID": "56682485",
+        "image": "http://pbs.twimg.com/profile_images/3749634923/cc359fbf84cd6bcc63aad9fe1d30bb1e_normal.jpeg",
+        "name": "Barry Hodges"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T12:30:49+00:00",
+      "summary": "RT @KrustyAllslopp: #wato when is the issue of British Citizens fighting for #IDF committing pote...",
+      "content": "RT @KrustyAllslopp: #wato when is the issue of British Citizens fighting for #IDF committing potential war crimes going to be aired ?",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T14:40:45.354483",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "London",
+          "authorLocationName": "Cornwall"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "VO2ZPk2hSly5jowZveFAxw",
+      "createdAt": "2014-09-01T14:22:56.713025"
+    },
+    {
+      "remoteID": "506418567861272577",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "JOYOURPAPARAZZI",
+        "remoteID": "75146395",
+        "image": "http://pbs.twimg.com/profile_images/459477297918386176/AhNJApVj_normal.jpeg",
+        "name": "joanne stowell"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T12:29:30+00:00",
+      "summary": "#wato British citizens fighting in the #IDF are war criminals what happens to them on their retur...",
+      "content": "#wato British citizens fighting in the #IDF are war criminals what happens to them on their return to UK?",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T14:40:48.807456",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "London",
+          "authorLocationName": "bristol"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "HDQ4FdiVQNqbajoey6P_dw",
+      "createdAt": "2014-09-01T14:22:56.760427"
+    },
+    {
+      "remoteID": "506418323962466304",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "Emran_Feroz",
+        "remoteID": "1027220612",
+        "image": "http://pbs.twimg.com/profile_images/444901499634593792/pxnh3yQO_normal.jpeg",
+        "name": "Emran Feroz"
+      },
+      "tags": [
+        {
+          "confidence": 1,
+          "name": "armed-conflict"
+        },
+        {
+          "confidence": 1,
+          "name": "conflict"
+        }
+      ],
+      "publishedAt": "2014-09-01T12:28:31+00:00",
+      "summary": "#IDF spox Arye Sharuz says #Jihad means \"holy war\" while he pretends to not know the guys in his ...",
+      "content": "#IDF spox Arye Sharuz says #Jihad means \"holy war\" while he pretends to not know the guys in his army who declared \"holy war\" on #Gaza.",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T14:41:07.597174",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": "Kabul, Tuebingen, Innsbruck"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "kuSyd608Rseu3JqfQ7XNSA",
+      "createdAt": "2014-09-01T14:22:56.841655"
+    },
+    {
+      "remoteID": "506417926644432896",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "KrustyAllslopp",
+        "remoteID": "213038249",
+        "image": "http://pbs.twimg.com/profile_images/378800000562016838/82c34da80ff627c668ca069f987dc66c_normal.png",
+        "name": "CallEineNow!"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T12:26:57+00:00",
+      "summary": "#wato when is the issue of British Citizens fighting for #IDF committing potential war crimes goi...",
+      "content": "#wato when is the issue of British Citizens fighting for #IDF committing potential war crimes going to be aired ?",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T14:41:15.000932",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Casablanca",
+          "authorLocationName": "Brixton Innit? "
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "TPL0YxdTTWy8QYPEvK2f0g",
+      "createdAt": "2014-09-01T14:22:56.911683"
+    },
+    {
+      "remoteID": "506394671313330176",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "AlertNet",
+        "remoteID": "15762575",
+        "image": "http://pbs.twimg.com/profile_images/492572880966647808/vkfuoXEt_normal.jpeg",
+        "name": "AlertNet"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T10:54:32+00:00",
+      "summary": "Bosnian police have detained 13 ex-policemen &amp; soldiers suspected of war crimes in 1992-95 wa...",
+      "content": "Bosnian police have detained 13 ex-policemen &amp; soldiers suspected of war crimes in 1992-95 war http://t.co/5ChEAX3i3y #bosnia",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T14:30:40.884208",
+      "entities": [
+        "General-conflict"
+      ],
+      "geo": {
+        "locationIdentifiers": {
+          "authorTimeZone": "London",
+          "authorLocationName": "Global"
+        },
+        "addressComponents": {
+          "adminArea1": "General-conflict",
+          "formattedAddress": "General-conflict"
+        }
+      },
+      "id": "2BHAgSnETZqlK-vLcFnWbw",
+      "createdAt": "2014-09-01T14:22:38.980561"
+    },
+    {
+      "remoteID": "506363594410573824",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "AlertNet",
+        "remoteID": "15762575",
+        "image": "http://pbs.twimg.com/profile_images/492572880966647808/vkfuoXEt_normal.jpeg",
+        "name": "AlertNet"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T08:51:03+00:00",
+      "summary": "#IslamicState committed war crimes, #Iraqi govt forces executed detainees &amp; shelled civilian ...",
+      "content": "#IslamicState committed war crimes, #Iraqi govt forces executed detainees &amp; shelled civilian areas, UN says http://t.co/gSqXewOo1W",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T09:10:41.567743",
+      "entities": [
+        "General-conflict"
+      ],
+      "geo": {
+        "locationIdentifiers": {
+          "authorTimeZone": "London",
+          "authorLocationName": "Global"
+        },
+        "addressComponents": {
+          "adminArea1": "General-conflict",
+          "formattedAddress": "General-conflict"
+        }
+      },
+      "id": "ZXBrVAXkQ1KPJ0xaMyJTfw",
+      "createdAt": "2014-09-01T09:09:19.602289"
+    },
+    {
+      "remoteID": "506341251218956288",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "ChanaOpert",
+        "remoteID": "2732244292",
+        "image": "http://pbs.twimg.com/profile_images/504968061867552769/MDG_b-tF_normal.jpeg",
+        "name": "chana opert"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T07:22:16+00:00",
+      "summary": "RT @TMGijane: MT Palestinian leader says #Hamas caused prolonged war http://t.co/Z2dlwlueWa #Isra...",
+      "content": "RT @TMGijane: MT Palestinian leader says #Hamas caused prolonged war http://t.co/Z2dlwlueWa #Israel #tcot #ccot #IDF",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T07:54:40.231774",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": "Cape Town South Africa"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "MdKGQFpuTeyRwhi9CDh4_Q",
+      "createdAt": "2014-09-01T07:52:28.705329"
+    },
+    {
+      "remoteID": "506338238970462208",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "ChanaOpert",
+        "remoteID": "2732244292",
+        "image": "http://pbs.twimg.com/profile_images/504968061867552769/MDG_b-tF_normal.jpeg",
+        "name": "chana opert"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T07:10:18+00:00",
+      "summary": "RT @MeHashoresh: @PaegPaige Thanks Paige. #netanyahu did indeed stop more then 10 times during th...",
+      "content": "RT @MeHashoresh: @PaegPaige Thanks Paige. #netanyahu did indeed stop more then 10 times during this war. Stopped #IDF from crushing #Hamas …",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T07:11:16.889175",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": "Cape Town South Africa"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "7iK1GaUUQle5enWYo7jjgw",
+      "createdAt": "2014-09-01T07:10:45.717774"
+    },
+    {
+      "remoteID": "506334441745428481",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "TMGijane",
+        "remoteID": "2317019724",
+        "image": "http://pbs.twimg.com/profile_images/495471632429756416/nG7pCjhL_normal.jpeg",
+        "name": "Theresa Giarratano"
+      },
+      "tags": [],
+      "publishedAt": "2014-09-01T06:55:12+00:00",
+      "summary": "MT Palestinian leader says #Hamas caused prolonged war http://t.co/Z2dlwlueWa #Israel #tcot #ccot...",
+      "content": "MT Palestinian leader says #Hamas caused prolonged war http://t.co/Z2dlwlueWa #Israel #tcot #ccot #IDF",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-09-01T07:11:48.066456",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": "Texan, all you need to know"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "uiVjPlsDR2CMVu6ZF0-T-A",
+      "createdAt": "2014-09-01T07:10:46.533629"
+    },
+    {
+      "remoteID": "506214420075511808",
+      "license": "twitter",
+      "language": {
+        "code": "da"
+      },
+      "author": {
+        "username": "RealWorldImage",
+        "remoteID": "22591580",
+        "image": "http://pbs.twimg.com/profile_images/481730632326729728/0RWzByfg_normal.jpeg",
+        "name": "Real World Image"
+      },
+      "contentEnglish": "Armed Israeli soldier. http://t.co/x1I9sez8LP #warzones #IDF #war #garymoorephotography #travel @RealWorldImage #Palestine",
+      "publishedAt": "2014-08-31T22:58:17+00:00",
+      "summary": "Armed Israeli soldier. http://t.co/x1I9sez8LP #warzones #IDF #war #garymoorephotography #travel @...",
+      "content": "Armed Israeli soldier. http://t.co/x1I9sez8LP #warzones #IDF #war #garymoorephotography #travel @RealWorldImage #Palestine",
+      "source": "twitter",
+      "tags": [],
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T23:02:22.296336",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Pacific Time (US & Canada)",
+          "authorLocationName": "Kelowna, British Columbia, Can"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "UK79bcnmRSyreGIAwzCM9Q",
+      "createdAt": "2014-08-31T23:02:07.341260"
+    },
+    {
+      "remoteID": "506181094949924864",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "bkh2f",
+        "remoteID": "57886729",
+        "image": "http://abs.twimg.com/sticky/default_profile_images/default_profile_5_normal.png",
+        "name": "Buck"
+      },
+      "tags": [],
+      "publishedAt": "2014-08-31T20:45:52+00:00",
+      "summary": "RT @AAhronheim: Druze #IDF soldiers return home from war to a heroes welcome  https://t.co/Jo2rTn...",
+      "content": "RT @AAhronheim: Druze #IDF soldiers return home from war to a heroes welcome  https://t.co/Jo2rTnfgNC #Gaza #Israel",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T21:09:22.960935",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Chennai",
+          "authorLocationName": "Twitter"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "xuxqOgjWRJi4v4NjwFJvLA",
+      "createdAt": "2014-08-31T21:05:28.039456"
+    },
+    {
+      "remoteID": "506167445355126784",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "jenanmoussa",
+        "remoteID": "148653311",
+        "image": "http://pbs.twimg.com/profile_images/378800000274022927/d420ae1535e1cb909ea95576273b5bc6_normal.jpeg",
+        "name": "Jenan Moussa"
+      },
+      "image": "http://pbs.twimg.com/media/BwZEm5fCAAA5Cux.jpg",
+      "tags": [],
+      "publishedAt": "2014-08-31T19:51:37+00:00",
+      "summary": "RT @Refugees Nearly half of all Syrians have been displaced by the ongoing war http://t.co/nCKORz...",
+      "content": "RT @Refugees Nearly half of all Syrians have been displaced by the ongoing war http://t.co/nCKORznZky http://t.co/Qds7EwN4Z3",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T20:25:15.172852",
+      "entities": [
+        "General-conflict"
+      ],
+      "geo": {
+        "locationIdentifiers": {
+          "authorTimeZone": "Istanbul",
+          "authorLocationName": "Currently Dubai, UAE"
+        },
+        "addressComponents": {
+          "adminArea1": "General-conflict",
+          "formattedAddress": "General-conflict"
+        }
+      },
+      "id": "Rnku9RrcSF6tF8FMbWCr_Q",
+      "createdAt": "2014-08-31T20:24:50.018265"
+    },
+    {
+      "remoteID": "506167440137416704",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "AAhronheim",
+        "remoteID": "821700726",
+        "image": "http://pbs.twimg.com/profile_images/505344954567114752/JUt_8QkU_normal.jpeg",
+        "name": "Anna Ahronheim"
+      },
+      "tags": [],
+      "publishedAt": "2014-08-31T19:51:36+00:00",
+      "summary": "Druze #IDF soldiers return home from war to a heroes welcome  https://t.co/Jo2rTnfgNC #Gaza #Israel",
+      "content": "Druze #IDF soldiers return home from war to a heroes welcome  https://t.co/Jo2rTnfgNC #Gaza #Israel",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T20:29:02.121058",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Atlantic Time (Canada)",
+          "authorLocationName": "Tel Aviv, Israel"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "fvpLp03qQZSr-beTMRh1mQ",
+      "createdAt": "2014-08-31T20:24:53.502921"
+    },
+    {
+      "remoteID": "506134427823775744",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "dovenews",
+        "remoteID": "254510335",
+        "image": "http://pbs.twimg.com/profile_images/471093916653981696/gVc6RNf1_normal.png",
+        "name": "Libyan™"
+      },
+      "image": "http://pbs.twimg.com/media/BwYBbcdIYAAUYHi.jpg",
+      "tags": [],
+      "publishedAt": "2014-08-31T17:40:25+00:00",
+      "summary": "RT @astroehlein: #Israel announces new land grab in occupied West Bank. New settlements = new war...",
+      "content": "RT @astroehlein: #Israel announces new land grab in occupied West Bank. New settlements = new war crimes. http://t.co/YqRPNmqsxA http://t.c…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T17:40:45.378462",
+      "entities": [
+        "Libya"
+      ],
+      "geo": {
+        "coords": [
+          18.043556213378906,
+          27.23609733581543
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Amsterdam",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Libya",
+          "formattedAddress": "Libya"
+        }
+      },
+      "id": "XkggRhXwQGW6v8_2Qq97Kw",
+      "createdAt": "2014-08-31T17:41:10.158905"
+    },
+    {
+      "remoteID": "506125487433732096",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "world_outback",
+        "remoteID": "2670408355",
+        "image": "http://pbs.twimg.com/profile_images/493829954904133633/NnHFVnBz_normal.jpeg",
+        "name": "WORLD OUTBACK NEWS"
+      },
+      "image": "http://pbs.twimg.com/media/BwYeco6CcAA1c-S.jpg",
+      "tags": [],
+      "publishedAt": "2014-08-31T17:04:54+00:00",
+      "summary": "Reports clean up in #Gaza City could take years after the #IDF and #Hamas 50 day war.   #auspol #...",
+      "content": "Reports clean up in #Gaza City could take years after the #IDF and #Hamas 50 day war.   #auspol #UK #England #Africa http://t.co/p6po2odlCX",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T17:47:22.522840",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Sydney",
+          "authorLocationName": "Australia"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "-DB4lO6OTwOVwSMjQdDP0g",
+      "createdAt": "2014-08-31T17:41:20.203255"
+    },
+    {
+      "remoteID": "506125072533577730",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "YaakovShmuel",
+        "remoteID": "2611221822",
+        "image": "http://pbs.twimg.com/profile_images/505440562615304192/6_LoaNyp_normal.jpeg",
+        "name": "Yaakov Shmuel"
+      },
+      "tags": [],
+      "publishedAt": "2014-08-31T17:03:15+00:00",
+      "summary": "#Israeli #Druze soldiers welcomed back by their community after the war: http://t.co/vK1x6WnuOf …...",
+      "content": "#Israeli #Druze soldiers welcomed back by their community after the war: http://t.co/vK1x6WnuOf … #IDF",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T17:47:21.822490",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Jerusalem",
+          "authorLocationName": "Israel, NY, SEA"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "DoZw8sMyTmaOyVz9ax6QfA",
+      "createdAt": "2014-08-31T17:41:20.242543"
+    },
+    {
+      "remoteID": "506110463953096704",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "MiddleEast_BRK",
+        "remoteID": "428140124",
+        "image": "http://pbs.twimg.com/profile_images/484449701052162048/izaDavrV_normal.png",
+        "name": "ConflictReporter"
+      },
+      "image": "http://pbs.twimg.com/media/BwV3KkdIEAAODEt.jpg",
+      "tags": [],
+      "publishedAt": "2014-08-31T16:05:12+00:00",
+      "summary": "RT @PeVaitiek: Only decisive actions of Europe can stop President Putin from further escalation o...",
+      "content": "RT @PeVaitiek: Only decisive actions of Europe can stop President Putin from further escalation of the war in Europe http://t.co/FGs7JZJM5Y",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T16:17:49.674983",
+      "entities": [
+        "General-conflict"
+      ],
+      "geo": {
+        "locationIdentifiers": {
+          "authorTimeZone": "Berlin",
+          "authorLocationName": "Germany"
+        },
+        "addressComponents": {
+          "adminArea1": "General-conflict",
+          "formattedAddress": "General-conflict"
+        }
+      },
+      "id": "vqBwbmIxTtmd9r1QTW9pkw",
+      "createdAt": "2014-08-31T16:16:25.893179"
+    },
+    {
+      "remoteID": "506107225363185665",
+      "license": "twitter",
+      "language": {
+        "code": "de"
+      },
+      "author": {
+        "username": "jsaic",
+        "remoteID": "75553067",
+        "image": "http://pbs.twimg.com/profile_images/500476017840893953/-wHv2DVv_normal.jpeg",
+        "name": "#R4BIA SELÂM"
+      },
+      "contentEnglish": "gideonlevy \". Nobody d.während #Gaza -Kämpfe v #IDF killed id #Westbank was armed od.verdiente to die\" http://t.co/QeqhfZtikq",
+      "publishedAt": "2014-08-31T15:52:20+00:00",
+      "summary": "@gideonlevy: \"Keiner d.während #Gaza -Kämpfe v. #IDF Getöteten i.d. #Westbank war bewaffnet od.ve...",
+      "content": "@gideonlevy: \"Keiner d.während #Gaza -Kämpfe v. #IDF Getöteten i.d. #Westbank war bewaffnet od.verdiente zu sterben\" http://t.co/QeqhfZtikq",
+      "source": "twitter",
+      "tags": [
+        {
+          "confidence": 1,
+          "name": "armed-conflict"
+        },
+        {
+          "confidence": 1,
+          "name": "conflict"
+        },
+        {
+          "confidence": 1,
+          "name": "death"
+        }
+      ],
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T16:23:45.210474",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Ljubljana",
+          "authorLocationName": "Hamburg"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "3K3F0JI_T6-cYDRmnHmV1Q",
+      "createdAt": "2014-08-31T16:16:31.856930"
+    },
+    {
+      "remoteID": "506101904460353537",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "THE_47th",
+        "remoteID": "22741371",
+        "image": "http://pbs.twimg.com/profile_images/2402183369/image_normal.jpg",
+        "name": "The 47th"
+      },
+      "image": "http://pbs.twimg.com/media/BwWe0IlIUAATWDx.jpg",
+      "tags": [],
+      "publishedAt": "2014-08-31T15:31:11+00:00",
+      "summary": "RT @Raseef22: Reality-check: Both #Hamas &amp; #Israel lost the Gaza war→http://t.co/KSmZYVZUbR h...",
+      "content": "RT @Raseef22: Reality-check: Both #Hamas &amp; #Israel lost the Gaza war→http://t.co/KSmZYVZUbR http://t.co/XxmTbxKP8X",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T16:16:21.938410",
+      "entities": [
+        "Syria"
+      ],
+      "geo": {
+        "coords": [
+          38.473472595214844,
+          35.03312683105469
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": "Syria "
+        },
+        "addressComponents": {
+          "adminArea1": "Syria",
+          "formattedAddress": "Syria"
+        }
+      },
+      "id": "dgQ19ErXRf2mq2-VAtVNAg",
+      "createdAt": "2014-08-31T16:16:24.365014"
+    },
+    {
+      "remoteID": "506077170637086723",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "bobmcgeestar",
+        "remoteID": "2457912108",
+        "image": "http://pbs.twimg.com/profile_images/461455841200050176/BKVIEHml_normal.jpeg",
+        "name": "bobstar"
+      },
+      "image": "http://pbs.twimg.com/media/BwXrMUACAAAYpR1.jpg",
+      "tags": [],
+      "publishedAt": "2014-08-31T13:52:54+00:00",
+      "summary": "RT @world_outback: Reports clean up from the #IDF and #Hamas 50 day War in #Gaza City could take ...",
+      "content": "RT @world_outback: Reports clean up from the #IDF and #Hamas 50 day War in #Gaza City could take years.    #auspol #Palestine #Israel http:…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T14:09:45.965339",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Canberra",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "o5wltFMdQpee-fPu8zChAQ",
+      "createdAt": "2014-08-31T14:04:14.984285"
+    },
+    {
+      "remoteID": "506075930234605568",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "Kalman_A",
+        "remoteID": "461202814",
+        "image": "http://pbs.twimg.com/profile_images/1748058206/Aaron_Kalman_normal.JPG",
+        "name": "Aaron Kalman"
+      },
+      "tags": [],
+      "publishedAt": "2014-08-31T13:47:58+00:00",
+      "summary": "War in #Syria continues to spill into #Israel as #IDF shoots down drone near border http://t.co/l...",
+      "content": "War in #Syria continues to spill into #Israel as #IDF shoots down drone near border http://t.co/lbehveZ7lD via @TimesofIsrael",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T14:10:34.208635",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Baghdad",
+          "authorLocationName": "Sydney"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "kNpkv3FWRo2YU7_ZBsgWjQ",
+      "createdAt": "2014-08-31T14:04:15.221967"
+    },
+    {
+      "remoteID": "506074355827089408",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "worldoutbackPR",
+        "remoteID": "2725742934",
+        "image": "http://pbs.twimg.com/profile_images/505800265996304384/5-KqSfeM_normal.jpeg",
+        "name": "PR WorldOutback News"
+      },
+      "image": "http://pbs.twimg.com/media/BwXrMUACAAAYpR1.jpg",
+      "tags": [],
+      "publishedAt": "2014-08-31T13:41:43+00:00",
+      "summary": "RT @world_outback: Reports clean up from the #IDF and #Hamas 50 day War in #Gaza City could take ...",
+      "content": "RT @world_outback: Reports clean up from the #IDF and #Hamas 50 day War in #Gaza City could take years.    #auspol #Palestine #Israel http:…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T14:11:24.255214",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": "Australia"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "AaH4M_mSSa2sAoxDsQjHiw",
+      "createdAt": "2014-08-31T14:04:15.488860"
+    },
+    {
+      "remoteID": "506073441532145665",
+      "license": "twitter",
+      "language": {
+        "code": "nl"
+      },
+      "author": {
+        "username": "Tioen_V",
+        "remoteID": "372454591",
+        "image": "http://pbs.twimg.com/profile_images/378800000638518104/04482c0807b0504396427ee0090cadcc_normal.jpeg",
+        "name": "Leontine Vandenbussc"
+      },
+      "contentEnglish": "RTRWulgaert: Israeli army #IDF 866 people shot down in West Bank. No conflict, war, tunnels, media ... as in #Gaza. Simply, o ...",
+      "publishedAt": "2014-08-31T13:38:05+00:00",
+      "summary": "RT @RWulgaert: Israëlisch leger #IDF schoot 866 mensen neer in West Bank. Geen conflict, oorlog, ...",
+      "content": "RT @RWulgaert: Israëlisch leger #IDF schoot 866 mensen neer in West Bank. Geen conflict, oorlog, tunnels, media...zoals in #Gaza. Gewoon, o…",
+      "source": "twitter",
+      "tags": [
+        {
+          "confidence": 1,
+          "name": "armed-conflict"
+        },
+        {
+          "confidence": 1,
+          "name": "conflict"
+        }
+      ],
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T14:12:14.276220",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Hawaii",
+          "authorLocationName": "België"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "RvcQrwchQ6CzEzOHEM4jiw",
+      "createdAt": "2014-08-31T14:04:15.760911"
+    },
+    {
+      "remoteID": "506069267591471104",
+      "license": "twitter",
+      "language": {
+        "code": "nl"
+      },
+      "author": {
+        "username": "RWulgaert",
+        "remoteID": "2210838097",
+        "image": "http://pbs.twimg.com/profile_images/457083410242998272/PQ8Yi00k_normal.jpeg",
+        "name": "Robbe Wulgaert"
+      },
+      "contentEnglish": "Israeli army #IDF shot down 866 people in West Bank. No conflict, war, tunnels, media ... as in #Gaza. Simply because it could.",
+      "publishedAt": "2014-08-31T13:21:30+00:00",
+      "summary": "Israëlisch leger #IDF schoot 866 mensen neer in West Bank. Geen conflict, oorlog, tunnels, media....",
+      "content": "Israëlisch leger #IDF schoot 866 mensen neer in West Bank. Geen conflict, oorlog, tunnels, media...zoals in #Gaza. Gewoon, omdat het kon.",
+      "source": "twitter",
+      "tags": [
+        {
+          "confidence": 1,
+          "name": "armed-conflict"
+        },
+        {
+          "confidence": 1,
+          "name": "conflict"
+        }
+      ],
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T13:24:52.604308",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": "Brugge"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "L9NxYgp1QLK5XrwJ13fASA",
+      "createdAt": "2014-08-31T13:24:04.145959"
+    },
+    {
+      "remoteID": "506069131934699521",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "world_outback",
+        "remoteID": "2670408355",
+        "image": "http://pbs.twimg.com/profile_images/493829954904133633/NnHFVnBz_normal.jpeg",
+        "name": "WORLD OUTBACK NEWS"
+      },
+      "image": "http://pbs.twimg.com/media/BwXrMUACAAAYpR1.jpg",
+      "tags": [],
+      "publishedAt": "2014-08-31T13:20:58+00:00",
+      "summary": "Reports clean up from the #IDF and #Hamas 50 day War in #Gaza City could take years.    #auspol #...",
+      "content": "Reports clean up from the #IDF and #Hamas 50 day War in #Gaza City could take years.    #auspol #Palestine #Israel http://t.co/rJ9J8CkN2f",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T13:25:01.638759",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Sydney",
+          "authorLocationName": "Australia"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "IBWWyPTnRYuisHsx1CawNQ",
+      "createdAt": "2014-08-31T13:24:04.175634"
+    },
+    {
+      "remoteID": "506064934586052608",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "ProfRayKinsella",
+        "remoteID": "1010182364",
+        "image": "http://pbs.twimg.com/profile_images/2972962923/b1e7796e3e112e2bae42cd34d8853ebc_normal.jpeg",
+        "name": "Ray Kinsella"
+      },
+      "tags": [],
+      "publishedAt": "2014-08-31T13:04:17+00:00",
+      "summary": "@RabbiKenCohen @Holly_Da \nRespect #Rabbi,but #IDF/#Netanyahu paranoid: possible to criticise #Net...",
+      "content": "@RabbiKenCohen @Holly_Da \nRespect #Rabbi,but #IDF/#Netanyahu paranoid: possible to criticise #Netanyahu war decisions + not be antisemitic",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T13:26:36.835130",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Dublin",
+          "authorLocationName": "Wicklow"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "aW9YMY6JS_SYeRTybC2xAQ",
+      "createdAt": "2014-08-31T13:24:04.782912"
+    },
+    {
+      "remoteID": "506063547290222592",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "PaegPaige",
+        "remoteID": "2615246328",
+        "image": "http://pbs.twimg.com/profile_images/502239744517226496/Dh7efENJ_normal.jpeg",
+        "name": "Paige"
+      },
+      "tags": [],
+      "publishedAt": "2014-08-31T12:58:46+00:00",
+      "summary": "RT @MeHashoresh: @PaegPaige Thanks Paige. #netanyahu did indeed stop more then 10 times during th...",
+      "content": "RT @MeHashoresh: @PaegPaige Thanks Paige. #netanyahu did indeed stop more then 10 times during this war. Stopped #IDF from crushing #Hamas …",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T13:27:43.940200",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "kJjTkhHGSnKvDa-bOHLWow",
+      "createdAt": "2014-08-31T13:24:05.162210"
+    },
+    {
+      "remoteID": "506061698503938048",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "MeHashoresh",
+        "remoteID": "2756173350",
+        "image": "http://pbs.twimg.com/profile_images/502902611893157889/-s9Q5eOG_normal.png",
+        "name": "Mehashoresh"
+      },
+      "tags": [],
+      "publishedAt": "2014-08-31T12:51:25+00:00",
+      "summary": "@PaegPaige Thanks Paige. #netanyahu did indeed stop more then 10 times during this war. Stopped #...",
+      "content": "@PaegPaige Thanks Paige. #netanyahu did indeed stop more then 10 times during this war. Stopped #IDF from crushing #Hamas to surrender.",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T13:28:33.484012",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": "ישראל"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "bJJi0cAoSGGMjbg3yEIUZg",
+      "createdAt": "2014-08-31T13:24:05.410582"
+    },
+    {
+      "remoteID": "506030249197318145",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "OrBVIOUS66",
+        "remoteID": "204043844",
+        "image": "http://pbs.twimg.com/profile_images/3154220822/e53d44eacddbcaf127c614faa24045a0_normal.jpeg",
+        "name": "El Guapo Plethora"
+      },
+      "tags": [],
+      "publishedAt": "2014-08-31T10:46:27+00:00",
+      "summary": "RT @kimworldwide: #Auspol“@SplottDave: @OrBVIOUS66  2,000+ American citizens were involved in the...",
+      "content": "RT @kimworldwide: #Auspol“@SplottDave: @OrBVIOUS66  2,000+ American citizens were involved in the 'war' i.e. slaughter, on #Gaza as members…",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T10:47:39.627130",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Madrid",
+          "authorLocationName": "Global Insane Asylum"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "7Fk6w-INQ9Sj5GQjdfq9Jg",
+      "createdAt": "2014-08-31T10:45:04.275770"
+    },
+    {
+      "remoteID": "506028801801719808",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "kimworldwide",
+        "remoteID": "88547503",
+        "image": "http://pbs.twimg.com/profile_images/1365701623/mung_copy_2_normal.jpg",
+        "name": "kimworldwide "
+      },
+      "tags": [],
+      "publishedAt": "2014-08-31T10:40:42+00:00",
+      "summary": "#Auspol“@SplottDave: @OrBVIOUS66  2,000+ American citizens were involved in the 'war' i.e. slaugh...",
+      "content": "#Auspol“@SplottDave: @OrBVIOUS66  2,000+ American citizens were involved in the 'war' i.e. slaughter, on #Gaza as members of #Israel  #IDF.”",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T10:48:26.187843",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Hawaii",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "zJibR-0nRQ6J4utq6J6U5A",
+      "createdAt": "2014-08-31T10:45:04.566743"
+    },
+    {
+      "remoteID": "506024373749555200",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "MiddleEast_BRK",
+        "remoteID": "428140124",
+        "image": "http://pbs.twimg.com/profile_images/484449701052162048/izaDavrV_normal.png",
+        "name": "ConflictReporter"
+      },
+      "tags": [],
+      "publishedAt": "2014-08-31T10:23:06+00:00",
+      "summary": "if true, Poroshenko and Ukraine are surrendering, seeing they have no chance to win the war again...",
+      "content": "if true, Poroshenko and Ukraine are surrendering, seeing they have no chance to win the war against Russia or only hold back its offensive.",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T10:46:49.100398",
+      "entities": [
+        "General-conflict"
+      ],
+      "geo": {
+        "locationIdentifiers": {
+          "authorTimeZone": "Berlin",
+          "authorLocationName": "Germany"
+        },
+        "addressComponents": {
+          "adminArea1": "General-conflict",
+          "formattedAddress": "General-conflict"
+        }
+      },
+      "id": "vvc25Xt3TeKLx8K1hOdumQ",
+      "createdAt": "2014-08-31T10:45:01.532186"
+    },
+    {
+      "remoteID": "506004103999537152",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "NSydenham",
+        "remoteID": "1493890585",
+        "image": "http://pbs.twimg.com/profile_images/3776533335/9861b126ed164653075f2df6e3b8781c_normal.jpeg",
+        "name": "Number87"
+      },
+      "tags": [],
+      "publishedAt": "2014-08-31T09:02:34+00:00",
+      "summary": "@lex_looper @chunkymark Get ready for another false flag, to step the war machine up into full fu...",
+      "content": "@lex_looper @chunkymark Get ready for another false flag, to step the war machine up into full fucking gear! #CIA  #IDF #ISIS",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T09:30:46.774325",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": null,
+          "authorLocationName": "Newcastle upon Tyne"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "2LW_K4sgTg6--yln2VuEdA",
+      "createdAt": "2014-08-31T09:27:41.473154"
+    },
+    {
+      "remoteID": "505957306534621184",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "mcohencorasanti",
+        "remoteID": "319201280",
+        "image": "http://pbs.twimg.com/profile_images/2719104671/b811cc023e95b63de58f25a6e57839a4_normal.jpeg",
+        "name": "Michelle Corasanti"
+      },
+      "tags": [],
+      "publishedAt": "2014-08-31T05:56:36+00:00",
+      "summary": "RT @GypsyDesert: #Palestinians to #UN, #Western states: Try citizens who served in the #IDF for w...",
+      "content": "RT @GypsyDesert: #Palestinians to #UN, #Western states: Try citizens who served in the #IDF for war crimes http://t.co/J3wKozlmDD",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T06:06:14.822080",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Eastern Time (US & Canada)",
+          "authorLocationName": ""
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "Rxy0mrGDRfyTvqQa-o4iGg",
+      "createdAt": "2014-08-31T06:04:49.854926"
+    },
+    {
+      "remoteID": "505955492422627329",
+      "license": "twitter",
+      "language": {
+        "code": "en"
+      },
+      "author": {
+        "username": "The_Almond_Tree",
+        "remoteID": "1661026015",
+        "image": "http://pbs.twimg.com/profile_images/378800000587772568/3f946f0b787dbe3d37246f64ecfe1456_normal.jpeg",
+        "name": "The Almond Tree"
+      },
+      "tags": [],
+      "publishedAt": "2014-08-31T05:49:24+00:00",
+      "summary": "RT @GypsyDesert: #Palestinians to #UN, #Western states: Try citizens who served in the #IDF for w...",
+      "content": "RT @GypsyDesert: #Palestinians to #UN, #Western states: Try citizens who served in the #IDF for war crimes http://t.co/J3wKozlmDD",
+      "source": "twitter",
+      "lifespan": "temporary",
+      "updatedAt": "2014-08-31T06:07:03.125888",
+      "entities": [
+        "Palestine",
+        "Ofra",
+        "Israel"
+      ],
+      "geo": {
+        "coords": [
+          35.259735107421875,
+          31.946392059326172
+        ],
+        "locationIdentifiers": {
+          "authorTimeZone": "Chennai",
+          "authorLocationName": "New York"
+        },
+        "addressComponents": {
+          "adminArea1": "Israel",
+          "streetAddress": "Street",
+          "formattedAddress": "Street, Ofra, Israel",
+          "adminArea5": "Ofra"
+        }
+      },
+      "id": "woIHGuudRui_8aLSETE9qw",
+      "createdAt": "2014-08-31T06:04:50.126026"
     }
   ]
 }
