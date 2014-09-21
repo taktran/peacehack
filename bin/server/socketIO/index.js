@@ -77,6 +77,7 @@ function sendMessage(io, message, type, index) {
     type: type,
     msgIndex: index,
     sentiment: sentimentVal,
+    sentimentScore: sentimentVal.score,
     color: color
   });
 }
