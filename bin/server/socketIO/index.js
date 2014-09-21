@@ -6,11 +6,45 @@ var sentiment = require('sentiment');
 var MIN_DELAY_TIME = 3 * 1000; // 10s
 var MAX_DELAY_TIME = 10 * 1000; // 10s
 
-function randomColor(lightId) {
-  return spark.randomLight(lightId).then(function(data) {
+// function randomColor(lightId) {
+//   return spark.randomLight(lightId).then(function(data) {
+//     // Do nothing
+//   }, function(e) {
+//     console.error("random error", e);
+//   });
+// }
+
+function changeColor(lightId, color) {
+  return spark.changeLight(lightId, color).then(function(data) {
+    console.log(data);
   }, function(e) {
-    console.error("random error", e);
+    console.error("color change error", e);
   });
+}
+
+function changeSentimentColor(lightId, sentimentVal) {
+  if (sentimentVal < 0) {
+    // Turn red
+    changeColor(lightId, {
+      r: 137,
+      g: 0,
+      b: 0
+    });
+  } else if (sentimentVal === 0) {
+    // Turn white
+    changeColor(lightId, {
+      r: 150,
+      g: 150,
+      b: 150
+    });
+  } else if (sentimentVal > 0) {
+    // Turn blue
+    changeColor(lightId, {
+      r: 2,
+      g: 116,
+      b: 143
+    });
+  }
 }
 
 function sendMessage(io, message, type, index) {
@@ -24,10 +58,11 @@ function sendMessage(io, message, type, index) {
     sentiment: sentimentVal
   });
 
+  // TODO: Change to currently selected
   if (type === "war") {
-    randomColor("1");
+    changeSentimentColor("1", sentimentVal.score);
   } else if (type === "peace") {
-    randomColor("2");
+    changeSentimentColor("2", sentimentVal.score);
   }
 }
 
