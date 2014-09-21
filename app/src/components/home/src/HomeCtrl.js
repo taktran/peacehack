@@ -27,6 +27,14 @@ angular.module('app').controller('HomeCtrl', function(
     type2: $scope.msgTypes[1],
   };
 
+  $scope.bgColor = function(color) {
+    if (!_.isObject(color)) {
+      return "";
+    }
+
+    return "background-color: rgb(" + color.r + "," + color.g + "," + color.b + ");";
+  };
+
   $scope.$watch('currentMsgType', function() {
     // Hide all
     _.each($scope.show, function(val, key) {
