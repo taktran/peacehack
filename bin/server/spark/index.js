@@ -60,18 +60,18 @@ module.exports = {
       }, function(error, response, body) {
         if (error || response.statusCode !== HTTP_OK) {
           deferred.reject(helpers.errorMessage(url, error, response, body));
-        }
+        } else {
+          try {
+            var parsedBody = JSON.parse(body);
+            var result = JSON.parse(parsedBody.result);
+            var resultResp = helpers.successResponse(result);
 
-        try {
-          var parsedBody = JSON.parse(body);
-          var result = JSON.parse(parsedBody.result);
-          var resultResp = helpers.successResponse(result);
+            // server.log(["debug", "getLightColor"], "Response (" +  response.statusCode + "): " + parsedBody.result);
 
-          // server.log(["debug", "getLightColor"], "Response (" +  response.statusCode + "): " + parsedBody.result);
-
-          deferred.resolve(resultResp);
-        } catch(e) {
-          deferred.reject(helpers.errorMessage(url, e, response, body));
+            deferred.resolve(resultResp);
+          } catch(e) {
+            deferred.reject(helpers.errorMessage(url, e, response, body));
+          }
         }
       });
     } else {
@@ -101,12 +101,12 @@ module.exports = {
         timeout: REQUEST_TIMEOUT
       }, function(error, response, body) {
         if (error || response.statusCode !== HTTP_OK) {
-          deferred(helpers.errorMessage(url, error, response, body));
+          deferred.reject(helpers.errorMessage(url, error, response, body));
+        } else {
+          // server.log(["debug", "changeLight"], "Response (" +  response.statusCode + "): " + body);
+
+          deferred.resolve(helpers.successResponse());
         }
-
-        // server.log(["debug", "changeLight"], "Response (" +  response.statusCode + "): " + body);
-
-        deferred.resolve(helpers.successResponse());
       });
     } else {
       deferred.reject("Invalid light id: " + lightId);
@@ -142,12 +142,13 @@ module.exports = {
         timeout: REQUEST_TIMEOUT
       }, function(error, response, body) {
         if (error || response.statusCode !== HTTP_OK) {
-          deferred(helpers.errorMessage(url, error, response, body));
+
+          deferred.reject(helpers.errorMessage(url, error, response, body));
+        } else {
+          // server.log(["debug", "changeLight"], "Response (" +  response.statusCode + "): " + body);
+
+          deferred.resolve(helpers.successResponse(color));
         }
-
-        // server.log(["debug", "changeLight"], "Response (" +  response.statusCode + "): " + body);
-
-        deferred.resolve(helpers.successResponse(color));
       });
     } else {
       deferred.reject("Invalid light id: " + lightId);

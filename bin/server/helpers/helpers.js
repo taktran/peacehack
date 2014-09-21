@@ -1,6 +1,8 @@
+var _ = require('lodash');
+
 module.exports = {
   errorMessage: function(url, error, response, body) {
-    var statusCode = response ? response.statusCode : "[response undefined]";
+    var statusCode = _.isObject(response) ? response.statusCode : "[response undefined]";
 
     return url +
       "\nerror: " + error +
