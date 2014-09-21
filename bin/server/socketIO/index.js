@@ -23,47 +23,62 @@ function changeColor(lightId, color) {
 }
 
 function changeSentimentColor(lightId, sentimentVal) {
+  var color;
+
   if (sentimentVal < 0) {
     // Turn red
-    changeColor(lightId, {
+    color = {
       r: 137,
       g: 0,
       b: 0
-    });
+    };
   } else if (sentimentVal === 0) {
     // Turn white
-    changeColor(lightId, {
+    color = {
       r: 150,
       g: 150,
       b: 150
-    });
+    };
   } else if (sentimentVal > 0) {
     // Turn blue
-    changeColor(lightId, {
+    color = {
       r: 2,
       g: 116,
       b: 143
-    });
+    };
+  } else {
+    // Black
+    color = {
+      r: 0,
+      g: 0,
+      b: 0
+    };
   }
+
+  changeColor(lightId, color);
+
+  return color;
 }
 
 function sendMessage(io, message, type, index) {
   var msgTitle = 'msg:' + type;
   var sentimentVal = sentiment(message.content);
+  var color;
+
+  // TODO: Change to currently selected
+  if (type === "war") {
+    color = changeSentimentColor("1", sentimentVal.score);
+  } else if (type === "peace") {
+    color = changeSentimentColor("2", sentimentVal.score);
+  }
 
   io.emit(msgTitle, {
     msg: message,
     type: type,
     msgIndex: index,
-    sentiment: sentimentVal
+    sentiment: sentimentVal,
+    color: color
   });
-
-  // TODO: Change to currently selected
-  if (type === "war") {
-    changeSentimentColor("1", sentimentVal.score);
-  } else if (type === "peace") {
-    changeSentimentColor("2", sentimentVal.score);
-  }
 }
 
 function trickleData(io, data, type) {
