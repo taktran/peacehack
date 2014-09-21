@@ -24,5 +24,14 @@
   .content {
     clear: both;
     padding: 20px;
+
+    min-height: 200px;
+    text-align: center;
+  }
+
+  .sentiment {
+    text-indent: -9999px;
+    margin: 0 20px;
+    height: 5px;
   }
 }
