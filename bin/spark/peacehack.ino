@@ -8,6 +8,7 @@
 
 // Set pin numbers
 const int buttonPin = D0;
+const int touchSensor = A5;
 
 const int rgbRedPin = A0;
 const int rgbGreenPin = A1;
@@ -17,6 +18,12 @@ const int HTTP_OK = 200;
 
 int buttonState = 0; // variable for reading the pushbutton status
 int prevButtonState = buttonState;
+
+float touchSensorVal = 0;
+
+// When to register that the touch sensor is triggered.
+// Manually calculated
+float touchSensorActivationValue = 800;
 
 int rgbRed = 0;
 int rgbGreen = 0;
@@ -126,6 +133,9 @@ void setup() {
   // Initialize the pushbutton pin as an input
   pinMode(buttonPin, INPUT);
 
+  // Initialize the touch sensor as an input
+  pinMode(touchSensor, INPUT);
+
   // Initialize RGB LEDs
   pinMode(rgbRedPin, OUTPUT);
   pinMode(rgbGreenPin, OUTPUT);
@@ -136,6 +146,11 @@ void setup() {
 }
 
 void loop() {
+  touchSensorVal = analogRead(touchSensor);
+  if (touchSensorVal < touchSensorActivationValue) {
+    Serial.println(touchSensorVal);
+  }
+
   // Store previous button state
   prevButtonState = buttonState;
 
